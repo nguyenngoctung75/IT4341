@@ -8,7 +8,7 @@ DB_CONFIG = {
     'host': 'localhost',
     'database': 'convenience_store_db',
     'user': 'root',
-    'password': 'password'
+    'password': '07052004'
 }
 
 # Optimization Parameters

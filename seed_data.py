@@ -1,4 +1,5 @@
 import random
+import pandas as pd
 from faker import Faker
 from database import Database
 import mysql.connector
@@ -8,32 +9,99 @@ DB_CONFIG = {
     'host': 'localhost',
     'database': 'convenience_store_db',
     'user': 'root',
-    'password': 'password'
+    'password': '07052004'
 }
 
 fake = Faker('vi_VN')
 
+def create_database_if_not_exists():
+    print("Checking database...")
+    try:
+        conn = mysql.connector.connect(
+            host=DB_CONFIG['host'],
+            user=DB_CONFIG['user'],
+            password=DB_CONFIG['password']
+        )
+        cursor = conn.cursor()
+        cursor.execute(f"CREATE DATABASE IF NOT EXISTS {DB_CONFIG['database']}")
+        print(f"Database {DB_CONFIG['database']} created or already exists.")
+        conn.close()
+    except Exception as e:
+        print(f"Error creating database: {e}")
+
+def execute_schema(db, schema_file):
+    print(f"Executing schema from {schema_file}...")
+    try:
+        with open(schema_file, 'r', encoding='utf-8') as f:
+            schema_sql = f.read()
+
+        # Split by semicolon and execute each command
+        commands = schema_sql.split(';')
+        for cmd in commands:
+            if cmd.strip():
+                try:
+                    db.execute_query(cmd)
+                except Exception as e:
+                    print(f"Error executing command: {cmd[:50]}... -> {e}")
+    except Exception as e:
+        print(f"Schema execution error: {e}")
+
 def seed_wards(db, count=10):
     print("Seeding Wards...")
     ward_ids = []
-    for _ in range(count):
-        name = fake.administrative_unit() + " " + fake.first_name() # Mock name
+    wards = ['Hoàn Kiếm', 'Đống Đa', 'Ba Đình', 'Hai Bà Trưng', 'Hoàng Mai', 'Thanh Xuân', 'Cầu Giấy', 'Tây Hồ']
+    for name in wards:
         query = "INSERT INTO wards (name) VALUES (%s)"
         cursor = db.execute_query(query, (name,))
         if cursor:
             ward_ids.append(cursor.lastrowid)
     return ward_ids
 
-def seed_premises(db, ward_ids, count=50):
-    print("Seeding Premises...")
+def import_from_csv(db, csv_path, ward_ids):
+    print(f"Importing data from {csv_path}...")
+    try:
+        df = pd.read_csv(csv_path)
+    except Exception as e:
+        print(f"Error reading CSV: {e}")
+        return [], []
+
+    # Shuffle data
+    df = df.sample(frac=1).reset_index(drop=True)
+
+    # Split 50/50
+    split_idx = len(df) // 2
+    existing_df = df.iloc[:split_idx]
+    candidates_df = df.iloc[split_idx:]
+
+    store_ids = []
     premise_ids = []
-    for _ in range(count):
+
+    # 1. Import Existing Stores
+    print("Importing Existing Stores...")
+    for _, row in existing_df.iterrows():
         ward_id = random.choice(ward_ids)
-        # Hanoi coordinates approx: 21.0285, 105.8542
-        lat = 21.0 + random.uniform(0, 0.1)
-        lng = 105.8 + random.uniform(0, 0.1)
+        lat = row['latitude']
+        lng = row['longitude']
+        name = row['name']
+
+        query = """
+        INSERT INTO existing_stores (ward_id, latitude, longitude, name, store_type)
+        VALUES (%s, %s, %s, %s, 'COMPETITOR')
+        """
+        cursor = db.execute_query(query, (ward_id, lat, lng, name))
+        if cursor:
+            store_ids.append(cursor.lastrowid)
+
+    # 2. Import Candidate Premises
+    print("Importing Candidate Premises...")
+    for _, row in candidates_df.iterrows():
+        ward_id = random.choice(ward_ids)
+        lat = row['latitude']
+        lng = row['longitude']
+
+        # Mock attributes
         frontage = random.uniform(3.0, 15.0)
-        area = frontage * random.uniform(5.0, 20.0) # Approx depth
+        area = frontage * random.uniform(5.0, 20.0)
         has_parking = random.choice([True, False])
         rent = random.uniform(100, 1000) # Million VND
         transport_cost = random.uniform(5, 20)
@@ -46,7 +114,8 @@ def seed_premises(db, ward_ids, count=50):
         cursor = db.execute_query(query, (ward_id, lat, lng, frontage, area, has_parking, rent, transport_cost, traffic))
         if cursor:
             premise_ids.append(cursor.lastrowid)
-    return premise_ids
+
+    return premise_ids, store_ids
 
 def seed_location_factors(db, premise_ids):
     print("Seeding Location Factors...")
@@ -76,54 +145,63 @@ def seed_demographics(db, premise_ids):
         """
         db.execute_query(query, (p_id, density, income, age))
 
-def seed_existing_stores(db, ward_ids, count=20):
-    print("Seeding Existing Stores (Competitors)...")
-    store_ids = []
-    for _ in range(count):
-        ward_id = random.choice(ward_ids)
-        lat = 21.0 + random.uniform(0, 0.1)
-        lng = 105.8 + random.uniform(0, 0.1)
-        name = fake.company()
-
-        query = """
-        INSERT INTO existing_stores (ward_id, latitude, longitude, name, store_type)
-        VALUES (%s, %s, %s, %s, 'COMPETITOR')
-        """
-        cursor = db.execute_query(query, (ward_id, lat, lng, name))
-        if cursor:
-            store_ids.append(cursor.lastrowid)
-    return store_ids
-
 def seed_distances(db, premise_ids, store_ids):
     print("Seeding Distances...")
-    for p_id in premise_ids:
-        # Get Premise coords
-        res = db.fetch_all(f"SELECT latitude, longitude FROM premises WHERE id = {p_id}")
-        if not res: continue
-        p = res[0]
+    if not premise_ids or not store_ids:
+        return
 
-        for s_id in store_ids:
-             # Get Store coords
-            res_s = db.fetch_all(f"SELECT latitude, longitude FROM existing_stores WHERE id = {s_id}")
-            if not res_s: continue
-            s = res_s[0]
+    # Fetch Premise Coords
+    p_map = {}
+    if premise_ids:
+        p_ids_str = ",".join(map(str, premise_ids))
+        p_rows = db.fetch_all(f"SELECT id, latitude, longitude FROM premises WHERE id IN ({p_ids_str})")
+        for r in p_rows:
+            p_map[r['id']] = (r['latitude'], r['longitude'])
 
-            # Approx distance in meters
-            dist = ((p['latitude'] - s['latitude'])**2 + (p['longitude'] - s['longitude'])**2)**0.5 * 111000
+    # Fetch Store Coords
+    s_map = {}
+    if store_ids:
+        s_ids_str = ",".join(map(str, store_ids))
+        s_rows = db.fetch_all(f"SELECT id, latitude, longitude FROM existing_stores WHERE id IN ({s_ids_str})")
+        for r in s_rows:
+            s_map[r['id']] = (r['latitude'], r['longitude'])
 
-            if dist < 2000: # Only record nearby stores
+    for p_id, p_coords in p_map.items():
+        for s_id, s_coords in s_map.items():
+            dist = ((p_coords[0] - s_coords[0])**2 + (p_coords[1] - s_coords[1])**2)**0.5 * 111000
+
+            if dist < 2000:
                 query = "INSERT INTO distances (premise_id, store_id, distance_meters) VALUES (%s, %s, %s)"
                 db.execute_query(query, (p_id, s_id, dist))
 
 def main():
+    create_database_if_not_exists()
+
     db = Database(DB_CONFIG)
     if db.connect():
+        execute_schema(db, 'schema.sql')
+
+        # Optional: Clean up before seeding if you want fresh data every time
+        # db.execute_query("SET FOREIGN_KEY_CHECKS = 0")
+        # db.execute_query("TRUNCATE TABLE distances")
+        # db.execute_query("TRUNCATE TABLE existing_stores")
+        # db.execute_query("TRUNCATE TABLE demographics")
+        # db.execute_query("TRUNCATE TABLE location_factors")
+        # db.execute_query("TRUNCATE TABLE premises")
+        # db.execute_query("TRUNCATE TABLE wards")
+        # db.execute_query("SET FOREIGN_KEY_CHECKS = 1")
+
         ward_ids = seed_wards(db)
-        premise_ids = seed_premises(db, ward_ids)
-        seed_location_factors(db, premise_ids)
-        seed_demographics(db, premise_ids)
-        store_ids = seed_existing_stores(db, ward_ids)
-        seed_distances(db, premise_ids, store_ids)
+
+        csv_file = 'all_convenience_stores_hanoi.csv'
+        premise_ids, store_ids = import_from_csv(db, csv_file, ward_ids)
+
+        if premise_ids:
+            seed_location_factors(db, premise_ids)
+            seed_demographics(db, premise_ids)
+
+        if premise_ids and store_ids:
+            seed_distances(db, premise_ids, store_ids)
 
         print("Seeding completed!")
         db.close()
