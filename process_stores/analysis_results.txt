@@ -1,0 +1,270 @@
+Total stores: 193
+Stores with ward_id: 140
+Stores missing ward_id: 53
+--------------------------------------------------
+Analysis of missing wards:
+ID: 27
+Name: Circle K Việt Nam
+Address: 2 P. Hoàng Ngân, Trung Hoà, Thanh Xuân, Hà Nội, Vietnam
+District ID found: 12
+--------------------
+ID: 31
+Name: Circle K Viet Nam
+Address: P. Trần Quang Diệu tổ 102, P, Đống Đa, Hà Nội, Vietnam
+District ID found: 2
+--------------------
+ID: 37
+Name: Circle K Viet Nam
+Address: Số 176D + 176E, Trương Định, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 42
+Name: Circle K Viet Nam
+Address: 171 Lương Thế Vinh, P. Văn Quán, Thanh Xuân, Hà Nội, Vietnam
+District ID found: 12
+--------------------
+ID: 43
+Name: Circle K
+Address: Thửa đất Số 22, lô 6 khu 4.1CC, tuyến Láng Hạ - Thanh Xuân, Thanh Xuân, Hà Nội, Vietnam
+District ID found: 12
+--------------------
+ID: 63
+Name: GS25 Triều Khúc
+Address: 53 P. Triều Khúc, khu đô thị Pandora, Thanh Xuân, Hà Nội, Vietnam
+District ID found: 12
+--------------------
+ID: 67
+Name: GS25 Park 1 Times City
+Address: Chung Cư Times City Khu Đô Thị Park Hill, P01111 Tổ 58, Khu đô thị Times City, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 71
+Name: GS25 Nguyễn Văn Lộc
+Address: 6 P. Nguyễn Văn Lộc, Làng Việt kiều Châu Âu, Hà Đông, Hà Nội 100000, Vietnam
+District ID found: 7
+--------------------
+ID: 73
+Name: GS25 Park 3 Times City
+Address: 25 Ng. 13 Đ. Lĩnh Nam, Mai Động, Hai Bà Trưng, Hà Nội, Vietnam
+District ID found: None
+--------------------
+ID: 77
+Name: GS25 Văn Phú
+Address: 1 Văn Khê, Khu đô thị Văn Phú, Hà Đông, Hà Nội, Vietnam
+District ID found: 7
+--------------------
+ID: 79
+Name: GS25 Chùa Láng
+Address: 59 P. Chùa Láng, P, Đống Đa, Hà Nội 100000, Vietnam
+District ID found: 2
+--------------------
+ID: 80
+Name: GS25 HANU
+Address: 3 Đại Học Hà Nội, P. Văn Quán, Nam Từ Liêm, Hà Nội, Vietnam
+District ID found: 8
+--------------------
+ID: 82
+Name: GS25 IEC Thanh Trì
+Address: WRRX+HM2, Đ. Vũ Lăng, Cổ Điển B, Thanh Trì, Hà Nội, Vietnam
+District ID found: 25
+--------------------
+ID: 85
+Name: GS25 Park 11
+Address: Khu Đô Thị Park Hill, Park 11 Chung Cư, P110320 Tổ 58, Khu đô thị Times City, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 86
+Name: GS25 Duy Tân
+Address: 6 Ng. 36 Duy Tân, P, Cầu Giấy, Hà Nội 100000, Vietnam
+District ID found: 6
+--------------------
+ID: 89
+Name: GS25 LUXURY PARK VIEW
+Address: Toà nhà Luxury Park, Views, D32 P. Trương Công Giai, Khu Đô Thị Mới, Cầu Giấy, Hà Nội, Vietnam
+District ID found: 6
+--------------------
+ID: 96
+Name: GS25 Chiến Thắng
+Address: 139e Đường Chiến Thắng, Tân Triều, Hà Đông, Hà Nội, Vietnam
+District ID found: 7
+--------------------
+ID: 97
+Name: GS25 Phạm Hùng
+Address: 36 Đ. Phạm Hùng, Mỹ Đình, Nam Từ Liêm, Hà Nội, Vietnam
+District ID found: 8
+--------------------
+ID: 100
+Name: GS25 Vinaconex 3
+Address: XQWH+6JF, Cương Kiên, Khu đô thị Vinaconex 3, Nam Từ Liêm, Hà Nội, Vietnam
+District ID found: 8
+--------------------
+ID: 102
+Name: GS25 ĐH Sư Phạm Hà Nội
+Address: 128 Đ. Xuân Thủy, Khu tập thể Đại học Sư phạm, Cầu Giấy, Hà Nội 100000, Vietnam
+District ID found: 6
+--------------------
+ID: 103
+Name: Cửa hàng tiện lợi GZ
+Address: XVFC+V4G, Ng. 885 Đ. Tam Trinh, Yên Sở, Hai Bà Trưng, Hà Nội, Vietnam
+District ID found: 9
+--------------------
+ID: 104
+Name: GS25 Ngũ Xã - Hà Nội
+Address: 13A, Ngũ Xã, Ba Đình, Hà Nội 11100, Vietnam
+District ID found: 1
+--------------------
+ID: 109
+Name: GS25 Nguyễn Thanh Bình - Terra 2
+Address: V9-A01 KĐT, P. Nguyễn Thanh Bình, Hà Đông, Hà Nội 100000, Vietnam
+District ID found: 7
+--------------------
+ID: 117
+Name: Safeway store
+Address: Lane 35 P. Đặng Thai Mai, Street, Tây Hồ, Hà Nội 100000, Vietnam
+District ID found: 10
+--------------------
+ID: 126
+Name: Cửa Hàng Fami Mart
+Address: 168 P. Đại Từ, Đại Kim, Hoàng Mai, Hà Nội 100000, Vietnam
+District ID found: 5
+--------------------
+ID: 127
+Name: Family Mart Cường Uyên
+Address: 4LK7, Khu đô thị Văn Phú, Hà Đông, Hà Nội, Vietnam
+District ID found: 7
+--------------------
+ID: 135
+Name: Fami Mart 2
+Address: P1 The Pavilion, Vinhomes Ocean Park, Gia Lâm, Hà Nội 100000, Vietnam
+District ID found: 13
+--------------------
+ID: 139
+Name: Fami Mart
+Address: GS1, Vinhomes Smart City, Nam Từ Liêm, Hà Nội 100000, Vietnam
+District ID found: 8
+--------------------
+ID: 145
+Name: Green Mart
+Address: Tòa nhà Greenpark, phố P. Dương Đình Nghệ, P, Cầu Giấy, Hà Nội, Vietnam
+District ID found: 6
+--------------------
+ID: 149
+Name: V- Mart
+Address: Ngõ 115 Đ. Trần Cung, Cổ Nhuế, Bắc Từ Liêm, Hà Nội, Vietnam
+District ID found: 3
+--------------------
+ID: 151
+Name: WinMart+
+Address: Yên Ngưu, Thanh Trì, Hanoi, Vietnam
+District ID found: 25
+--------------------
+ID: 152
+Name: WinMart
+Address: Toà HH2 - Meco Complex, 102 Trường Chinh, Phương Đình, Đống Đa, Hà Nội, Vietnam
+District ID found: 2
+--------------------
+ID: 155
+Name: Cửa hàng WinMart+ 1B Nguyễn Duy Trinh
+Address: 1B đường P. Nguyễn Duy Trinh, Hoàng Liệt, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 156
+Name: WM+ HNI 38BT1 Pháp Vân
+Address: Ô 38 BT1, Khu ĐTM Pháp Vân - Tứ Hiệp, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 158
+Name: Cửa hàng WIN Lô BT3- Ô 24 KDT Pháp Vân
+Address: Lô BT3- ô 24, KĐTM Pháp Vân - Tứ Hiệp, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 159
+Name: Siêu Thị WinMart Linh Đàm
+Address: Tòa Bắc, Rice City Linh Đàm - Tòa Bắc, Khu đô thị Tây Nam Linh Đàm, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 160
+Name: Cửa hàng WinMart+ Lưu Phái
+Address: Thôn Lưu Phái, Thanh Trì, Hanoi, Vietnam
+District ID found: 25
+--------------------
+ID: 161
+Name: VinMart+
+Address: Toàn Nhà Hud 3, P. Linh Đàm, Hoàng Liệt, Thanh Xuân, Hà Nội, Vietnam
+District ID found: 12
+--------------------
+ID: 168
+Name: WinMart
+Address: Ng. 54 Nguyễn Khuyến/C36 P. Yên Phúc, khu ĐT, Hà Đông, Hà Nội, Vietnam
+District ID found: 7
+--------------------
+ID: 169
+Name: WinMart+
+Address: 9 P. Thịnh Liệt, Thịnh Liệt, Hoàng Mai, Hà Nội 11706, Vietnam
+District ID found: 5
+--------------------
+ID: 172
+Name: VinMart+
+Address: Toàn Nhà Hud 3, P. Linh Đàm, Hoàng Liệt, Thanh Xuân, Hà Nội, Vietnam
+District ID found: 12
+--------------------
+ID: 173
+Name: Siêu thị WinMart Trương Định
+Address: Tòa nhà Nam Đô Complex, 609 Trương Định, Giáp Nhị, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 174
+Name: Siêu Thị Tmart Trần Thủ Độ
+Address: 83 P. Trần Thủ Độ, Hoàng Liệt, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 179
+Name: Cửa hàng WinMart+ 17A Hàn Thuyên
+Address: 17A P.Hàn Thuyên, tổ 2, Hai Bà Trưng, Hà Nội, Vietnam
+District ID found: 9
+--------------------
+ID: 180
+Name: Siêu thị WinMart Lương Yên
+Address: Sun Grand City - Ancora Residence, Số 3 Chung cư, P. Lương Yên, Hai Bà Trưng, Hà Nội, Vietnam
+District ID found: 9
+--------------------
+ID: 182
+Name: VinMart+
+Address: N2C, KHU TÁI ĐỊNH CƯ X2A, Lô, Hoàng Mai, Hà Nội 11707, Vietnam
+District ID found: 5
+--------------------
+ID: 183
+Name: Siêu thị WinMart Hoàng Cầu
+Address: Khu nhà ở di dân Ao, Chung Cư CT1, P. Hoàng Cầu, Tầng 1, Đống Đa, Hà Nội, Vietnam
+District ID found: 2
+--------------------
+ID: 185
+Name: Siêu thị WinMart Yên Sở
+Address: Tòa CT2, Tầng 1 Khu Đô Thị, Gamuda Gardens, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 187
+Name: Siêu thị WinMart Hà Đông ( Xa La )
+Address: Tòa nhà CT1A & CT1B, Khu đô thị Xa La, Hà Đông, Hà Nội, Vietnam
+District ID found: 7
+--------------------
+ID: 188
+Name: Winmart+
+Address: SH5 Chung cư Phương Đông Greenpark, 1 P. Trần Thủ Độ, Hoàng Liệt, Hoàng Mai, Hà Nội 100000, Vietnam
+District ID found: 5
+--------------------
+ID: 189
+Name: Winmart R1
+Address: R1 Đ. Nguyễn Trãi, Khu đô thị Royal City, Thanh Xuân, Hà Nội, Vietnam
+District ID found: 12
+--------------------
+ID: 191
+Name: WinMart
+Address: Ng. 41 P. Tương Mai, Đồng Tâm, Hoàng Mai, Hà Nội, Vietnam
+District ID found: 5
+--------------------
+ID: 192
+Name: VinMart+
+Address: Nhà dịch vụ số P05S05, ngõ 13 Đ. Lĩnh Nam, Mai Động, Hoàng Mai, Hà Nội 11710, Vietnam
+District ID found: None
+--------------------
