@@ -1,0 +1,1045 @@
+- id: 1
+  district_id: 12
+  ward_id: 161
+  name: Circle K
+  address: 70 P. Ngụy Như Kon Tum, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9989544
+  longitude: 105.7833158
+- id: 2
+  district_id: 9
+  ward_id: 116
+  name: Circle K VietNam
+  address: 1 Ng. 37 P. Lê Thanh Nghị, Bách Khoa, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 3
+  district_id: 12
+  ward_id: 165
+  name: Circle K Việt Nam
+  address: 370 Đ. Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9943894
+  longitude: 105.7892062
+- id: 4
+  district_id: 12
+  ward_id: 158
+  name: Circle K Việt Nam
+  address: 292 P. Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9988126
+  longitude: 105.8028922
+- id: 5
+  district_id: 9
+  ward_id: 116
+  name: Circle K VietNam
+  address: 113 Trần Đại Nghĩa, Bách Khoa, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 6
+  district_id: 12
+  ward_id: 164
+  name: Circle K VietNam
+  address: 288 Đ. Giải Phóng, Phương Liệt, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9909731
+  longitude: 105.8233011
+- id: 7
+  district_id: 2
+  ward_id: 17
+  name: Circle K VietNam
+  address: A8 P. Tôn Thất Tùng, Kim Liên, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 8
+  district_id: 12
+  ward_id: 165
+  name: Circle K Viet Nam
+  address: 218 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.996892
+  longitude: 105.7860685
+- id: 9
+  district_id: 12
+  ward_id: 165
+  name: Circle K
+  address: 62 Đ. Vũ Trọng Phụng, Thanh Xuân Trung, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.0000137
+  longitude: 105.7904455
+- id: 10
+  district_id: 4
+  ward_id: 56
+  name: Circle K Hà Trung
+  address: 79 P. Hà Trung, Hàng Bông, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0298832
+  longitude: 105.8273151
+- id: 11
+  district_id: 2
+  ward_id: 24
+  name: Circle K Viet Nam
+  address: 91 P. Nam Đồng, Nam Đồng, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202803
+- id: 12
+  district_id: 9
+  ward_id: 120
+  name: Circle K Viet Nam
+  address: 264 P. Bạch Mai, tổ 4, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202803
+- id: 13
+  district_id: 6
+  ward_id: 87
+  name: Circle K
+  address: 125 P. Hoàng Ngân, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.0097138
+  longitude: 105.7883871
+- id: 14
+  district_id: 2
+  ward_id: 22
+  name: Circle K VietNam
+  address: 7 ngõ 34 P. Mai Anh Tuấn, Chợ Dừa, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0189776
+  longitude: 105.8049981
+- id: 15
+  district_id: 2
+  ward_id: 22
+  name: Circle K Viet Nam
+  address: 420 Đ. La Thành, Chợ Dừa, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0229667
+  longitude: 105.8044822
+- id: 16
+  district_id: 2
+  ward_id: 24
+  name: Circle K VietNam
+  address: 1A P. Hồ Đắc Di, Nam Đồng, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202803
+- id: 17
+  district_id: 1
+  ward_id: 13
+  name: Circle K Viet Nam
+  address: 8 Ng. 91 Đ. Nguyễn Chí Thanh, Thành Công, Ba Đình, Hà Nội, Vietnam
+  latitude: 21.0203699
+  longitude: 105.7917885
+- id: 18
+  district_id: 9
+  ward_id: 120
+  name: Circle K Viet Nam
+  address: 144 P. Hồng Mai, Bạch Mai, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 20.9990079
+  longitude: 105.8354105
+- id: 19
+  district_id: 2
+  ward_id: 20
+  name: Circle K Viet Nam
+  address: 68 P. Tôn Thất Tùng, Khương Thượng, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 20
+  district_id: 12
+  ward_id: 159
+  name: Circle K VietNam
+  address: 46 P. Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 21
+  district_id: 2
+  ward_id: 21
+  name: Circle K Láng
+  address: Ngõ 848-850 Ng. 850 Đ. Láng, Láng Thượng, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0195473
+  longitude: 105.7849281
+- id: 22
+  district_id: 12
+  ward_id: 161
+  name: Circle K Viet Nam
+  address: 01 P. Lê Văn Thiêm, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.002956
+  longitude: 105.7847693
+- id: 23
+  district_id: 12
+  ward_id: 161
+  name: Circle K Lê Văn Lương
+  address: 81 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.0056059
+  longitude: 105.7887633
+- id: 24
+  district_id: 9
+  ward_id: 125
+  name: Circle K Viet Nam
+  address: 118 P. Tuệ Tĩnh, Nguyễn Du, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202803
+- id: 25
+  district_id: 12
+  ward_id: 157
+  name: Circle K Viet Nam
+  address: 14 P. Khương Hạ, Khương Đình, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9925038
+  longitude: 105.7981881
+- id: 26
+  district_id: 6
+  ward_id: 87
+  name: Circle K 40
+  address: 40 P.Trung Hòa, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.0147155
+  longitude: 105.7843123
+- id: 27
+  district_id: 6
+  ward_id: 87
+  name: Circle-K
+  address: 138 P.Trung Hòa, Yên Hoà, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.0171442
+  longitude: 105.7817489
+- id: 28
+  district_id: 4
+  ward_id: 66
+  name: Circle K Trần Hưng Đạo
+  address: 62 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 29
+  district_id: 6
+  ward_id: 87
+  name: Circle K Trung Kính
+  address: K9-1E Trung Yên đối diện, 91 P. Trung Kính, Trung Hoà, Cầu Giấy, Hà Nội,
+    Vietnam
+  latitude: 21.0139193
+  longitude: 105.7807247
+- id: 30
+  district_id: 6
+  ward_id: 87
+  name: Circle K
+  address: 7 P. Nguyễn Thị Định, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.0126881
+  longitude: 105.7861739
+- id: 31
+  district_id: 2
+  ward_id: 18
+  name: Circle K Viet Nam
+  address: 70 P. Nguyên Hồng, Láng Hạ, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.015557
+  longitude: 105.7915684
+- id: 32
+  district_id: 2
+  ward_id: 19
+  name: Circle K Viet Nam
+  address: 91 P. Khâm Thiên, Khâm Thiên, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 33
+  district_id: 2
+  ward_id: 18
+  name: Circle K - Nguyen Hong
+  address: 20 P. Nguyên Hồng, Láng Hạ, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.017634
+  longitude: 105.7938886
+- id: 34
+  district_id: 2
+  ward_id: 29
+  name: Circle K Viet Nam
+  address: 14 P. Thái Hà, Trung Liệt, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.010223
+  longitude: 105.8054816
+- id: 35
+  district_id: 12
+  ward_id: 161
+  name: Circle K
+  address: 48 Ng. 116 P. Nhân Hòa, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.0033358
+  longitude: 105.7896486
+- id: 36
+  district_id: 2
+  ward_id: 21
+  name: Circle K
+  address: 105 Phố P. Chùa Láng, Láng Thượng, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0232942
+  longitude: 105.7873738
+- id: 37
+  district_id: 12
+  ward_id: 161
+  name: Circle K
+  address: N8A1 P. Nguyễn Thị Thập, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.0048259
+  longitude: 105.7826275
+- id: 38
+  district_id: 4
+  ward_id: 56
+  name: Circle K Viet Nam
+  address: 75 P. Hàng Bông, Hàng Bông, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0302012
+  longitude: 105.8297793
+- id: 39
+  district_id: 9
+  ward_id: 125
+  name: Circle K Hoàng Thành Tower
+  address: 7B P. Đoàn Trần Nghiệp, Nguyễn Du, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 40
+  district_id: 2
+  ward_id: 19
+  name: Circle K Viet Nam
+  address: 380 P. Khâm Thiên, Thổ Quan, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 41
+  district_id: 2
+  ward_id: 17
+  name: Circle K Viet Nam
+  address: 2 Ng. 11 P. Lương Định Của, Kim Liên, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 42
+  district_id: 9
+  ward_id: 122
+  name: Circle K Viet Nam
+  address: 25-27 Đ. Giải Phóng, Đồng Tâm, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 43
+  district_id: 2
+  ward_id: 31
+  name: Circle K VietNam
+  address: 186 P. Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0133434
+  longitude: 105.7984189
+- id: 44
+  district_id: 6
+  ward_id: 87
+  name: Circle K Viet Nam
+  address: 181 Đ. Nguyễn Ngọc Vũ, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.012642
+  longitude: 105.789496
+- id: 45
+  district_id: 6
+  ward_id: 87
+  name: Circle K Viet Nam
+  address: 24 T2, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.007576
+  longitude: 105.7854235
+- id: 46
+  district_id: 4
+  ward_id: 53
+  name: Circle K Hai Bà Trưng
+  address: 120 P. Hai Bà Trưng, Cửa Nam, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0275031
+  longitude: 105.824838
+- id: 47
+  district_id: 9
+  ward_id: 123
+  name: Circle K Viet Nam
+  address: 25 P. Thái Phiên, Lê Đại Hành, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202803
+- id: 48
+  district_id: 1
+  ward_id: 11
+  name: Circle K VietNam
+  address: 126 P. Nam Cao, Giảng Võ, Ba Đình, Hà Nội 100000, Vietnam
+  latitude: 21.0302127
+  longitude: 105.8047235
+- id: 49
+  district_id: 12
+  ward_id: 161
+  name: Circle K Viet Nam
+  address: Tòa 18T1, 46 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.0060745
+  longitude: 105.7876258
+- id: 50
+  district_id: 2
+  ward_id: 28
+  name: Circle K Viet Nam
+  address: 123 P.Tôn Đức Thắng, Thổ Quan, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 51
+  district_id: 2
+  ward_id: 22
+  name: Circle K Viet Nam
+  address: 45 Hào Nam, Chợ Dừa, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0109608
+  longitude: 105.8202802
+- id: 52
+  district_id: 4
+  ward_id: 59
+  name: Circle K
+  address: 27 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0320761
+  longitude: 105.8349252
+- id: 53
+  district_id: 4
+  ward_id: 56
+  name: Circle K Viet Nam
+  address: 141 P. Hàng Bông, Hàng Bông, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0293874
+  longitude: 105.8281195
+- id: 54
+  district_id: 4
+  ward_id: 56
+  name: GS25 Hà Trung
+  address: 66 P. Hà Trung, Hàng Bông, Hoàn Kiếm, Hà Nội 100000, Vietnam
+  latitude: 21.0300872
+  longitude: 105.8098955
+- id: 55
+  district_id: 12
+  ward_id: 159
+  name: GS25 Lê Trọng Tấn
+  address: 44 Ng. 38 Lê Trọng Tấn, Khương Mai, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9998139
+  longitude: 105.7928226
+- id: 56
+  district_id: 2
+  ward_id: 20
+  name: GS25 Đại Học Thủy Lợi
+  address: 8 P. Khương Thượng, Khương Thượng, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0053662
+  longitude: 105.7903851
+- id: 57
+  district_id: 6
+  ward_id: 87
+  name: GS25 Taisei
+  address: Tòa nhà Taisei, 289 Khuất Duy Tiến, Trung Hoà, Cầu Giấy, Hà Nội 100000,
+    Vietnam
+  latitude: 21.0024691
+  longitude: 105.7587579
+- id: 58
+  district_id: 12
+  ward_id: 165
+  name: GS25 Nguyễn Trãi
+  address: 360 Đ. Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội 11416, Vietnam
+  latitude: 20.9944082
+  longitude: 105.7718205
+- id: 59
+  district_id: 4
+  ward_id: 51
+  name: GS25 Hàng Dầu
+  address: 12 P. Hàng Dầu, Hàng Bạc, Hoàn Kiếm, Hà Nội 10000, Vietnam
+  latitude: 21.0318238
+  longitude: 105.8187549
+- id: 60
+  district_id: 7
+  ward_id: 105
+  name: GS25 Nguyễn Khuyến
+  address: A48 TT19, Khu đô thị Văn Quán, Hà Đông, Hà Nội, Vietnam
+  latitude: 20.9696561
+  longitude: 105.7568464
+- id: 61
+  district_id: 6
+  ward_id: 87
+  name: GS25 Nguyễn Ngọc Vũ
+  address: 169 Đ. Nguyễn Ngọc Vũ, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam
+  latitude: 21.011999
+  longitude: 105.7726391
+- id: 62
+  district_id: 2
+  ward_id: 17
+  name: GS25 Đào Duy Anh
+  address: 7-9 P. Đào Duy Anh, Kim Liên, Đống Đa, Hà Nội, Vietnam
+  latitude: 20.9936886
+  longitude: 105.8314831
+- id: 63
+  district_id: 2
+  ward_id: 25
+  name: GS25 Mipec Tower
+  address: Tòa nhà Mipec Tower, 229 P. Tây Sơn, Ngã Tư Sở, Đống Đa, Hà Nội 11500,
+    Vietnam
+  latitude: 21.0057396
+  longitude: 105.788416
+- id: 64
+  district_id: 2
+  ward_id: 22
+  name: GS25 Hoàng Cầu Skyline
+  address: Skyline, Skyline Building, Toà nhà, 36 P. Hoàng Cầu, Chợ Dừa, Đống Đa,
+    Hà Nội, Vietnam
+  latitude: 21.0190751
+  longitude: 105.7889874
+- id: 65
+  district_id: 5
+  ward_id: 72
+  name: GS25 Park 3 Times City
+  address: 25 Ng. 13 Đ. Lĩnh Nam, Mai Động, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 20.9936886
+  longitude: 105.8314831
+- id: 66
+  district_id: 4
+  ward_id: 56
+  name: GS25 Hàng Bông - Hà Nội
+  address: 70 P. Hàng Bông, Hàng Bông, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0303771
+  longitude: 105.812118
+- id: 67
+  district_id: 12
+  ward_id: 165
+  name: GS25 Vũ Trọng Phụng
+  address: XRX5+4Q5, 51 / 2 Đ. Vũ Trọng Phụng, Thanh Xuân Trung, Thanh Xuân, Hà Nội,
+    Vietnam
+  latitude: 20.9977573
+  longitude: 105.774415
+- id: 68
+  district_id: 7
+  ward_id: 91
+  name: GS25 Ngô Thì Nhậm
+  address: 34-86 Ngô Thì Nhậm, Hà Cầu, Hà Đông, Hà Nội, Vietnam
+  latitude: 20.9694091
+  longitude: 105.7334881
+- id: 69
+  district_id: 12
+  ward_id: 161
+  name: GS25 Làng Sinh Viên Hacinco
+  address: 67 P. Ngụy Như Kon Tum, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.0001969
+  longitude: 105.7672242
+- id: 70
+  district_id: 12
+  ward_id: 161
+  name: GS25 Licogi 13
+  address: 164 Khuất Duy Tiến, Nhân Chính, Thanh Xuân, Hà Nội 11300, Vietnam
+  latitude: 20.9992386
+  longitude: 105.763281
+- id: 71
+  district_id: 6
+  ward_id: 87
+  name: GS25 D'Capitale
+  address: 119 Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam
+  latitude: 21.0048974
+  longitude: 105.7591149
+- id: 72
+  district_id: 6
+  ward_id: 88
+  name: GS25 Mạc Thái Tổ
+  address: 33 P. Mạc Thái Tổ, Yên Hoà, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.0178064
+  longitude: 105.7558624
+- id: 73
+  district_id: 12
+  ward_id: 165
+  name: GS25 Ngụy Như Kon Tum
+  address: 212 P. Ngụy Như Kon Tum, Thanh Xuân Trung, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.0023937
+  longitude: 105.7703259
+- id: 74
+  district_id: 12
+  ward_id: 161
+  name: GS25 Lê Văn Lương
+  address: 1 Ng. 21 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội 000084, Vietnam
+  latitude: 21.0060105
+  longitude: 105.7718926
+- id: 75
+  district_id: 9
+  ward_id: 124
+  name: GS25 Century Tower
+  address: 18 P. Minh Khai, Vĩnh Phú, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 20.9936886
+  longitude: 105.8314831
+- id: 76
+  district_id: 25
+  ward_id: 456
+  name: GS25 Thanh Trì
+  address: Khu nhà ở xã hội IEC, Căn TT1-11, Tứ Hiệp, Thanh Trì, Hà Nội 100000, Vietnam
+  latitude: 20.9413114
+  longitude: 105.8141817
+- id: 77
+  district_id: 12
+  ward_id: 161
+  name: GS25 LICOGI 13 - THANH XUÂN
+  address: Nhân Chính, XQXX+P88Nhân ChínhThanh Xuân, Hanoi, Vietnam
+  latitude: 20.9992293
+  longitude: 105.7632961
+- id: 78
+  district_id: 1
+  ward_id: 11
+  name: GS25 The Golden Armor
+  address: 119 P. Nam Cao, Giảng Võ, Ba Đình, Hà Nội, Vietnam
+  latitude: 21.0300608
+  longitude: 105.7869301
+- id: 79
+  district_id: 9
+  ward_id: 122
+  name: GS25 Trần Đại Nghĩa
+  address: 62 Phố P. Trần Đại Nghĩa, Đồng Tâm, TâmHai Bà Trưng, Hà Nội 100000, Vietnam
+  latitude: 20.9936886
+  longitude: 105.8314831
+- id: 80
+  district_id: 7
+  ward_id: 100
+  name: GS25 Đại Học Đại Nam - Hà Nội
+  address: P. Ba La/8 P. Xốm, Phú Lâm, Hà Đông, Hà Nội 10000, Vietnam
+  latitude: 20.9477202
+  longitude: 105.7217419
+- id: 81
+  district_id: 6
+  ward_id: 81
+  name: GS25 The West
+  address: 14A, P. Dịch Vọng/302 Ng. 29 P. Dịch Vọng, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.0341325
+  longitude: 105.7597915
+- id: 82
+  district_id: 1
+  ward_id: 7
+  name: GS25 Đội Cấn
+  address: 147 Đội Cấn, Ngọc Hồ, Ba Đình, Hà Nội 100000, Vietnam
+  latitude: 21.0348354
+  longitude: 105.7923413
+- id: 83
+  district_id: 4
+  ward_id: 62
+  name: GS25 Nguyen Huu Huan
+  address: 34 P. Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hà Nội 100000, Vietnam
+  latitude: 21.0344181
+  longitude: 105.8192607
+- id: 84
+  district_id: 12
+  ward_id: 159
+  name: Cửa hàng tiện lợi 12G
+  address: 32 P. Nguyễn Ngọc Nại, Khương Mai, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9998344
+  longitude: 105.7884518
+- id: 85
+  district_id: 1
+  ward_id: 6
+  name: L's Place
+  address: 26 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội, Vietnam
+  latitude: 21.0353802
+  longitude: 105.7791403
+- id: 86
+  district_id: 6
+  ward_id: 88
+  name: G24H
+  address: P. Trương Công Giai, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam
+  latitude: 21.02588
+  longitude: 105.756097
+- id: 87
+  district_id: 2
+  ward_id: 23
+  name: Cửa Hàng Tiện Lợi G95 FOOD
+  address: 34B Tổ 49, Phương Liên, Đống Đa, Hà Nội 11522, Vietnam
+  latitude: 20.9936886
+  longitude: 105.8314831
+- id: 88
+  district_id: 11
+  ward_id: 145
+  name: GS25 Nguyễn Sơn
+  address: 158 P. Nguyễn Sơn, Ngọc Lâm, Long Biên, Hà Nội 100000, Vietnam
+  latitude: 21.0460843
+  longitude: 105.8441356
+- id: 89
+  district_id: 7
+  ward_id: 92
+  name: GS25 Terra
+  address: La Khê, Hà Đông, Hà Nội 10000, Vietnam
+  latitude: 20.9733503
+  longitude: 105.7223182
+- id: 90
+  district_id: 9
+  ward_id: 122
+  name: Circle K Viet Nam
+  address: 25-27 Đ. Giải Phóng, Đồng Tâm, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 20.9936886
+  longitude: 105.831483
+- id: 91
+  district_id: 11
+  ward_id: 145
+  name: GS25 Symphony
+  address: 2WX8+8RM, Khu đô thị Vinhomes Riverside, Long Biên, Hà Nội, Vietnam
+  latitude: 21.0482866
+  longitude: 105.8821622
+- id: 92
+  district_id: 4
+  ward_id: 64
+  name: 7-Eleven Bà Triệu
+  address: 5 P. Bà Triệu, Tràng Tiền, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0252859
+  longitude: 105.834249
+- id: 93
+  district_id: 1
+  ward_id: 12
+  name: 7-Eleven Capital Place
+  address: 29 P. Liễu Giai, Ngọc Khánh, Ba Đình, Hà Nội 100000, Vietnam
+  latitude: 21.0318312
+  longitude: 105.7965102
+- id: 94
+  district_id: 4
+  ward_id: 51
+  name: 7-Eleven Lò Sũ
+  address: 52 P. Lò Sũ, Hàng Bạc, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0315045
+  longitude: 105.8367759
+- id: 95
+  district_id: 4
+  ward_id: 64
+  name: Circle K
+  address: 36 Tràng Tiền, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0250633
+  longitude: 105.8374057
+- id: 96
+  district_id: 1
+  ward_id: 3
+  name: Circle K VietNam
+  address: 94 Linh Lang, Cống Vị, Ba Đình, Hà Nội, Vietnam
+  latitude: 21.0335618
+  longitude: 105.7923368
+- id: 97
+  district_id: 4
+  ward_id: 51
+  name: Circle K
+  address: 161 P. Hàng Bạc, Phố cổ Hà Nội, Hoàn Kiếm, Hà Nội 100000, Vietnam
+  latitude: 21.0339626
+  longitude: 105.8335111
+- id: 98
+  district_id: 6
+  ward_id: 82
+  name: 7-Eleven TTC TOWER
+  address: 19 Duy Tân, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.0307449
+  longitude: 105.7647694
+- id: 99
+  district_id: 4
+  ward_id: 64
+  name: Eleven11
+  address: 11 P. Bà Triệu, Tràng Tiền, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0253295
+  longitude: 105.8341936
+- id: 100
+  district_id: 2
+  ward_id: 18
+  name: FuMuya Minimart
+  address: 3 ngõ 76 Linh Lang Hanoi Hanoi City, Vietnam
+  latitude: 21.0343255
+  longitude: 105.7924299
+- id: 101
+  district_id: 9
+  ward_id: 117
+  name: Family Store
+  address: 98 P. Vân Đồn, Bạch Đằng, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 21.0162106
+  longitude: 105.8143781
+- id: 102
+  district_id: 12
+  ward_id: 161
+  name: Family Foods Market
+  address: 6 P. Lê Văn Thiêm, Nhân Chính, Thanh Xuân, Hà Nội 100000, Vietnam
+  latitude: 21.0000565
+  longitude: 105.7345612
+- id: 103
+  district_id: 5
+  ward_id: 67
+  name: Cửa Hàng Fami Mart
+  address: 168 P. Đại Từ, Đại Kim, Hoàng Mai, Hà Nội 100000, Vietnam
+  latitude: 21.0162107
+  longitude: 105.8143781
+- id: 104
+  district_id: 6
+  ward_id: 87
+  name: Tiện Lợi Mart
+  address: 17 P. Nguyễn Thị Thập, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.007291
+  longitude: 105.733747
+- id: 105
+  district_id: 12
+  ward_id: 156
+  name: Family Market
+  address: XRP5+F8W, Ng. 192 P. Hạ Đình, Hạ Đình, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.986245
+  longitude: 105.7382985
+- id: 106
+  district_id: 2
+  ward_id: 19
+  name: Cửa Hàng Fami Mart
+  address: 270 P. Khâm Thiên, Thổ Quan, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0162107
+  longitude: 105.8143781
+- id: 107
+  district_id: 12
+  ward_id: 158
+  name: Fami Mart
+  address: 208 P. Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội 100000, Vietnam
+  latitude: 20.997882
+  longitude: 105.7525861
+- id: 108
+  district_id: 4
+  ward_id: 61
+  name: The Good Mart
+  address: 47 P. Hàng Thiếc, Hàng Gai, Hoàn Kiếm, Hà Nội 10000, Vietnam
+  latitude: 21.0162107
+  longitude: 105.8143781
+- id: 109
+  district_id: 11
+  ward_id: 145
+  name: Bình mai familymart
+  address: 41 Ng. 466 Đ. Ng. Gia Tự, Đức Giang, Long Biên, Hà Nội, Vietnam
+  latitude: 21.0162107
+  longitude: 105.8143781
+- id: 110
+  district_id: 24
+  ward_id: 433
+  name: Family Mart
+  address: 2MPM+V8G Nhà văn hoá thôn Đông, Đắc Sở, Hoài Đức, Hà Nội, Vietnam
+  latitude: 21.0371811
+  longitude: 105.6132953
+- id: 111
+  district_id: 3
+  ward_id: 44
+  name: Family Mart
+  address: 171 Phúc Diễn, TDP Số 2, Bắc Từ Liêm, Hà Nội, Vietnam
+  latitude: 21.0383978
+  longitude: 105.6881287
+- id: 112
+  district_id: 7
+  ward_id: 94
+  name: Siêu Thị T-Mart Dương Nội
+  address: XP6V+34V, Tòa A Xuân mai tower, Sparks, Yên Nghĩa, Hà Đông, Hà Nội, Vietnam
+  latitude: 20.9602496
+  longitude: 105.6727647
+- id: 113
+  district_id: 4
+  ward_id: 56
+  name: Siêu thị tiện lợi KaMart
+  address: 83 P. Phủ Doãn, Hàng Bông, Hoàn Kiếm, Hà Nội 100000, Vietnam
+  latitude: 21.0162107
+  longitude: 105.8143781
+- id: 114
+  district_id: 8
+  ward_id: 108
+  name: SimSon Mart
+  address: CT2 khu đô thị Mễ Trì Thượng , Phường Mễ Trì, Từ Liêm, Hà Nội, Vietnam
+  latitude: 21.0052542
+  longitude: 105.7067624
+- id: 115
+  district_id: 6
+  ward_id: 88
+  name: G24H
+  address: P. Trương Công Giai, Yên Hoà, Cầu Giấy, Hà Nội 100000, Vietnam
+  latitude: 21.02588
+  longitude: 105.7210781
+- id: 116
+  district_id: 4
+  ward_id: 56
+  name: Quỳnh family
+  address: 45 P. Đường Thành, Hàng Bông, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0162107
+  longitude: 105.8143781
+- id: 117
+  district_id: 11
+  ward_id: 145
+  name: Family - Mart
+  address: 1035 Đ. Ngô Gia Tự, Đức Giang, Long Biên, Hà Nội 100000, Vietnam
+  latitude: 21.0162107
+  longitude: 105.8143781
+- id: 118
+  district_id: 2
+  ward_id: 16
+  name: M-Mart
+  address: Ng. Quan Thổ 1/51 P.Tôn Đức Thắng, Hàng Bột, Đống Đa, Hà Nội 100000, Vietnam
+  latitude: 21.0162107
+  longitude: 105.8143781
+- id: 119
+  district_id: 12
+  ward_id: 162
+  name: Siêu thị T-Mart
+  address: 101 Nguyễn Quý Đức, Thanh Xuân Bắc, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9935011
+  longitude: 105.7295226
+- id: 120
+  district_id: 4
+  ward_id: 55
+  name: Circle K Viet Nam
+  address: 85 P. Hàng Mã, Hàng Bồ, Hoàn Kiếm, Hà Nội, Vietnam
+  latitude: 21.0162107
+  longitude: 105.8143781
+- id: 121
+  district_id: 2
+  ward_id: 21
+  name: Circle K Láng
+  address: Ngõ 848-850 Ng. 850 Đ. Láng, Láng Thượng, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0195473
+  longitude: 105.7323998
+- id: 122
+  district_id: 9
+  ward_id: 122
+  name: Siêu thị WinMart Đại La
+  address: 163A P. Đại La, Đồng Tâm, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 123
+  district_id: 12
+  ward_id: 166
+  name: WinMart Vincom Royal City
+  address: 72A Nguyễn Trãi, Thượng Đình, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 21.0033786
+  longitude: 105.7811822
+- id: 124
+  district_id: 6
+  ward_id: 87
+  name: WinMart
+  address: TTTM Winmart Trung Hòa, N 05 P. Hoàng Đạo Thúy, Trung Hoà, Cầu Giấy, Hà
+    Nội 100000, Vietnam
+  latitude: 21.0073081
+  longitude: 105.7665299
+- id: 125
+  district_id: 5
+  ward_id: 70
+  name: Cửa hàng WinMart+ 1B Nguyễn Duy Trinh
+  address: 1B đường P. Nguyễn Duy Trinh, Hoàng Liệt, Hoàng Mai, Hà Nội, Vietnam
+  latitude: 20.9649792
+  longitude: 105.7965088
+- id: 126
+  district_id: 25
+  ward_id: 457
+  name: Cửa hàng WinMart+ 18 Cầu Dậu
+  address: 532 Đ. Kim Giang, Thanh Liệt, Thanh Trì, Hà Nội, Vietnam
+  latitude: 20.9689
+  longitude: 105.7879811
+- id: 127
+  district_id: 25
+  ward_id: 456
+  name: Vinmart+ CT13 KĐTM Tứ Hiệp
+  address: Kiot 103 Ct13 KĐTM, Tứ Hiệp, Thanh Trì, Hà Nội, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 128
+  district_id: 9
+  ward_id: 124
+  name: Siêu thị WinMart Times City
+  address: 458 P. Minh Khai, Khu đô thị Times City, Hai Bà Trưng, Hà Nội 100000, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 129
+  district_id: 2
+  ward_id: 17
+  name: Siêu thị WinMart Phạm Ngọc Thạch
+  address: TTTM Vincom, 02 P. Phạm Ngọc Thạch, Kim Liên, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.006262
+  longitude: 105.7966811
+- id: 130
+  district_id: 25
+  ward_id: 456
+  name: Vinmart+
+  address: dịch vụ tổng hợp, Tầng 1, TTTM, Tứ Hiệp, Thanh Trì, Hà Nội, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 131
+  district_id: 25
+  ward_id: 456
+  name: Winmart + Yên Mỹ
+  address: 109 Đ. Tứ Hiệp, Yên Mỹ, Hà Nội, 100000, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 132
+  district_id: 25
+  ward_id: 456
+  name: Cửa hàng WinMart+ 60 Tứ Hiệp
+  address: 60 Đ. Tứ Hiệp, Tứ Hiệp, Thanh Trì, Hà Nội 100000, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 133
+  district_id: 5
+  ward_id: 76
+  name: WinMart+
+  address: 9 P. Thịnh Liệt, Thịnh Liệt, Hoàng Mai, Hà Nội 11706, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 134
+  district_id: 9
+  ward_id: 123
+  name: Siêu thị WinMart Vincom Bà Triệu
+  address: TTTM Vincom Center Phố, Tháp B, 191 P. Bà Triệu, Lê Đại Hành, Hai Bà Trưng,
+    Hà Nội, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 135
+  district_id: 2
+  ward_id: 18
+  name: Siêu thị WinMart Trúc Khê
+  address: No 19 P. Trúc Khê, Láng Hạ, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0157441
+  longitude: 105.7730126
+- id: 136
+  district_id: 5
+  ward_id: 70
+  name: Siêu Thị Tmart Trần Thủ Độ
+  address: 83 P. Trần Thủ Độ, Hoàng Liệt, Hoàng Mai, Hà Nội, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 137
+  district_id: 25
+  ward_id: 456
+  name: Cửa hàng WIN TTTM DVTH, Tứ Hiệp
+  address: TTTM dịch vụ tổng hợp, Tứ Hiệp, Thanh Trì, Hà Nội, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 138
+  district_id: 9
+  ward_id: 120
+  name: Winmart +
+  address: 347 P. Bạch Mai, Bạch Mai, Hai Bà Trưng, Hà Nội, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 139
+  district_id: 25
+  ward_id: 447
+  name: Cửa Hàng Vinmart+
+  address: 65 Đ. Cổ Điển, Văn Điển, Thanh Trì, Hà Nội, Vietnam
+  latitude: 20.941103
+  longitude: 105.8111111
+- id: 140
+  district_id: 29
+  ward_id: 544
+  name: Cửa hàng WinMart+ 60 Lê Trọng Tấn
+  address: 60 P. Lê Trọng Tấn, Phường, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.999345
+  longitude: 105.7926501
+- id: 141
+  district_id: 12
+  ward_id: 158
+  name: Winmart +
+  address: 147 P. Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9972403
+  longitude: 105.7885618
+- id: 142
+  district_id: 29
+  ward_id: 544
+  name: WinMart+
+  address: 268 P. Lê Trọng Tấn, Định Công, Thanh Xuân, Hà Nội, Vietnam
+  latitude: 20.9902864
+  longitude: 105.7985404
+- id: 143
+  district_id: 2
+  ward_id: 22
+  name: Siêu thị WinMart La Thành
+  address: Tòa nhà ICT, 170 Đ. La Thành, Chợ Dừa, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0207151
+  longitude: 105.7924677
+- id: 144
+  district_id: 5
+  ward_id: 70
+  name: Winmart+
+  address: SH5 Chung cư Phương Đông Greenpark, 1 P. Trần Thủ Độ, Hoàng Liệt, Hoàng
+    Mai, Hà Nội 100000, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 145
+  district_id: 2
+  ward_id: 19
+  name: Cửa hàng WinMart+ 230 Văn Chương
+  address: Văn Chương/230 P. Khâm Thiên, Khâm Thiên, Đống Đa, Hà Nội, Vietnam
+  latitude: 21.0212
+  longitude: 105.7999811
+- id: 146
+  district_id: 5
+  ward_id: 78
+  name: WinMart
+  address: Ng. 41 P. Tương Mai, Đồng Tâm, Hoàng Mai, Hà Nội, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 147
+  district_id: 5
+  ward_id: 72
+  name: VinMart+
+  address: Nhà dịch vụ số P05S05, ngõ 13 Đ. Lĩnh Nam, Mai Động, Hoàng Mai, Hà Nội
+    11710, Vietnam
+  latitude: 20.9814647
+  longitude: 105.8278413
+- id: 148
+  district_id: 6
+  ward_id: 87
+  name: Lịch Thủy Triều TBA
+  address: 41 P. Trung Kính, Trung Hoà, Cầu Giấy, Hà Nội, Vietnam
+  latitude: 21.0117774
+  longitude: 105.7630939
