@@ -1,6 +1,6 @@
 - id: 1
   district_id: 1
-  name: ': Trúc Bạch'
+  name: Trúc Bạch
 - id: 2
   district_id: 1
   name: Vĩnh Phúc
@@ -198,1522 +198,1537 @@
   name: Trần Hưng Đạo
 - id: 67
   district_id: 5
-  name: Mai Hùng
+  name: Đại Kim
 - id: 68
   district_id: 5
-  name: Quỳnh Dị
+  name: Định Công
 - id: 69
   district_id: 5
-  name: Quỳnh Xuân
+  name: Giáp Bát
 - id: 70
   district_id: 5
-  name: Quỳnh Phương
+  name: Hoàng Liệt
 - id: 71
   district_id: 5
-  name: Quỳnh Thiện
+  name: Hoàng Văn Thụ
 - id: 72
   district_id: 5
-  name: Quỳnh Trang
+  name: Lĩnh Nam
 - id: 73
   district_id: 5
-  name: Quỳnh Lập
+  name: Mai Động
 - id: 74
   district_id: 5
-  name: Quỳnh Vinh
+  name: Tân Mai
 - id: 75
   district_id: 5
-  name: Quỳnh Liên
+  name: Thanh Trì
 - id: 76
   district_id: 5
-  name: Quỳnh Lộc
+  name: Thịnh Liệt
 - id: 77
-  district_id: 6
-  name: Dịch Vọng
+  district_id: 5
+  name: Trần Phú
 - id: 78
-  district_id: 6
-  name: Dịch Vọng Hậu
+  district_id: 5
+  name: Tương Mai
 - id: 79
-  district_id: 6
-  name: Nghĩa Tân
+  district_id: 5
+  name: Vĩnh Hưng
 - id: 80
-  district_id: 6
-  name: Quan Hoa
+  district_id: 5
+  name: Yên Sở
 - id: 81
   district_id: 6
-  name: Mai Dịch
+  name: Dịch Vọng
 - id: 82
   district_id: 6
-  name: Nghĩa Đô
+  name: Dịch Vọng Hậu
 - id: 83
   district_id: 6
-  name: Trung Hòa
+  name: Nghĩa Tân
 - id: 84
   district_id: 6
-  name: Yên Hòa
+  name: Quan Hoa
 - id: 85
-  district_id: 7
-  name: Biên Giang
+  district_id: 6
+  name: Mai Dịch
 - id: 86
-  district_id: 7
-  name: Đồng Mai
+  district_id: 6
+  name: Nghĩa Đô
 - id: 87
-  district_id: 7
-  name: Hà Cầu
+  district_id: 6
+  name: Trung Hòa
 - id: 88
-  district_id: 7
-  name: La Khê
+  district_id: 6
+  name: Yên Hòa
 - id: 89
   district_id: 7
-  name: Mộ Lao
+  name: Biên Giang
 - id: 90
   district_id: 7
-  name: Yên Nghĩa
+  name: Đồng Mai
 - id: 91
   district_id: 7
-  name: Dương Nội
+  name: Hà Cầu
 - id: 92
   district_id: 7
-  name: Nguyễn Trãi
+  name: La Khê
 - id: 93
   district_id: 7
-  name: Phú La
+  name: Mộ Lao
 - id: 94
   district_id: 7
-  name: Kiến Hưng
+  name: Yên Nghĩa
 - id: 95
   district_id: 7
-  name: Phúc La
+  name: Dương Nội
 - id: 96
   district_id: 7
-  name: Phú Lãm
+  name: Nguyễn Trãi
 - id: 97
   district_id: 7
-  name: Phú Lương
+  name: Phú La
 - id: 98
   district_id: 7
-  name: Quang Trung
+  name: Kiến Hưng
 - id: 99
   district_id: 7
-  name: Vạn Phúc
+  name: Phúc La
 - id: 100
   district_id: 7
-  name: Yết Kiêu
+  name: Phú Lãm
 - id: 101
   district_id: 7
-  name: Văn Quán
+  name: Phú Lương
 - id: 102
-  district_id: 8
-  name: Cầu Diễn
+  district_id: 7
+  name: Quang Trung
 - id: 103
-  district_id: 8
-  name: Phú Đô
+  district_id: 7
+  name: Vạn Phúc
 - id: 104
-  district_id: 8
-  name: Mễ Trì
+  district_id: 7
+  name: Yết Kiêu
 - id: 105
-  district_id: 8
-  name: Mỹ Đình 1
+  district_id: 7
+  name: Văn Quán
 - id: 106
   district_id: 8
-  name: Mỹ Đình 2
+  name: Cầu Diễn
 - id: 107
   district_id: 8
-  name: Đại Mỗ
+  name: Phú Đô
 - id: 108
   district_id: 8
-  name: Phương Canh
+  name: Mễ Trì
 - id: 109
   district_id: 8
-  name: Xuân Phương
+  name: Mỹ Đình 1
 - id: 110
   district_id: 8
-  name: Tây Mỗ
+  name: Mỹ Đình 2
 - id: 111
-  district_id: 9
-  name: Bách Khoa
+  district_id: 8
+  name: Đại Mỗ
 - id: 112
-  district_id: 9
-  name: Bạch Đằng
+  district_id: 8
+  name: Phương Canh
 - id: 113
-  district_id: 9
-  name: Đống Mác
+  district_id: 8
+  name: Xuân Phương
 - id: 114
-  district_id: 9
-  name: Đồng Nhân
+  district_id: 8
+  name: Tây Mỗ
 - id: 115
-  district_id: 9
-  name: Bạch Mai
+  district_id: 8
+  name: Trung Văn
 - id: 116
   district_id: 9
-  name: Cầu Dền
+  name: Bách Khoa
 - id: 117
   district_id: 9
-  name: Đồng Tâm
+  name: Bạch Đằng
 - id: 118
   district_id: 9
-  name: Lê Đại Hành
+  name: Đống Mác
 - id: 119
   district_id: 9
-  name: Minh Khai
+  name: Đồng Nhân
 - id: 120
   district_id: 9
-  name: Nguyễn Du
+  name: Bạch Mai
 - id: 121
   district_id: 9
-  name: Quỳnh Lôi
+  name: Cầu Dền
 - id: 122
   district_id: 9
-  name: Phạm Đình Hổ
+  name: Đồng Tâm
 - id: 123
   district_id: 9
-  name: Phố Huế
+  name: Lê Đại Hành
 - id: 124
   district_id: 9
-  name: Quỳnh Mai
+  name: Minh Khai
 - id: 125
   district_id: 9
-  name: Trương Định
+  name: Nguyễn Du
 - id: 126
   district_id: 9
-  name: Vĩnh Tuy
+  name: Quỳnh Lôi
 - id: 127
   district_id: 9
-  name: Thanh Lương
+  name: Phạm Đình Hổ
 - id: 128
   district_id: 9
-  name: Thanh Nhàn
+  name: Phố Huế
 - id: 129
-  district_id: 10
-  name: Bưởi
+  district_id: 9
+  name: Quỳnh Mai
 - id: 130
-  district_id: 10
-  name: Nhật Tân
+  district_id: 9
+  name: Trương Định
 - id: 131
-  district_id: 10
-  name: Phú Thượng
+  district_id: 9
+  name: Vĩnh Tuy
 - id: 132
-  district_id: 10
-  name: Tứ Liên
+  district_id: 9
+  name: Thanh Lương
 - id: 133
-  district_id: 10
-  name: Xuân La
+  district_id: 9
+  name: Thanh Nhàn
 - id: 134
   district_id: 10
-  name: Quảng An
+  name: Bưởi
 - id: 135
   district_id: 10
-  name: Thụy Khuê
+  name: Nhật Tân
 - id: 136
   district_id: 10
-  name: Yên Phụ
+  name: Phú Thượng
 - id: 137
-  district_id: 11
-  name: Bồ Đề
+  district_id: 10
+  name: Tứ Liên
 - id: 138
-  district_id: 11
-  name: Cự Khối
+  district_id: 10
+  name: Xuân La
 - id: 139
-  district_id: 11
-  name: Giang Biên
+  district_id: 10
+  name: Quảng An
 - id: 140
-  district_id: 11
-  name: Long Biên
+  district_id: 10
+  name: Thụy Khuê
 - id: 141
-  district_id: 11
-  name: Đức Giang
+  district_id: 10
+  name: Yên Phụ
 - id: 142
   district_id: 11
-  name: Gia Thụy
+  name: Bồ Đề
 - id: 143
   district_id: 11
-  name: Phúc Đồng
+  name: Cự Khối
 - id: 144
   district_id: 11
-  name: Phúc Lợi
+  name: Giang Biên
 - id: 145
   district_id: 11
-  name: Ngọc Lâm
+  name: Long Biên
 - id: 146
   district_id: 11
-  name: Ngọc Thụy
+  name: Đức Giang
 - id: 147
   district_id: 11
-  name: Sài Đồng
+  name: Gia Thụy
 - id: 148
   district_id: 11
-  name: Thạch Bàn
+  name: Phúc Đồng
 - id: 149
   district_id: 11
-  name: Việt Hưng
+  name: Phúc Lợi
 - id: 150
   district_id: 11
-  name: Thượng Thanh
+  name: Ngọc Lâm
 - id: 151
-  district_id: 12
-  name: Hạ Đình
+  district_id: 11
+  name: Ngọc Thụy
 - id: 152
-  district_id: 12
-  name: Khương Đình
+  district_id: 11
+  name: Sài Đồng
 - id: 153
-  district_id: 12
-  name: Khương Trung
+  district_id: 11
+  name: Thạch Bàn
 - id: 154
-  district_id: 12
-  name: Khương Mai
+  district_id: 11
+  name: Việt Hưng
 - id: 155
-  district_id: 12
-  name: Kim Giang
+  district_id: 11
+  name: Thượng Thanh
 - id: 156
   district_id: 12
-  name: Nhân Chính
+  name: Hạ Đình
 - id: 157
   district_id: 12
-  name: Thanh Xuân Bắc
+  name: Khương Đình
 - id: 158
   district_id: 12
-  name: Thanh Xuân Nam
+  name: Khương Trung
 - id: 159
   district_id: 12
-  name: Phương Liệt
+  name: Khương Mai
 - id: 160
   district_id: 12
-  name: Thanh Xuân Trung
+  name: Kim Giang
 - id: 161
   district_id: 12
-  name: Thượng Đình
+  name: Nhân Chính
 - id: 162
-  district_id: 13
-  name: Trâu Quỳ
+  district_id: 12
+  name: Thanh Xuân Bắc
 - id: 163
-  district_id: 13
-  name: Yên Viên
+  district_id: 12
+  name: Thanh Xuân Nam
 - id: 164
-  district_id: 13
-  name: Cổ Bi
+  district_id: 12
+  name: Phương Liệt
 - id: 165
-  district_id: 13
-  name: Đặng Xá
+  district_id: 12
+  name: Thanh Xuân Trung
 - id: 166
-  district_id: 13
-  name: Dương Quang
+  district_id: 12
+  name: Thượng Đình
 - id: 167
   district_id: 13
-  name: Kim Sơn
+  name: Trâu Quỳ
 - id: 168
   district_id: 13
-  name: Dương Xá
+  name: Yên Viên
 - id: 169
   district_id: 13
-  name: Phú Thị
+  name: Cổ Bi
 - id: 170
   district_id: 13
-  name: Đông Dư
+  name: Đặng Xá
 - id: 171
   district_id: 13
-  name: Văn Đức
+  name: Dương Quang
 - id: 172
   district_id: 13
-  name: Lệ Chi
+  name: Kim Sơn
 - id: 173
   district_id: 13
-  name: Đa Tốn
+  name: Dương Xá
 - id: 174
   district_id: 13
-  name: Kim Lan
+  name: Phú Thị
 - id: 175
   district_id: 13
-  name: Kiêu Kỵ
+  name: Đông Dư
 - id: 176
   district_id: 13
-  name: Bát Tràng
+  name: Văn Đức
 - id: 177
   district_id: 13
-  name: Yên Viên
+  name: Lệ Chi
 - id: 178
   district_id: 13
-  name: Ninh Hiệp
+  name: Đa Tốn
 - id: 179
   district_id: 13
-  name: Yên Thường
+  name: Kim Lan
 - id: 180
   district_id: 13
-  name: Dương Hà
+  name: Kiêu Kỵ
 - id: 181
   district_id: 13
-  name: Đình Xuyên
+  name: Bát Tràng
 - id: 182
   district_id: 13
-  name: Phù Đổng
+  name: Yên Viên
 - id: 183
   district_id: 13
-  name: Trung Mầu
+  name: Ninh Hiệp
 - id: 184
-  district_id: 14
-  name: Vân Đình
+  district_id: 13
+  name: Yên Thường
 - id: 185
-  district_id: 14
-  name: Cao Thành
+  district_id: 13
+  name: Dương Hà
 - id: 186
-  district_id: 14
-  name: Đông Lỗ
+  district_id: 13
+  name: Đình Xuyên
 - id: 187
-  district_id: 14
-  name: Đại Cường
+  district_id: 13
+  name: Phù Đổng
 - id: 188
-  district_id: 14
-  name: Đồng Tiến
+  district_id: 13
+  name: Trung Mầu
 - id: 189
   district_id: 14
-  name: Đại Hùng
+  name: Vân Đình
 - id: 190
   district_id: 14
-  name: Đồng Tân
+  name: Cao Thành
 - id: 191
   district_id: 14
-  name: Hoa Sơn
+  name: Đông Lỗ
 - id: 192
   district_id: 14
-  name: Đội Bình
+  name: Đại Cường
 - id: 193
   district_id: 14
-  name: Hòa Phú
+  name: Đồng Tiến
 - id: 194
   district_id: 14
-  name: Hòa Xá
+  name: Đại Hùng
 - id: 195
   district_id: 14
-  name: Hòa Nam
+  name: Đồng Tân
 - id: 196
   district_id: 14
-  name: Hồng Quang
+  name: Hoa Sơn
 - id: 197
   district_id: 14
-  name: Hòa Lâm
+  name: Đội Bình
 - id: 198
   district_id: 14
-  name: Kim Đường
+  name: Hòa Phú
 - id: 199
   district_id: 14
-  name: Minh Đức
+  name: Hòa Xá
 - id: 200
   district_id: 14
-  name: Phương Tú
+  name: Hòa Nam
 - id: 201
   district_id: 14
-  name: Liên Bạt
+  name: Hồng Quang
 - id: 202
   district_id: 14
-  name: Phù Lưu
+  name: Hòa Lâm
 - id: 203
   district_id: 14
-  name: Lưu Hoàng
+  name: Kim Đường
 - id: 204
   district_id: 14
-  name: Quảng Phú Cầu
+  name: Minh Đức
 - id: 205
   district_id: 14
-  name: Trường Thịnh
+  name: Phương Tú
 - id: 206
   district_id: 14
-  name: Tảo Dương Văn
+  name: Liên Bạt
 - id: 207
   district_id: 14
-  name: Sơn Công
+  name: Phù Lưu
 - id: 208
   district_id: 14
-  name: Trung Tú
+  name: Lưu Hoàng
 - id: 209
   district_id: 14
-  name: Trầm Lộng
+  name: Quảng Phú Cầu
 - id: 210
   district_id: 14
-  name: Viên Nội
+  name: Trường Thịnh
 - id: 211
   district_id: 14
-  name: Vạn Thái
+  name: Tảo Dương Văn
 - id: 212
   district_id: 14
-  name: Viên An
+  name: Sơn Công
 - id: 213
-  district_id: 15
-  name: Đại Nghĩa
+  district_id: 14
+  name: Trung Tú
 - id: 214
-  district_id: 15
-  name: An Mỹ
+  district_id: 14
+  name: Trầm Lộng
 - id: 215
-  district_id: 15
-  name: An Phú
+  district_id: 14
+  name: Viên Nội
 - id: 216
-  district_id: 15
-  name: Đại Hưng
+  district_id: 14
+  name: Vạn Thái
 - id: 217
-  district_id: 15
-  name: Đốc Tín
+  district_id: 14
+  name: Viên An
 - id: 218
   district_id: 15
-  name: An Tiến
+  name: Đại Nghĩa
 - id: 219
   district_id: 15
-  name: Bột Xuyên
+  name: An Mỹ
 - id: 220
   district_id: 15
-  name: Đồng Tâm
+  name: An Phú
 - id: 221
   district_id: 15
-  name: Hồng Sơn
+  name: Đại Hưng
 - id: 222
   district_id: 15
-  name: Hùng Tiến
+  name: Đốc Tín
 - id: 223
   district_id: 15
-  name: Hương Sơn
+  name: An Tiến
 - id: 224
   district_id: 15
-  name: Hợp Thanh
+  name: Bột Xuyên
 - id: 225
   district_id: 15
-  name: Hợp Tiến
+  name: Đồng Tâm
 - id: 226
   district_id: 15
-  name: Lê Thanh
+  name: Hồng Sơn
 - id: 227
   district_id: 15
-  name: Mỹ Thành
+  name: Hùng Tiến
 - id: 228
   district_id: 15
-  name: Thượng Lâm
+  name: Hương Sơn
 - id: 229
   district_id: 15
-  name: Tuy Lai
+  name: Hợp Thanh
 - id: 230
   district_id: 15
-  name: Phù Lưu Tế
+  name: Hợp Tiến
 - id: 231
   district_id: 15
-  name: Phúc Lâm
+  name: Lê Thanh
 - id: 232
   district_id: 15
-  name: Phùng Xá
+  name: Mỹ Thành
 - id: 233
   district_id: 15
-  name: Vạn Kim
+  name: Thượng Lâm
 - id: 234
   district_id: 15
-  name: Xuy Xá
+  name: Tuy Lai
 - id: 235
-  district_id: 16
-  name: Kim Bài
+  district_id: 15
+  name: Phù Lưu Tế
 - id: 236
-  district_id: 16
-  name: Bích Hòa
+  district_id: 15
+  name: Phúc Lâm
 - id: 237
-  district_id: 16
-  name: Bình Minh
+  district_id: 15
+  name: Phùng Xá
 - id: 238
-  district_id: 16
-  name: Cự Khê
+  district_id: 15
+  name: Vạn Kim
 - id: 239
-  district_id: 16
-  name: Dân Hòa
+  district_id: 15
+  name: Xuy Xá
 - id: 240
   district_id: 16
-  name: Cao Dương
+  name: Kim Bài
 - id: 241
   district_id: 16
-  name: Hồng Dương
+  name: Bích Hòa
 - id: 242
   district_id: 16
-  name: Liên Châu
+  name: Bình Minh
 - id: 243
   district_id: 16
-  name: Cao Viên
+  name: Cự Khê
 - id: 244
   district_id: 16
-  name: Đỗ Động
+  name: Dân Hòa
 - id: 245
   district_id: 16
-  name: Mỹ Hưng
+  name: Cao Dương
 - id: 246
   district_id: 16
-  name: Kim An
+  name: Hồng Dương
 - id: 247
   district_id: 16
-  name: Tam Hưng
+  name: Liên Châu
 - id: 248
   district_id: 16
-  name: Kim Thư
+  name: Cao Viên
 - id: 249
   district_id: 16
-  name: Phương Trung
+  name: Đỗ Động
 - id: 250
   district_id: 16
-  name: Thanh Mai
+  name: Mỹ Hưng
 - id: 251
   district_id: 16
-  name: Tân Ơc
+  name: Kim An
 - id: 252
   district_id: 16
-  name: Thanh Cao
+  name: Tam Hưng
 - id: 253
   district_id: 16
-  name: Thanh Thùy
+  name: Kim Thư
 - id: 254
   district_id: 16
-  name: Thanh Văn
+  name: Phương Trung
 - id: 255
   district_id: 16
-  name: Xuân Dương
+  name: Thanh Mai
 - id: 256
-  district_id: 17
-  name: Phúc Thọ
+  district_id: 16
+  name: Tân Ơc
 - id: 257
-  district_id: 17
-  name: Liên Hiệp
+  district_id: 16
+  name: Thanh Cao
 - id: 258
-  district_id: 17
-  name: Long Xuyên
+  district_id: 16
+  name: Thanh Thùy
 - id: 259
-  district_id: 17
-  name: Hát Môn
+  district_id: 16
+  name: Thanh Văn
 - id: 260
-  district_id: 17
-  name: Hiệp Thuận
+  district_id: 16
+  name: Xuân Dương
 - id: 261
   district_id: 17
-  name: Ngọc Tảo
+  name: Phúc Thọ
 - id: 262
   district_id: 17
-  name: Phúc Hòa
+  name: Liên Hiệp
 - id: 263
   district_id: 17
-  name: Tam Hiệp
+  name: Long Xuyên
 - id: 264
   district_id: 17
-  name: Tam Thuấn
+  name: Hát Môn
 - id: 265
   district_id: 17
-  name: Phụng Thượng
+  name: Hiệp Thuận
 - id: 266
   district_id: 17
-  name: Sen Phương
+  name: Ngọc Tảo
 - id: 267
   district_id: 17
-  name: Thanh Đa
+  name: Phúc Hòa
 - id: 268
   district_id: 17
-  name: Thọ Lộc
+  name: Tam Hiệp
 - id: 269
   district_id: 17
-  name: Trạch Mỹ Lộc
+  name: Tam Thuấn
 - id: 270
   district_id: 17
-  name: Vân Hà
+  name: Phụng Thượng
 - id: 271
   district_id: 17
-  name: Vân Nam
+  name: Sen Phương
 - id: 272
   district_id: 17
-  name: Thượng Cốc
+  name: Thanh Đa
 - id: 273
   district_id: 17
-  name: Tích Giang
+  name: Thọ Lộc
 - id: 274
   district_id: 17
-  name: Vân Phúc
+  name: Trạch Mỹ Lộc
 - id: 275
   district_id: 17
-  name: Võng Xuyên
+  name: Vân Hà
 - id: 276
   district_id: 17
-  name: Xuân Đình
+  name: Vân Nam
 - id: 277
-  district_id: 18
-  name: Tây Đằng
+  district_id: 17
+  name: Thượng Cốc
 - id: 278
-  district_id: 18
-  name: Ba Trại
+  district_id: 17
+  name: Tích Giang
 - id: 279
-  district_id: 18
-  name: Ba Vì
+  district_id: 17
+  name: Vân Phúc
 - id: 280
-  district_id: 18
-  name: Châu Sơn
+  district_id: 17
+  name: Võng Xuyên
 - id: 281
-  district_id: 18
-  name: Chu Minh
+  district_id: 17
+  name: Xuân Đình
 - id: 282
   district_id: 18
-  name: Cẩm Lĩnh
+  name: Tây Đằng
 - id: 283
   district_id: 18
-  name: Đồng Thái
+  name: Ba Trại
 - id: 284
   district_id: 18
-  name: Cam Thượng
+  name: Ba Vì
 - id: 285
   district_id: 18
-  name: Khánh Thượng
+  name: Châu Sơn
 - id: 286
   district_id: 18
-  name: Cổ Đô
+  name: Chu Minh
 - id: 287
   district_id: 18
-  name: Minh Châu
+  name: Cẩm Lĩnh
 - id: 288
   district_id: 18
-  name: Đông Quang
+  name: Đồng Thái
 - id: 289
   district_id: 18
-  name: Minh Quang
+  name: Cam Thượng
 - id: 290
   district_id: 18
-  name: Phú Cường
+  name: Khánh Thượng
 - id: 291
   district_id: 18
-  name: Phong Vân
+  name: Cổ Đô
 - id: 292
   district_id: 18
-  name: Phú Châu
+  name: Minh Châu
 - id: 293
   district_id: 18
-  name: Phú Đông
+  name: Đông Quang
 - id: 294
   district_id: 18
-  name: Phú Phương
+  name: Minh Quang
 - id: 295
   district_id: 18
-  name: Tản Lĩnh
+  name: Phú Cường
 - id: 296
   district_id: 18
-  name: Phú Sơn
+  name: Phong Vân
 - id: 297
   district_id: 18
-  name: Thái Hòa
+  name: Phú Châu
 - id: 298
   district_id: 18
-  name: Tản Hồng
+  name: Phú Đông
 - id: 299
   district_id: 18
-  name: Thuần Mỹ
+  name: Phú Phương
 - id: 300
   district_id: 18
-  name: Sơn Đà
+  name: Tản Lĩnh
 - id: 301
   district_id: 18
-  name: Thụy An
+  name: Phú Sơn
 - id: 302
   district_id: 18
-  name: Vạn Thắng
+  name: Thái Hòa
 - id: 303
   district_id: 18
-  name: Tiên Phong
+  name: Tản Hồng
 - id: 304
   district_id: 18
-  name: Vân Hòa
+  name: Thuần Mỹ
 - id: 305
   district_id: 18
-  name: Tòng Bạt
+  name: Sơn Đà
 - id: 306
   district_id: 18
-  name: Yên Bài
+  name: Thụy An
 - id: 307
   district_id: 18
-  name: Vật Lại
+  name: Vạn Thắng
 - id: 308
-  district_id: 19
-  name: Liên Quan
+  district_id: 18
+  name: Tiên Phong
 - id: 309
-  district_id: 19
-  name: Bình Phú
+  district_id: 18
+  name: Vân Hòa
 - id: 310
-  district_id: 19
-  name: Bình Yên
+  district_id: 18
+  name: Tòng Bạt
 - id: 311
-  district_id: 19
-  name: Canh Nậu
+  district_id: 18
+  name: Yên Bài
 - id: 312
-  district_id: 19
-  name: Chàng Sơn
+  district_id: 18
+  name: Vật Lại
 - id: 313
   district_id: 19
-  name: Cần Kiệm
+  name: Liên Quan
 - id: 314
   district_id: 19
-  name: Cẩm Yên
+  name: Bình Phú
 - id: 315
   district_id: 19
-  name: Đại Đồng
+  name: Bình Yên
 - id: 316
   district_id: 19
-  name: Hữu Bằng
+  name: Canh Nậu
 - id: 317
   district_id: 19
-  name: Kim Quan
+  name: Chàng Sơn
 - id: 318
   district_id: 19
-  name: Dị Nậu
+  name: Cần Kiệm
 - id: 319
   district_id: 19
-  name: Đồng Trúc
+  name: Cẩm Yên
 - id: 320
   district_id: 19
-  name: Hương Ngải
+  name: Đại Đồng
 - id: 321
   district_id: 19
-  name: Hạ Bằng
+  name: Hữu Bằng
 - id: 322
   district_id: 19
-  name: Lại Thượng
+  name: Kim Quan
 - id: 323
   district_id: 19
-  name: Phú Kim
+  name: Dị Nậu
 - id: 324
   district_id: 19
-  name: Thạch Xá
+  name: Đồng Trúc
 - id: 325
   district_id: 19
-  name: Tân Xã
+  name: Hương Ngải
 - id: 326
   district_id: 19
-  name: Phùng Xá
+  name: Hạ Bằng
 - id: 327
   district_id: 19
-  name: Thạch Hòa
+  name: Lại Thượng
 - id: 328
   district_id: 19
-  name: Tiến Xuân
+  name: Phú Kim
 - id: 329
   district_id: 19
-  name: Yên Trung
+  name: Thạch Xá
 - id: 330
   district_id: 19
-  name: Yên Bình
+  name: Tân Xã
 - id: 331
-  district_id: 20
-  name: Phú Thịnh
+  district_id: 19
+  name: Phùng Xá
 - id: 332
-  district_id: 20
-  name: Quang Trung
+  district_id: 19
+  name: Thạch Hòa
 - id: 333
-  district_id: 20
-  name: Lê Lợi
+  district_id: 19
+  name: Tiến Xuân
 - id: 334
-  district_id: 20
-  name: Ngô Quyền
+  district_id: 19
+  name: Yên Trung
 - id: 335
-  district_id: 20
-  name: Sơn Lộc
+  district_id: 19
+  name: Yên Bình
 - id: 336
   district_id: 20
-  name: Trung Hưng
+  name: Phú Thịnh
 - id: 337
   district_id: 20
-  name: Trung Sơn Trầm
+  name: Quang Trung
 - id: 338
   district_id: 20
-  name: Xuân Khanh
+  name: Lê Lợi
 - id: 339
   district_id: 20
-  name: Viên Sơn
+  name: Ngô Quyền
 - id: 340
   district_id: 20
-  name: Cổ Đông
+  name: Sơn Lộc
 - id: 341
   district_id: 20
-  name: Xuân Sơn
+  name: Trung Hưng
 - id: 342
   district_id: 20
-  name: Kim Sơn
+  name: Trung Sơn Trầm
 - id: 343
   district_id: 20
-  name: Đường Lâm
+  name: Xuân Khanh
 - id: 344
   district_id: 20
-  name: Thanh Mỹ
+  name: Viên Sơn
 - id: 345
   district_id: 20
-  name: Sơn Đông
+  name: Cổ Đông
 - id: 346
-  district_id: 21
-  name: Chúc Sơn
+  district_id: 20
+  name: Xuân Sơn
 - id: 347
-  district_id: 21
-  name: Xuân Mai
+  district_id: 20
+  name: Kim Sơn
 - id: 348
-  district_id: 21
-  name: Đại Yên
+  district_id: 20
+  name: Đường Lâm
 - id: 349
-  district_id: 21
-  name: Đông Phương Yên
+  district_id: 20
+  name: Thanh Mỹ
 - id: 350
-  district_id: 21
-  name: Đồng Phú
+  district_id: 20
+  name: Sơn Đông
 - id: 351
   district_id: 21
-  name: Hòa Chính
+  name: Chúc Sơn
 - id: 352
   district_id: 21
-  name: Đồng Lạc
+  name: Xuân Mai
 - id: 353
   district_id: 21
-  name: Hoàng Diệu
+  name: Đại Yên
 - id: 354
   district_id: 21
-  name: Đông Sơn
+  name: Đông Phương Yên
 - id: 355
   district_id: 21
-  name: Hoàng Văn Thụ
+  name: Đồng Phú
 - id: 356
   district_id: 21
-  name: Lam Điền
+  name: Hòa Chính
 - id: 357
   district_id: 21
-  name: Hữu Văn
+  name: Đồng Lạc
 - id: 358
   district_id: 21
-  name: Hồng Phong
+  name: Hoàng Diệu
 - id: 359
   district_id: 21
-  name: Mỹ Lương
+  name: Đông Sơn
 - id: 360
   district_id: 21
-  name: Hợp Đồng
+  name: Hoàng Văn Thụ
 - id: 361
   district_id: 21
-  name: Nam Phương Tiến
+  name: Lam Điền
 - id: 362
   district_id: 21
-  name: Phụng Châu
+  name: Hữu Văn
 - id: 363
   district_id: 21
-  name: Phú Nghĩa
+  name: Hồng Phong
 - id: 364
   district_id: 21
-  name: Ngọc Hòa
+  name: Mỹ Lương
 - id: 365
   district_id: 21
-  name: Quảng Bị
+  name: Hợp Đồng
 - id: 366
   district_id: 21
-  name: Phú Nam An
+  name: Nam Phương Tiến
 - id: 367
   district_id: 21
-  name: Tân Tiến
+  name: Phụng Châu
 - id: 368
   district_id: 21
-  name: Thanh Bình
+  name: Phú Nghĩa
 - id: 369
   district_id: 21
-  name: Tiên Phương
+  name: Ngọc Hòa
 - id: 370
   district_id: 21
-  name: Thủy Xuân Tiên
+  name: Quảng Bị
 - id: 371
   district_id: 21
-  name: Tốt Động
+  name: Phú Nam An
 - id: 372
   district_id: 21
-  name: Thượng Vực
+  name: Tân Tiến
 - id: 373
   district_id: 21
-  name: Thụy Hương
+  name: Thanh Bình
 - id: 374
   district_id: 21
-  name: Trường Yên
+  name: Tiên Phương
 - id: 375
   district_id: 21
-  name: Trần Phú
+  name: Thủy Xuân Tiên
 - id: 376
   district_id: 21
-  name: Văn Võ
+  name: Tốt Động
 - id: 377
   district_id: 21
-  name: Trung Hòa
+  name: Thượng Vực
 - id: 378
-  district_id: 22
-  name: Đông Anh
+  district_id: 21
+  name: Thụy Hương
 - id: 379
-  district_id: 22
-  name: Bắc Hồng
+  district_id: 21
+  name: Trường Yên
 - id: 380
-  district_id: 22
-  name: Cổ Loa
+  district_id: 21
+  name: Trần Phú
 - id: 381
-  district_id: 22
-  name: Dục Tú
+  district_id: 21
+  name: Văn Võ
 - id: 382
-  district_id: 22
-  name: Xuân Nộn
+  district_id: 21
+  name: Trung Hòa
 - id: 383
   district_id: 22
-  name: Hải Bối
+  name: Đông Anh
 - id: 384
   district_id: 22
-  name: Đại Mạch
+  name: Bắc Hồng
 - id: 385
   district_id: 22
-  name: Đông Hội
+  name: Cổ Loa
 - id: 386
   district_id: 22
-  name: Võng La
+  name: Dục Tú
 - id: 387
   district_id: 22
-  name: Kim Chung
+  name: Xuân Nộn
 - id: 388
   district_id: 22
-  name: Kim Nỗ
+  name: Hải Bối
 - id: 389
   district_id: 22
-  name: Liên Hà
+  name: Đại Mạch
 - id: 390
   district_id: 22
-  name: Mai Lâm
+  name: Đông Hội
 - id: 391
   district_id: 22
-  name: Tàm Xá
+  name: Võng La
 - id: 392
   district_id: 22
-  name: Nguyên Khê
+  name: Kim Chung
 - id: 393
   district_id: 22
-  name: Thụy Lâm
+  name: Kim Nỗ
 - id: 394
   district_id: 22
-  name: Vân Nội
+  name: Liên Hà
 - id: 395
   district_id: 22
-  name: Tiên Dương
+  name: Mai Lâm
 - id: 396
   district_id: 22
-  name: Việt Hùng
+  name: Tàm Xá
 - id: 397
   district_id: 22
-  name: Xuân Canh
+  name: Nguyên Khê
 - id: 398
   district_id: 22
-  name: Nam Hồng
+  name: Thụy Lâm
 - id: 399
   district_id: 22
-  name: Vân Hà
+  name: Vân Nội
 - id: 400
   district_id: 22
-  name: Uy Nỗ
+  name: Tiên Dương
 - id: 401
-  district_id: 23
-  name: Quốc Oai
+  district_id: 22
+  name: Việt Hùng
 - id: 402
-  district_id: 23
-  name: Cấn Hữu
+  district_id: 22
+  name: Xuân Canh
 - id: 403
-  district_id: 23
-  name: Đông Yên
+  district_id: 22
+  name: Nam Hồng
 - id: 404
-  district_id: 23
-  name: Đại Thành
+  district_id: 22
+  name: Vân Hà
 - id: 405
-  district_id: 23
-  name: Đồng Quang
+  district_id: 22
+  name: Uy Nỗ
 - id: 406
   district_id: 23
-  name: Hòa Thạch
+  name: Quốc Oai
 - id: 407
   district_id: 23
-  name: Liệp Tuyết
+  name: Cấn Hữu
 - id: 408
   district_id: 23
-  name: Nghĩa Hương
+  name: Đông Yên
 - id: 409
   district_id: 23
-  name: Phú Mãn
+  name: Đại Thành
 - id: 410
   district_id: 23
-  name: Ngọc Liệp
+  name: Đồng Quang
 - id: 411
   district_id: 23
-  name: Phượng Cách
+  name: Hòa Thạch
 - id: 412
   district_id: 23
-  name: Sài Sơn
+  name: Liệp Tuyết
 - id: 413
   district_id: 23
-  name: Ngọc Mỹ
+  name: Nghĩa Hương
 - id: 414
   district_id: 23
-  name: Thạch Thán
+  name: Phú Mãn
 - id: 415
   district_id: 23
-  name: Tân Hòa
+  name: Ngọc Liệp
 - id: 416
   district_id: 23
-  name: Tuyết Nghĩa
+  name: Phượng Cách
 - id: 417
   district_id: 23
-  name: Tân Phú
+  name: Sài Sơn
 - id: 418
   district_id: 23
-  name: Yên Sơn
+  name: Ngọc Mỹ
 - id: 419
   district_id: 23
-  name: Đông Xuân
+  name: Thạch Thán
 - id: 420
   district_id: 23
-  name: Cộng Hòa
+  name: Tân Hòa
 - id: 421
   district_id: 23
-  name: Phú Cát
+  name: Tuyết Nghĩa
 - id: 422
-  district_id: 24
-  name: Trạm Trôi
+  district_id: 23
+  name: Tân Phú
 - id: 423
-  district_id: 24
-  name: An Khánh
+  district_id: 23
+  name: Yên Sơn
 - id: 424
-  district_id: 24
-  name: Di Trạch
+  district_id: 23
+  name: Đông Xuân
 - id: 425
-  district_id: 24
-  name: Đông La
+  district_id: 23
+  name: Cộng Hòa
 - id: 426
-  district_id: 24
-  name: An Thượng
+  district_id: 23
+  name: Phú Cát
 - id: 427
   district_id: 24
-  name: Cát Quế
+  name: Trạm Trôi
 - id: 428
   district_id: 24
-  name: Đắc Sở
+  name: An Khánh
 - id: 429
   district_id: 24
-  name: Đức Thượng
+  name: Di Trạch
 - id: 430
   district_id: 24
-  name: Lại Yên
+  name: Đông La
 - id: 431
   district_id: 24
-  name: Dương Liễu
+  name: An Thượng
 - id: 432
   district_id: 24
-  name: La Phù
+  name: Cát Quế
 - id: 433
   district_id: 24
-  name: Kim Chung
+  name: Đắc Sở
 - id: 434
   district_id: 24
-  name: Sơn Đồng
+  name: Đức Thượng
 - id: 435
   district_id: 24
-  name: Vân Canh
+  name: Lại Yên
 - id: 436
   district_id: 24
-  name: Minh Khai
+  name: Dương Liễu
 - id: 437
   district_id: 24
-  name: Song Phương
+  name: La Phù
 - id: 438
   district_id: 24
-  name: Tiền Yên
+  name: Kim Chung
 - id: 439
   district_id: 24
-  name: Vân Côn
+  name: Sơn Đồng
 - id: 440
   district_id: 24
-  name: Yên Sở
+  name: Vân Canh
 - id: 441
   district_id: 24
-  name: Đức Giang
+  name: Minh Khai
 - id: 442
-  district_id: 25
-  name: Văn Điển
+  district_id: 24
+  name: Song Phương
 - id: 443
-  district_id: 25
-  name: Đại Áng
+  district_id: 24
+  name: Tiền Yên
 - id: 444
-  district_id: 25
-  name: Liên Ninh
+  district_id: 24
+  name: Vân Côn
 - id: 445
-  district_id: 25
-  name: Đông Mỹ
+  district_id: 24
+  name: Yên Sở
 - id: 446
-  district_id: 25
-  name: Ngọc Hồi
+  district_id: 24
+  name: Đức Giang
 - id: 447
   district_id: 25
-  name: Hữu Hòa
+  name: Văn Điển
 - id: 448
   district_id: 25
-  name: Duyên Hà
+  name: Đại Áng
 - id: 449
   district_id: 25
-  name: Ngũ Hiệp
+  name: Liên Ninh
 - id: 450
   district_id: 25
-  name: Tả Thanh Oai
+  name: Đông Mỹ
 - id: 451
   district_id: 25
-  name: Tứ Hiệp
+  name: Ngọc Hồi
 - id: 452
   district_id: 25
-  name: Thanh Liệt
+  name: Hữu Hòa
 - id: 453
   district_id: 25
-  name: Tam Hiệp
+  name: Duyên Hà
 - id: 454
   district_id: 25
-  name: Tân Triều
+  name: Ngũ Hiệp
 - id: 455
   district_id: 25
-  name: Vĩnh Quỳnh
+  name: Tả Thanh Oai
 - id: 456
   district_id: 25
-  name: Yên Mỹ
+  name: Tứ Hiệp
 - id: 457
   district_id: 25
-  name: Vạn Phúc
+  name: Thanh Liệt
 - id: 458
-  district_id: 26
-  name: Chi Đông
+  district_id: 25
+  name: Tam Hiệp
 - id: 459
-  district_id: 26
-  name: Quang Minh
+  district_id: 25
+  name: Tân Triều
 - id: 460
-  district_id: 26
-  name: Hoàng Kim
+  district_id: 25
+  name: Vĩnh Quỳnh
 - id: 461
-  district_id: 26
-  name: Kim Hoa
+  district_id: 25
+  name: Yên Mỹ
 - id: 462
-  district_id: 26
-  name: Chu Phan
+  district_id: 25
+  name: Vạn Phúc
 - id: 463
   district_id: 26
-  name: Đại Thịnh
+  name: Chi Đông
 - id: 464
   district_id: 26
-  name: Liên Mạc
+  name: Quang Minh
 - id: 465
   district_id: 26
-  name: Mê Linh
+  name: Hoàng Kim
 - id: 466
   district_id: 26
-  name: Tiền Phong
+  name: Kim Hoa
 - id: 467
   district_id: 26
-  name: Thanh Lâm
+  name: Chu Phan
 - id: 468
   district_id: 26
-  name: Tam Đồng
+  name: Đại Thịnh
 - id: 469
   district_id: 26
-  name: Tiến Thắng
+  name: Liên Mạc
 - id: 470
   district_id: 26
-  name: Thạch Đà
+  name: Mê Linh
 - id: 471
   district_id: 26
-  name: Tiến Thịnh
+  name: Tiền Phong
 - id: 472
   district_id: 26
-  name: Vạn Yên
+  name: Thanh Lâm
 - id: 473
   district_id: 26
-  name: Tráng Việt
+  name: Tam Đồng
 - id: 474
   district_id: 26
-  name: Văn Khê
+  name: Tiến Thắng
 - id: 475
   district_id: 26
-  name: Tự Lập
+  name: Thạch Đà
 - id: 476
-  district_id: 27
-  name: Phùng
+  district_id: 26
+  name: Tiến Thịnh
 - id: 477
-  district_id: 27
-  name: Đan Phượng
+  district_id: 26
+  name: Vạn Yên
 - id: 478
-  district_id: 27
-  name: Đồng Tháp
+  district_id: 26
+  name: Tráng Việt
 - id: 479
-  district_id: 27
-  name: Liên Hà
+  district_id: 26
+  name: Văn Khê
 - id: 480
-  district_id: 27
-  name: Liên Hồng
+  district_id: 26
+  name: Tự Lập
 - id: 481
   district_id: 27
-  name: Hạ Mỗ
+  name: Phùng
 - id: 482
   district_id: 27
-  name: Hồng Hà
+  name: Đan Phượng
 - id: 483
   district_id: 27
-  name: Liên Trung
+  name: Đồng Tháp
 - id: 484
   district_id: 27
-  name: Tân Lập
+  name: Liên Hà
 - id: 485
   district_id: 27
-  name: Song Phượng
+  name: Liên Hồng
 - id: 486
   district_id: 27
-  name: Phương Đình
+  name: Hạ Mỗ
 - id: 487
   district_id: 27
-  name: Thọ An
+  name: Hồng Hà
 - id: 488
   district_id: 27
-  name: Trung Châu
+  name: Liên Trung
 - id: 489
   district_id: 27
-  name: Thọ Xuân
+  name: Tân Lập
 - id: 490
   district_id: 27
-  name: Thượng Mỗ
+  name: Song Phượng
 - id: 491
   district_id: 27
-  name: Tân Hội
+  name: Phương Đình
 - id: 492
-  district_id: 28
-  name: Phú Xuyên
+  district_id: 27
+  name: Thọ An
 - id: 493
-  district_id: 28
-  name: Phú Minh
+  district_id: 27
+  name: Trung Châu
 - id: 494
-  district_id: 28
-  name: Hoàng Long
+  district_id: 27
+  name: Thọ Xuân
 - id: 495
-  district_id: 28
-  name: Hồng Minh
+  district_id: 27
+  name: Thượng Mỗ
 - id: 496
-  district_id: 28
-  name: Hồng Thái
+  district_id: 27
+  name: Tân Hội
 - id: 497
   district_id: 28
-  name: Đại Thắng
+  name: Phú Xuyên
 - id: 498
   district_id: 28
-  name: Chuyên Mỹ
+  name: Phú Minh
 - id: 499
   district_id: 28
-  name: Đại Xuyên
+  name: Hoàng Long
 - id: 500
   district_id: 28
-  name: Minh Tân
+  name: Hồng Minh
 - id: 501
   district_id: 28
-  name: Nam Triều
+  name: Hồng Thái
 - id: 502
   district_id: 28
-  name: Khai Thái
+  name: Đại Thắng
 - id: 503
   district_id: 28
-  name: Phú Túc
+  name: Chuyên Mỹ
 - id: 504
   district_id: 28
-  name: Nam Phong
+  name: Đại Xuyên
 - id: 505
   district_id: 28
-  name: Phúc Tiến
+  name: Minh Tân
 - id: 506
   district_id: 28
-  name: Quang Trung
+  name: Nam Triều
 - id: 507
   district_id: 28
-  name: Phú Yên
+  name: Khai Thái
 - id: 508
   district_id: 28
-  name: Sơn Hà
+  name: Phú Túc
 - id: 509
   district_id: 28
-  name: Quang Lãng
+  name: Nam Phong
 - id: 510
   district_id: 28
-  name: Phượng Dực
+  name: Phúc Tiến
 - id: 511
   district_id: 28
-  name: Tân Dân
+  name: Quang Trung
 - id: 512
   district_id: 28
-  name: Vân Từ
+  name: Phú Yên
 - id: 513
   district_id: 28
-  name: Tri Thủy
+  name: Sơn Hà
 - id: 514
   district_id: 28
-  name: Tri Trung
+  name: Quang Lãng
 - id: 515
   district_id: 28
-  name: Bạch Hạ
+  name: Phượng Dực
 - id: 516
   district_id: 28
-  name: Văn Hoàng
+  name: Tân Dân
 - id: 517
   district_id: 28
-  name: Châu Can
+  name: Vân Từ
 - id: 518
   district_id: 28
-  name: Nam Tiến
+  name: Tri Thủy
 - id: 519
-  district_id: 29
-  name: Sóc Sơn
+  district_id: 28
+  name: Tri Trung
 - id: 520
-  district_id: 29
-  name: Đông Xuân
+  district_id: 28
+  name: Bạch Hạ
 - id: 521
-  district_id: 29
-  name: Đức Hòa
+  district_id: 28
+  name: Văn Hoàng
 - id: 522
-  district_id: 29
-  name: Bắc Phú
+  district_id: 28
+  name: Châu Can
 - id: 523
-  district_id: 29
-  name: Bắc Sơn
+  district_id: 28
+  name: Nam Tiến
 - id: 524
   district_id: 29
-  name: Hiền Ninh
+  name: Sóc Sơn
 - id: 525
   district_id: 29
-  name: Hồng Kỳ
+  name: Đông Xuân
 - id: 526
   district_id: 29
-  name: Minh Phú
+  name: Đức Hòa
 - id: 527
   district_id: 29
-  name: Minh Trí
+  name: Bắc Phú
 - id: 528
   district_id: 29
-  name: Kim Lũ
+  name: Bắc Sơn
 - id: 529
   district_id: 29
-  name: Mai Đình
+  name: Hiền Ninh
 - id: 530
   district_id: 29
-  name: Nam Sơn
+  name: Hồng Kỳ
 - id: 531
   district_id: 29
-  name: Phú Cường
+  name: Minh Phú
 - id: 532
   district_id: 29
-  name: Quang Tiến
+  name: Minh Trí
 - id: 533
   district_id: 29
-  name: Phù Lỗ
+  name: Kim Lũ
 - id: 534
   district_id: 29
-  name: Tân Dân
+  name: Mai Đình
 - id: 535
   district_id: 29
-  name: Phù Linh
+  name: Nam Sơn
 - id: 536
   district_id: 29
-  name: Tân Hưng
+  name: Phú Cường
 - id: 537
   district_id: 29
-  name: Tiên Dược
+  name: Quang Tiến
 - id: 538
   district_id: 29
-  name: Tân Minh
+  name: Phù Lỗ
 - id: 539
   district_id: 29
-  name: Thanh Xuân
+  name: Tân Dân
 - id: 540
   district_id: 29
-  name: Trung Giã
+  name: Phù Linh
 - id: 541
   district_id: 29
-  name: Việt Long
+  name: Tân Hưng
 - id: 542
   district_id: 29
-  name: Xuân Thu
+  name: Tiên Dược
 - id: 543
   district_id: 29
-  name: Xuân Giang
+  name: Tân Minh
 - id: 544
   district_id: 29
-  name: Phú Minh
+  name: Thanh Xuân
 - id: 545
-  district_id: 30
-  name: Thường Tín
+  district_id: 29
+  name: Trung Giã
 - id: 546
-  district_id: 30
-  name: Hòa Bình
+  district_id: 29
+  name: Việt Long
 - id: 547
-  district_id: 30
-  name: Chương Dương
+  district_id: 29
+  name: Xuân Thu
 - id: 548
-  district_id: 30
-  name: Hiền Giang
+  district_id: 29
+  name: Xuân Giang
 - id: 549
-  district_id: 30
-  name: Dũng Tiến
+  district_id: 29
+  name: Phú Minh
 - id: 550
   district_id: 30
-  name: Duyên Thái
+  name: Thường Tín
 - id: 551
   district_id: 30
-  name: Hà Hồi
+  name: Hòa Bình
 - id: 552
   district_id: 30
-  name: Khánh Hà
+  name: Chương Dương
 - id: 553
   district_id: 30
-  name: Hồng Vân
+  name: Hiền Giang
 - id: 554
   district_id: 30
-  name: Minh Cường
+  name: Dũng Tiến
 - id: 555
   district_id: 30
-  name: Nghiêm Xuyên
+  name: Duyên Thái
 - id: 556
   district_id: 30
-  name: Lê Lợi
+  name: Hà Hồi
 - id: 557
   district_id: 30
-  name: Liên Phương
+  name: Khánh Hà
 - id: 558
   district_id: 30
-  name: Nguyễn Trãi
+  name: Hồng Vân
 - id: 559
   district_id: 30
-  name: Quất Động
+  name: Minh Cường
 - id: 560
   district_id: 30
-  name: Tân Minh
+  name: Nghiêm Xuyên
 - id: 561
   district_id: 30
-  name: Nhị Khê
+  name: Lê Lợi
 - id: 562
   district_id: 30
-  name: Ninh Sở
+  name: Liên Phương
 - id: 563
   district_id: 30
-  name: Thắng Lợi
+  name: Nguyễn Trãi
 - id: 564
   district_id: 30
-  name: Thống Nhất
+  name: Quất Động
 - id: 565
   district_id: 30
-  name: Tô Hiệu
+  name: Tân Minh
 - id: 566
   district_id: 30
-  name: Thư Phú
+  name: Nhị Khê
 - id: 567
   district_id: 30
-  name: Tiền Phong
+  name: Ninh Sở
 - id: 568
   district_id: 30
-  name: Tự Nhiên
+  name: Thắng Lợi
 - id: 569
   district_id: 30
-  name: Vạn Điểm
+  name: Thống Nhất
 - id: 570
   district_id: 30
-  name: Văn Tự
+  name: Tô Hiệu
 - id: 571
   district_id: 30
-  name: Văn Bình
+  name: Thư Phú
 - id: 572
   district_id: 30
-  name: Văn Phú
+  name: Tiền Phong
 - id: 573
+  district_id: 30
+  name: Tự Nhiên
+- id: 574
+  district_id: 30
+  name: Vạn Điểm
+- id: 575
+  district_id: 30
+  name: Văn Tự
+- id: 576
+  district_id: 30
+  name: Văn Bình
+- id: 577
+  district_id: 30
+  name: Văn Phú
+- id: 578
   district_id: 30
   name: Vân Tảo

@@ -10,13 +10,13 @@ quận Bắc Từ Liêm:  Cổ Nhuế 1, Cổ Nhuế 2, Thụy Phương, Liên M
 
 quận Hoàn Kiếm: Chương Dương, Cửa Đông, Hàng Bạc, Hàng Bài, Cửa Nam, Đồng Xuân, Hàng Bồ, Hàng Bông, Hàng Buồm, Hàng Mã, Hàng Trống, Hàng Đào, Hàng Gai, Lý Thái Tổ, Phan Chu Trinh, Tràng Tiền, Phúc Tân và Trần Hưng Đạo.
 
-quận Hoàng Mai:  Mai Hùng, Quỳnh Dị, Quỳnh Xuân, Quỳnh Phương và Quỳnh Thiện, Quỳnh Trang, Quỳnh Lập, Quỳnh Vinh, Quỳnh Liên và Quỳnh Lộc.
+quận Hoàng Mai: Đại Kim, Định Công, Giáp Bát, Hoàng Liệt, Hoàng Văn Thụ, Lĩnh Nam, Mai Động, Tân Mai, Thanh Trì, Thịnh Liệt, Trần Phú, Tương Mai, Vĩnh Hưng, Yên Sở.
 
  quận Cầu Giấy : Dịch Vọng, Dịch Vọng Hậu, Nghĩa Tân, Quan Hoa, Mai Dịch, Nghĩa Đô, Trung Hòa và Yên Hòa.
 
 quận Hà Đông: Biên Giang, Đồng Mai, Hà Cầu, La Khê, Mộ Lao, Yên Nghĩa, Dương Nội, Nguyễn Trãi, Phú La, Kiến Hưng, Phúc La, Phú Lãm, Phú Lương, Quang Trung, Vạn Phúc, Yết Kiêu và Văn Quán
 
-quận Nam Từ Liêm: Cầu Diễn, Phú Đô, Mễ Trì, Mỹ Đình 1, Mỹ Đình 2, Đại Mỗ, Phương Canh, Xuân Phương và Tây Mỗ.
+quận Nam Từ Liêm: Cầu Diễn, Phú Đô, Mễ Trì, Mỹ Đình 1, Mỹ Đình 2, Đại Mỗ, Phương Canh, Xuân Phương, Tây Mỗ và Trung Văn.
 
 quận Hai Bà Trưng:  Bách Khoa, Bạch Đằng, Đống Mác, Đồng Nhân, Bạch Mai, Cầu Dền, Đồng Tâm, Lê Đại Hành, Minh Khai, Nguyễn Du, Quỳnh Lôi, Phạm Đình Hổ, Phố Huế, Quỳnh Mai, Trương Định, Vĩnh Tuy, Thanh Lương và Thanh Nhàn.
 
