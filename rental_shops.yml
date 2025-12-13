@@ -1,7 +1,7 @@
 - id: 1
   address: Đường Đại Từ, Phường Đại Kim, Hoàng Mai, Hà Nội
   ward_id: 67
-  price: Thỏa thuận
+  price: 0.0
   area: 105.0
   frontage: 0.0
   description: 'Sang nhượng mặt bằng - Tìm đối đối tác hợp tác kinh doanh cơ sở Beauty
@@ -31,7 +31,7 @@
 - id: 2
   address: 35/81 Phố Linh Lang, Phường Cống Vị, Ba Đình, Hà Nội
   ward_id: 3
-  price: 12 triệu/tháng
+  price: 12.0
   area: 40.0
   frontage: 5.0
   description: 'Chính chủ cần cho thuê MBKD - cửa hàng phố Linh Lang. Phân lô, đường
@@ -41,7 +41,7 @@
 - id: 3
   address: Đường Nguyễn Hy Quang, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 46 triệu/tháng
+  price: 46.0
   area: 98.0
   frontage: 6.3
   description: 'Cửa hàng mặt phố Nguyễn Hy Quang.
@@ -63,7 +63,7 @@
   address: Diamond Park Plaza , Số 16, Phố Láng Hạ, Phường Thành Công, Ba Đình, Hà
     Nội
   ward_id: 13
-  price: 750 nghìn/m²
+  price: 1125.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư cho thuê mặt bằng thương mại, dịch vụ dự án BRG Diamond
@@ -97,7 +97,7 @@
 - id: 5
   address: Đường Cao Thắng, Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: 'Em đang trống mặt bằng tầng 2 ở phố Cao Thắng, Đồng Xuân, Hoàn Kiếm
@@ -120,7 +120,7 @@
 - id: 6
   address: Đường Nguyễn Hy Quang, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 46 triệu/tháng
+  price: 46.0
   area: 98.0
   frontage: 6.3
   description: 'Cửa hàng mặt phố Nguyễn Hy Quang.
@@ -141,7 +141,7 @@
 - id: 7
   address: Phố Pháo Đài Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 12 triệu/tháng
+  price: 12.0
   area: 45.0
   frontage: 0.0
   description: 'Cho thuê MB kinh doanh khu Pháo Đài Láng (khu vực đông sinh viên sầm
@@ -155,7 +155,7 @@
   address: Dự án Kim Văn Kim Lũ, Đường Nghiêm Xuân Yêm, Phường Đại Kim, Hoàng Mai,
     Hà Nội
   ward_id: 67
-  price: 3 triệu/tháng
+  price: 3.0
   area: 10.0
   frontage: 0.0
   description: 'Cần cho thuê cửa hàng, kiot tại tầng 1 CT12C đô thị Kim Văn, Kim Lũ
@@ -173,7 +173,7 @@
 - id: 9
   address: Ngõ 9, Đường Nguyên Hồng, Phường Thành Công, Ba Đình, Hà Nội
   ward_id: 13
-  price: 6,5 triệu/tháng
+  price: 6.5
   area: 15.0
   frontage: 0.0
   description: 'Chính chủ sang nhượng hoặc cho thuê mặt bằng quán Cà phê gần khu vực
@@ -216,7 +216,7 @@
 - id: 10
   address: Rice City Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội
   ward_id: 70
-  price: Thỏa thuận
+  price: 0.0
   area: 574.0
   frontage: 0.0
   description: 'Mặt bằng thương mại siêu rộng 574m² nằm ở Rice City Linh Đàm, Hoàng
@@ -241,7 +241,7 @@
 - id: 11
   address: 100, Đường Hoàng Ngân, Phường Trung Hòa, Cầu Giấy, Hà Nội
   ward_id: 87
-  price: 180 triệu/tháng
+  price: 180.0
   area: 500.0
   frontage: 0.0
   description: 'Chính chủ cho thuê mặt bằng kinh doanh tại toà nhà số 100 Hoàng Ngân,
@@ -271,7 +271,7 @@
 - id: 12
   address: Vũ Thạnh, Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 50 triệu/tháng
+  price: 50.0
   area: 245.0
   frontage: 0.0
   description: 'CHO THUÊ 245 m² MẶT BẰNG KHÔNG CỘT CHUẨN MỞ GYM | VỊ TRÍ ĐẸP  ĐẦY
@@ -312,7 +312,7 @@
 - id: 13
   address: Vũ Thạnh, Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 30 triệu/tháng
+  price: 30.0
   area: 125.0
   frontage: 0.0
   description: 'CHO THUÊ QUÁN CÀ PHÊ SÁCH  KHÔNG GIAN 3 CHUẨN: ĐẸP  AN TOÀN  ĐẲNG
@@ -344,7 +344,7 @@
 - id: 14
   address: 84, Phố Thợ Nhuộm, Phường Trần Hưng Đạo, Hoàn Kiếm, Hà Nội
   ward_id: 66
-  price: 48 triệu/tháng
+  price: 48.0
   area: 50.0
   frontage: 5.0
   description: 'Cho thuê MBKD phố 84 Thợ Nhuộm.
@@ -368,7 +368,7 @@
 - id: 15
   address: 25T Đường Đặng Thùy Trâm, Phường Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội
   ward_id: 36
-  price: 21 triệu/tháng
+  price: 21.0
   area: 75.0
   frontage: 6.0
   description: 'Diện tích: Tầng 1 lửng: 6m x 7.5m, tầng 2: 6m x 12.5m, trần cao 3.5m.
@@ -399,7 +399,7 @@
 - id: 16
   address: GoldSeason, Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội
   ward_id: 165
-  price: Thỏa thuận
+  price: 0.0
   area: 1000.0
   frontage: 0.0
   description: 'Cho thuê gian hàng diện tích: 60m², 100m², 200m², 300, 500m,..., 1000m²
@@ -449,7 +449,7 @@
 - id: 17
   address: The Ninety Complex, 90, Đường Láng, Phường Thịnh Quang, Đống Đa, Hà Nội
   ward_id: 31
-  price: 264 nghìn/m²
+  price: 112.2
   area: 425.0
   frontage: 0.0
   description: 'Bạn đang tìm mặt bằng kinh doanh đẹp tiện nghi - giá tốt tại trung
@@ -507,7 +507,7 @@
 - id: 18
   address: Phố Phố Huế, Phường Hàng Bài, Hoàn Kiếm, Hà Nội
   ward_id: 52
-  price: 40 triệu/tháng
+  price: 40.0
   area: 77.0
   frontage: 4.0
   description: 'Cho thuê cửa hàng mặt phố Phố Huế DT 77m², MT 4m, thông sàn, hè thoáng
@@ -521,7 +521,7 @@
 - id: 19
   address: Tổ 15, Đường Yên Bình, Phường Yên Nghĩa, Hà Đông, Hà Nội
   ward_id: 94
-  price: 4,5 triệu/tháng
+  price: 4.5
   area: 100.0
   frontage: 0.0
   description: 'Chính chủ cho thuê nhà tầng 1 DT 100m² gần ĐH Phenikaa giá chỉ 4,5
@@ -545,7 +545,7 @@
 - id: 20
   address: Phố Trung Kính, Phường Yên Hòa, Cầu Giấy, Hà Nội
   ward_id: 88
-  price: 21,5 triệu/tháng
+  price: 21.5
   area: 50.0
   frontage: 5.0
   description: '+ Mặt phố đẹp tại Trung Kính, Yên Hòa, Cầu Giấy, Hà Nội.
@@ -576,7 +576,7 @@
 - id: 21
   address: 168, Đường Trịnh Văn Bô, Phường Xuân Phương, Nam Từ Liêm, Hà Nội.
   ward_id: 113
-  price: 447 nghìn/m²
+  price: 447.0
   area: 1000.0
   frontage: 0.0
   description: 'Dinhle Group là tổ hợp trung tâm thương mại cao cấp.
@@ -639,7 +639,7 @@
 - id: 22
   address: Phố Trung Kính, Phường Yên Hòa, Cầu Giấy, Hà Nội
   ward_id: 88
-  price: 21,5 triệu/tháng
+  price: 21.5
   area: 50.0
   frontage: 5.0
   description: 'Cửa hàng, ki ốt cho thuê tại Phố Trung Kính, Yên Hòa, Cầu Giấy, Hà
@@ -674,7 +674,7 @@
 - id: 23
   address: Nhà 18C, Ngõ 20, Phố Trạm, Phường Long Biên, Long Biên, Hà Nội
   ward_id: 145
-  price: 6 triệu/tháng
+  price: 6.0
   area: 45.0
   frontage: 3.5
   description: 'Nhà mặt ngõ rộng, tải tránh, tại Phố Trạm, Long Biên, ngõ thông, khu
@@ -693,7 +693,7 @@
   address: Diamond Park Plaza , Số 16, Phố Láng Hạ, Phường Thành Công, Ba Đình, Hà
     Nội
   ward_id: 13
-  price: 750 nghìn/m²
+  price: 1125.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư cho thuê mặt bằng thương mại, dịch vụ dự án BRG Diamond
@@ -727,7 +727,7 @@
 - id: 25
   address: Đường Vũ Phạm Hàm, Phường Trung Hòa, Cầu Giấy, Hà Nội
   ward_id: 87
-  price: 100 triệu/tháng
+  price: 100.0
   area: 130.0
   frontage: 6.0
   description: 'Cửa hàng này nằm ở vị trí cực chất tại Vũ Phạm Hàm, Cầu Giấy, Hà Nội.
@@ -752,7 +752,7 @@
 - id: 26
   address: Đường Nguyễn Quý Đức, Phường Thanh Xuân Bắc, Thanh Xuân, Hà Nội
   ward_id: 162
-  price: 3,5 triệu/tháng
+  price: 3.5
   area: 15.0
   frontage: 3.5
   description: Của hàng có gáp xép vệ sinh nhà tắm khép kinh vừa ở vừa kinh doanh  mặt
@@ -760,7 +760,7 @@
 - id: 27
   address: Phố Bạch Mai, Phường Đồng Tâm, Hai Bà Trưng, Hà Nội
   ward_id: 120
-  price: 60 triệu/tháng
+  price: 60.0
   area: 160.0
   frontage: 5.0
   description: 'Cửa hàng siêu rộng tại phố Bạch Mai, p Đồng Tâm, Q. Hai Bà Trưng,
@@ -787,7 +787,7 @@
   address: Diamond Park Plaza , Số 16, Phố Láng Hạ, Phường Thành Công, Ba Đình, Hà
     Nội
   ward_id: 13
-  price: 750 nghìn/m²
+  price: 1125.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư cho thuê mặt bằng thương mại, dịch vụ dự án BRG Diamond
@@ -821,7 +821,7 @@
 - id: 29
   address: Đường Cao Thắng, Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: 'Em đang trống mặt bằng tầng 2 ở phố Cao Thắng, Đồng Xuân, Hoàn Kiếm
@@ -844,7 +844,7 @@
 - id: 30
   address: Đường Nguyễn Hy Quang, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 46 triệu/tháng
+  price: 46.0
   area: 98.0
   frontage: 6.3
   description: 'Cửa hàng mặt phố Nguyễn Hy Quang.
@@ -865,7 +865,7 @@
 - id: 31
   address: Phố Pháo Đài Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 12 triệu/tháng
+  price: 12.0
   area: 45.0
   frontage: 0.0
   description: 'Cho thuê MB kinh doanh khu Pháo Đài Láng (khu vực đông sinh viên sầm
@@ -878,7 +878,7 @@
 - id: 32
   address: 100, Đường Hoàng Ngân, Phường Trung Hòa, Cầu Giấy, Hà Nội
   ward_id: 87
-  price: 180 triệu/tháng
+  price: 180.0
   area: 450.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng kinh doanh tầng 1, 2 dt 450m² tại 100 Hoàng Ngân,
@@ -913,7 +913,7 @@
 - id: 33
   address: Đường Nguyên Hồng, Phường Láng Hạ, Đống Đa, Hà Nội
   ward_id: 18
-  price: 60 triệu/tháng
+  price: 60.0
   area: 400.0
   frontage: 30.0
   description: 'GẤP GẤP !!!  MBKD SIÊU ĐẸP  TRUNG TÂM QUẬN ĐỐNG ĐA  PHÙ HỢP NHÀ HÀNG/CAFE  KHU
@@ -943,7 +943,7 @@
 - id: 34
   address: Đường Lê Đức Thọ, Phường Mỹ Đình 2, Nam Từ Liêm, Hà Nội
   ward_id: 110
-  price: Thỏa thuận
+  price: 0.0
   area: 300.0
   frontage: 0.0
   description: 'Tôi cần cho thuê mặt bằng 100m² - 200m² - 300m² KD salon ô tô, mặt
@@ -967,7 +967,7 @@
 - id: 35
   address: Đường Phùng Khoang, Phường Trung Văn, Nam Từ Liêm, Hà Nội
   ward_id: 115
-  price: Thỏa thuận
+  price: 0.0
   area: 400.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng kinh doanh - 67 khu Phùng Khoang
@@ -989,7 +989,7 @@
 - id: 36
   address: Số 2, Đường Trần Hữu Dực, Phường Mỹ Đình 2, Nam Từ Liêm, Hà Nội
   ward_id: 110
-  price: 190 nghìn/m²
+  price: 38.0
   area: 200.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng kinh doanh tại chợ ô tô Caron Mỹ Đình.
@@ -1018,7 +1018,7 @@
 - id: 37
   address: Đường Trần Hữu Dực, Phường Mỹ Đình 2, Nam Từ Liêm, Hà Nội
   ward_id: 110
-  price: 200 nghìn/m²
+  price: 400.0
   area: 2000.0
   frontage: 0.0
   description: 'Hệ thống CarOn Market & Parking xin giới thiệu và trân trọng mời Quý
@@ -1039,7 +1039,7 @@
 - id: 38
   address: Số 2, Đường Trần Hữu Dực, Phường Mỹ Đình 2, Nam Từ Liêm, Hà Nội
   ward_id: 110
-  price: 200 nghìn/m²
+  price: 40.0
   area: 200.0
   frontage: 0.0
   description: 'Chợ ô tô Caron Mỹ Đình thuê mặt bằng kinh doanh + Slot Kinh doanh
@@ -1064,7 +1064,7 @@
   address: Dự án Vinhomes Smart City, Đường Đại lộ Thăng Long, Phường Đại Mỗ, Nam
     Từ Liêm, Hà Nội.
   ward_id: 111
-  price: 60 triệu/tháng
+  price: 60.0
   area: 125.0
   frontage: 0.0
   description: 'Shop với những vị trí đẹp diện tích rộng giá chỉ từ 20 triệu/tháng.
@@ -1073,7 +1073,7 @@
 - id: 40
   address: Đường Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 70 triệu/tháng
+  price: 70.0
   area: 150.0
   frontage: 8.0
   description: 'Cửa hàng cho thuê nằm ngay đường Láng, p Láng Thượng, Đống Đa, Hà
@@ -1096,7 +1096,7 @@
 - id: 41
   address: 76, Đường Nguyễn Chí Thanh, Phường Láng Hạ, Đống Đa, Hà Nội
   ward_id: 18
-  price: 13 triệu/tháng
+  price: 13.0
   area: 50.0
   frontage: 5.0
   description: 'Cho thuê mặt bằng kinh doanh tầng 1 tại 76 Nguyễn Chí Thanh Đống Đa,
@@ -1147,7 +1147,7 @@
   address: Dự án Geleximco Lê Trọng Tấn - Hoài Đức, Đường Lê Trọng Tấn, Xã An Khánh,
     Hoài Đức, Hà Nội
   ward_id: 428
-  price: 25 triệu/tháng
+  price: 25.0
   area: 130.0
   frontage: 8.0
   description: 'Cho thuê mặt bằng kinh doanh trung tâm Geleximco An Khánh (cổng 1,
@@ -1190,7 +1190,7 @@
 - id: 43
   address: Đường Phạm Hùng, Phường Dịch Vọng, Cầu Giấy, Hà Nội
   ward_id: 81
-  price: 200 nghìn/m²
+  price: 72.0
   area: 360.0
   frontage: 0.0
   description: 'Cho thuê showroom, slot chợ xe gần Mỹ Đình. Vị trí đắc địa. DT 156m²
@@ -1215,7 +1215,7 @@
 - id: 44
   address: Phố Hòa Mã, Phường Phạm Đình Hổ, Hai Bà Trưng, Hà Nội
   ward_id: 127
-  price: 160 triệu/tháng
+  price: 160.0
   area: 260.0
   frontage: 0.0
   description: '- Vị trí. Mặt Đường Hoà Mã,Hai Bà trưng
@@ -1238,7 +1238,7 @@
 - id: 45
   address: Phố Phạm Tuấn Tài, Phường Nghĩa Tân, Cầu Giấy, Hà Nội
   ward_id: 83
-  price: 34 triệu/tháng
+  price: 34.0
   area: 100.0
   frontage: 0.0
   description: 'Chính chủ. Cho thuê mặt bằng kinh doanh.
@@ -1265,7 +1265,7 @@
 - id: 46
   address: Đường Cao Thắng, Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: 'Em đang trống mặt bằng tầng 2 ở phố Cao Thắng, Đồng Xuân, Hoàn Kiếm
@@ -1288,7 +1288,7 @@
 - id: 47
   address: Nhà 18C, Ngõ 20, Phố Trạm, Phường Long Biên, Long Biên, Hà Nội
   ward_id: 145
-  price: 6 triệu/tháng
+  price: 6.0
   area: 45.0
   frontage: 3.5
   description: 'Nhà mặt ngõ rộng, tải tránh, tại Phố Trạm, Long Biên, ngõ thông, khu
@@ -1306,7 +1306,7 @@
 - id: 48
   address: Đường Tô Vĩnh Diện, Phường Khương Mai, Thanh Xuân, Hà Nội
   ward_id: 159
-  price: Thỏa thuận
+  price: 0.0
   area: 130.0
   frontage: 0.0
   description: 'Cho thuê tầng 1 nhà mặt phố Tô Vĩnh Diện, vị trí đẹp, khu dân cư đông
@@ -1333,7 +1333,7 @@
 - id: 49
   address: T&T Tower, số 120, Đường Định Công, Phường Định Công, Hoàng Mai, Hà Nội
   ward_id: 68
-  price: 478,85 nghìn/m²
+  price: 335.19
   area: 700.0
   frontage: 0.0
   description: '- Cho thuê sàn thương mại, văn phòng dự án DC Complex, T&T Định công
@@ -1368,7 +1368,7 @@
 - id: 50
   address: Phố Hạ Bằng, Xã Hạ Bằng, Thạch Thất, Hà Nội
   ward_id: 326
-  price: 3,5 triệu/tháng
+  price: 3.5
   area: 60.0
   frontage: 6.0
   description: 'Cho thuê cửa hàng mặt đường Hạ Bằng vừa ở vừa kinh doanh - gần chợ
@@ -1388,7 +1388,7 @@
 - id: 51
   address: Số 88, Khu 1, Đường 2, Xã Phú Minh, Sóc Sơn, Hà Nội
   ward_id: 549
-  price: 12 triệu/tháng
+  price: 12.0
   area: 60.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng kinh doanh.
@@ -1404,7 +1404,7 @@
   address: Diamond Park Plaza , Số 16, Phố Láng Hạ, Phường Thành Công, Ba Đình, Hà
     Nội
   ward_id: 13
-  price: 750 nghìn/m²
+  price: 1125.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư cho thuê mặt bằng thương mại, dịch vụ dự án BRG Diamond
@@ -1438,7 +1438,7 @@
 - id: 53
   address: Đường Cao Thắng, Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: 'Em đang trống mặt bằng tầng 2 ở phố Cao Thắng, Đồng Xuân, Hoàn Kiếm
@@ -1461,7 +1461,7 @@
 - id: 54
   address: Đường Nguyễn Hy Quang, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 46 triệu/tháng
+  price: 46.0
   area: 98.0
   frontage: 6.3
   description: 'Cửa hàng mặt phố Nguyễn Hy Quang.
@@ -1482,7 +1482,7 @@
 - id: 55
   address: Phố Pháo Đài Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 12 triệu/tháng
+  price: 12.0
   area: 45.0
   frontage: 0.0
   description: 'Cho thuê MB kinh doanh khu Pháo Đài Láng (khu vực đông sinh viên sầm
@@ -1495,7 +1495,7 @@
 - id: 56
   address: Đường Duy Tân, Phường Dịch Vọng Hậu, Cầu Giấy, Hà Nội
   ward_id: 82
-  price: 35 triệu/tháng
+  price: 35.0
   area: 100.0
   frontage: 0.0
   description: 'Cửa hàng, ki ốt cho thuê tại Đường Duy Tân, Phường Dịch Vọng Hậu,
@@ -1514,7 +1514,7 @@
 - id: 57
   address: Đường Trần Hưng Đạo, Phường Phan Chu Trinh, Hoàn Kiếm, Hà Nội
   ward_id: 63
-  price: 28 triệu/tháng
+  price: 28.0
   area: 65.0
   frontage: 0.0
   description: 'Cho thuê cửa hàng mặt phố Trần Hưng Đạo 65m², MT4m, hè thoáng rộng.
@@ -1526,7 +1526,7 @@
 - id: 58
   address: Khu đô thị Đặng Xá 1, Đặng Xá, Gia Lâm, Hà Nội
   ward_id: 170
-  price: Thỏa thuận
+  price: 0.0
   area: 32.0
   frontage: 0.0
   description: 'Tôi cần cho thuê mặt bằng ở V2, V3 Khu đô thị Đặng Xá, mặt bằng này
@@ -1546,7 +1546,7 @@
 - id: 59
   address: Đường Ngô Thì Nhậm, Phường Phạm Đình Hổ, Hai Bà Trưng, Hà Nội
   ward_id: 127
-  price: 70 triệu/tháng
+  price: 70.0
   area: 560.0
   frontage: 5.0
   description: 'Cho thuê cửa hàng, mặt bằng kinh doanh, nhà phố Ngô Thì Nhậm - Hai
@@ -1570,7 +1570,7 @@
 - id: 60
   address: Phố Phố Huế, Phường Hàng Bài, Hoàn Kiếm, Hà Nội
   ward_id: 52
-  price: 350 triệu/tháng
+  price: 350.0
   area: 300.0
   frontage: 11.0
   description: 'Cho thuê nhà mặt phố số Phố Huế vị trí kinh doanh sầm uất trung tâm
@@ -1597,7 +1597,7 @@
 - id: 61
   address: Phố Trung Kính, Phường Trung Hòa, Cầu Giấy, Hà Nội
   ward_id: 87
-  price: 40 triệu/tháng
+  price: 40.0
   area: 100.0
   frontage: 10.0
   description: 'Cho thuê MBKD phố Trung Kính.
@@ -1618,7 +1618,7 @@
 - id: 62
   address: Đường Hà Cầu, Phường Hà Cầu, Hà Đông, Hà Nội
   ward_id: 91
-  price: Thỏa thuận
+  price: 0.0
   area: 2000.0
   frontage: 0.0
   description: '- Cho thuê sàn kinh doanh khu vui chơi tại trung tâm thương mại Melinh
@@ -1643,7 +1643,7 @@
 - id: 63
   address: Đường Võ Chí Công, Phường Nghĩa Tân, Cầu Giấy, Hà Nội
   ward_id: 83
-  price: 600 triệu/tháng
+  price: 600.0
   area: 830.0
   frontage: 45.0
   description: 'Chính chủ, cho thuê mặt bằng kinh doanh 400m² - 850m².
@@ -1666,7 +1666,7 @@
 - id: 64
   address: 12 Phố Pháo Đài Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 28 triệu/tháng
+  price: 28.0
   area: 75.0
   frontage: 5.5
   description: 'CHO THUÊ MẶT PHỐ 12 PHÁO ĐÀI LÁNG - HN
@@ -1680,7 +1680,7 @@
 - id: 65
   address: Dự án KĐT Mễ Trì Hạ, Đường Mễ Trì Hạ, Phường Mễ Trì, Nam Từ Liêm, Hà Nội
   ward_id: 108
-  price: 25 triệu/tháng
+  price: 25.0
   area: 120.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng tại phố Mễ Trì Hạ - Phạm Hùng diện tích 120m² giá
@@ -1708,7 +1708,7 @@
 - id: 66
   address: Đền Lừ II, Đường Đền Lừ, Phường Hoàng Văn Thụ, Hoàng Mai, Hà Nội
   ward_id: 71
-  price: 40 triệu/tháng
+  price: 40.0
   area: 500.0
   frontage: 0.0
   description: 'Cho thuê MBKD quán bia - lẩu nướng.
@@ -1729,7 +1729,7 @@
 - id: 67
   address: Đường Nguyễn Hiền, Phường Bách Khoa, Hai Bà Trưng, Hà Nội
   ward_id: 116
-  price: 14 triệu/tháng
+  price: 14.0
   area: 50.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng tại số 101 K11A Bách Khoa, phố Nguyễn Hiền, quận
@@ -1744,7 +1744,7 @@
 - id: 68
   address: Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: Thỏa thuận
+  price: 0.0
   area: 4.5
   frontage: 0.0
   description: 'Kiot đang kinh doanh bán buôn giày dép ở khu A1, tầng 1 trong chợ
@@ -1774,7 +1774,7 @@
 - id: 69
   address: Đường Xuân Diệu, Phường Quảng An, Tây Hồ, Hà Nội
   ward_id: 139
-  price: 90 triệu/tháng
+  price: 90.0
   area: 280.0
   frontage: 10.0
   description: 'Cho thuê mặt bằng kinh doanh lô góc Xuân Diệu, Tây Hồ, Hà Nội.
@@ -1813,7 +1813,7 @@
   address: Dự án NHS Complex Trung Văn, Đường Tố Hữu, Phường Trung Văn, Nam Từ Liêm,
     Hà Nội
   ward_id: 115
-  price: Thỏa thuận
+  price: 0.0
   area: 500.0
   frontage: 0.0
   description: 'Cơ hội vàng cho các doanh nghiệp khai trương mô hình kinh doanh tại
@@ -1855,7 +1855,7 @@
 - id: 71
   address: Đường Nguyễn Văn Lộc, Phường Mỗ Lao, Hà Đông, Hà Nội
   ward_id: 93
-  price: 28 triệu/tháng
+  price: 28.0
   area: 70.0
   frontage: 8.0
   description: 'Sang nhượng quán cafe full đồ  Nguyễn Văn Lộc, Hà Đông
@@ -1882,7 +1882,7 @@
 - id: 72
   address: Số 6 ngõ 9, Đường Đào Tấn, Phường Ngọc Khánh, Ba Đình, Hà Nội
   ward_id: 12
-  price: 7 triệu/tháng
+  price: 7.0
   area: 40.0
   frontage: 4.0
   description: 'Nhà mình cần cho thuê cửa hàng tầng 1 của nhà 5 tầng.
@@ -1910,7 +1910,7 @@
 - id: 73
   address: Đường Cao tốc Thăng Long Nội Bài, Xã Mê Linh, Mê Linh, Hà Nội
   ward_id: 470
-  price: 80 nghìn/m²
+  price: 40.0
   area: 500.0
   frontage: 0.0
   description: 'Mặt bằng cho thuê thuộc dự án dự án Eurowindow, Mê Linh Plaza Hà Nội,
@@ -1936,7 +1936,7 @@
   address: 77 - 79, Đường Đặng Văn Ngữ, Phường Phương Liên - Trung Tự, Đống Đa, Hà
     Nội
   ward_id: 23
-  price: 500 nghìn/m²
+  price: 250.0
   area: 500.0
   frontage: 0.0
   description: 'Tại đường Đặng Văn Ngữ, phường Trung Tự, Đống Đa, Hà Nội, cửa hàng
@@ -1967,7 +1967,7 @@
 - id: 75
   address: Số 11, Phố Hoàng Cầu, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 882,3 nghìn/m²
+  price: 229.4
   area: 260.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng thương mại tòa nhà Tek&Mac 11 Hoàng Cầu, Đống Đa.
@@ -2016,7 +2016,7 @@
   address: Diamond Park Plaza , Số 16, Phố Láng Hạ, Phường Thành Công, Ba Đình, Hà
     Nội
   ward_id: 13
-  price: 750 nghìn/m²
+  price: 1125.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư cho thuê mặt bằng thương mại, dịch vụ dự án BRG Diamond
@@ -2050,7 +2050,7 @@
 - id: 77
   address: Đường Cao Thắng, Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: 'Em đang trống mặt bằng tầng 2 ở phố Cao Thắng, Đồng Xuân, Hoàn Kiếm
@@ -2073,7 +2073,7 @@
 - id: 78
   address: Đường Nguyễn Hy Quang, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 46 triệu/tháng
+  price: 46.0
   area: 98.0
   frontage: 6.3
   description: 'Cửa hàng mặt phố Nguyễn Hy Quang.
@@ -2094,7 +2094,7 @@
 - id: 79
   address: Phố Pháo Đài Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 12 triệu/tháng
+  price: 12.0
   area: 45.0
   frontage: 0.0
   description: 'Cho thuê MB kinh doanh khu Pháo Đài Láng (khu vực đông sinh viên sầm
@@ -2107,7 +2107,7 @@
 - id: 80
   address: Đường Hoàng Công, Phường Kiến Hưng, Hà Đông, Hà Nội
   ward_id: 98
-  price: 5 triệu/tháng
+  price: 5.0
   area: 50.0
   frontage: 5.0
   description: 'Có điều hoà từ tầng 2 lên tầng 5
@@ -2122,7 +2122,7 @@
 - id: 81
   address: Dự án Thanh Hà Mường Thanh, Phường Kiến Hưng, Hà Đông, Hà Nội
   ward_id: 98
-  price: 12 triệu/tháng
+  price: 12.0
   area: 40.0
   frontage: 0.0
   description: 'Chính chủ cho thuê kiot.
@@ -2147,7 +2147,7 @@
 - id: 82
   address: Phố Vọng, Phường Đồng Tâm, Hai Bà Trưng, Hà Nội Cạnh ĐH Kinh Tế Quốc Dân
   ward_id: 122
-  price: 8 triệu/tháng
+  price: 8.0
   area: 35.0
   frontage: 4.0
   description: 'Cho thuê mặt bằng tầng 1 35m² ngõ thông cách đường phố lớn 50m, địa
@@ -2173,7 +2173,7 @@
 - id: 83
   address: Đường Cầu Giấy, Phường Yên Hòa, Cầu Giấy, Hà Nội
   ward_id: 88
-  price: 72 triệu/tháng
+  price: 72.0
   area: 140.0
   frontage: 5.0
   description: 'Diện tích: 70 m² x 2 tầng.
@@ -2198,7 +2198,7 @@
 - id: 84
   address: Hoàng Ngân, Yên Hòa, Cầu Giấy, Hà Nội
   ward_id: 88
-  price: 180 triệu/tháng
+  price: 180.0
   area: 600.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng kinh doanh tại 100 Hoàng Ngân, 500m 02 tầng, 180tr/tháng
@@ -2214,7 +2214,7 @@
 - id: 85
   address: Đường Nguyễn Quý Đức, Phường Thanh Xuân Bắc, Thanh Xuân, Hà Nội
   ward_id: 162
-  price: 5 triệu/tháng
+  price: 5.0
   area: 45.0
   frontage: 4.5
   description: 'Mặt bằng kinh doanh riêng biệt chỉ 5triệu tại Thanh Xuân.
@@ -2239,7 +2239,7 @@
 - id: 86
   address: 21A Đường Lê Văn Lương, Phường Trung Hòa, Cầu Giấy, Hà Nội
   ward_id: 87
-  price: 25 triệu/tháng
+  price: 25.0
   area: 35.0
   frontage: 4.7
   description: 'Cửa hàng này nằm ở vị trí đắc địa tại Lê Văn Lương, P. Trung Hòa,
@@ -2268,7 +2268,7 @@
 - id: 87
   address: Khai Sơn City, Phường Ngọc Thụy, Long Biên, Hà Nội
   ward_id: 145
-  price: 350 nghìn/m²
+  price: 42.0
   area: 120.0
   frontage: 15.0
   description: 'Cho thuê sàn thương mại vị trí đắc địa, giá cạnh tranh.
@@ -2304,7 +2304,7 @@
 - id: 88
   address: Phố Xã Đàn, Phường Nam Đồng, Đống Đa, Hà Nội
   ward_id: 24
-  price: 75 triệu/tháng
+  price: 75.0
   area: 270.0
   frontage: 5.5
   description: 'Cửa hàng mặt tiền cực chất tại phố Xã Đàn, Đống Đa, Hà Nội đang chờ
@@ -2330,7 +2330,7 @@
 - id: 89
   address: Đường Lê Văn Lương, Phường Thanh Xuân Trung, Thanh Xuân, Hà Nội
   ward_id: 165
-  price: 250 triệu/tháng
+  price: 250.0
   area: 245.0
   frontage: 8.0
   description: 'Cửa hàng, ki ốt cho thuê cực chất tại Đường Lê Văn Lương, Thanh Xuân,
@@ -2355,7 +2355,7 @@
 - id: 90
   address: Phố Vũ Tông Phan, Phường Khương Đình, Thanh Xuân, Hà Nội
   ward_id: 157
-  price: 23 triệu/tháng
+  price: 23.0
   area: 100.0
   frontage: 6.0
   description: 'Nhà mình còn MBKD 100m² - 23tr/th tại phố Vũ Tông Phan MT 6m.
@@ -2378,7 +2378,7 @@
 - id: 91
   address: Phố Dịch Vọng Hậu, Phường Dịch Vọng Hậu, Cầu Giấy, Hà Nội
   ward_id: 82
-  price: 35 triệu/tháng
+  price: 35.0
   area: 100.0
   frontage: 8.0
   description: 'Cho thuê MBKD mặt phố Dịch Vọng Hậu.
@@ -2399,7 +2399,7 @@
 - id: 92
   address: Đường Nguyên Hồng, Phường Láng Hạ, Đống Đa, Hà Nội
   ward_id: 18
-  price: 265 triệu/tháng
+  price: 265.0
   area: 500.0
   frontage: 15.0
   description: 'Cửa hàng, ki ốt siêu rộng rãi nằm tại Đường Nguyên Hồng, Phường Láng
@@ -2422,7 +2422,7 @@
 - id: 93
   address: Dự án KĐT Linh Đàm, Phường Đại Kim, Hoàng Mai, Hà Nội
   ward_id: 67
-  price: 120 triệu/tháng
+  price: 120.0
   area: 500.0
   frontage: 30.0
   description: 'Cửa hàng, ki ốt cho thuê ở KĐT Linh Đàm, P Đại Kim, Hoàng Mai, Hà
@@ -2445,7 +2445,7 @@
 - id: 94
   address: Số 66, Phố Trần Đại Nghĩa, Phường Bách Khoa, Hai Bà Trưng, Hà Nội
   ward_id: 116
-  price: 80 triệu/tháng
+  price: 80.0
   area: 150.0
   frontage: 12.0
   description: 'Chính chủ cho thuê mặt bằng kinh doanh tầng 1 - Diện tích 150m² tại
@@ -2486,7 +2486,7 @@
 - id: 95
   address: Đường Bùi Thị Xuân, Phường Nguyễn Du, Hai Bà Trưng, Hà Nội
   ward_id: 125
-  price: 30 triệu/tháng
+  price: 30.0
   area: 40.0
   frontage: 6.0
   description: '- Diện tích: 40m² (tầng 1 riêng biệt).
@@ -2531,7 +2531,7 @@
 - id: 96
   address: Phố Phố Huế, Phường Hàng Bài, Hoàn Kiếm, Hà Nội
   ward_id: 52
-  price: 22 triệu/tháng
+  price: 22.0
   area: 35.0
   frontage: 0.0
   description: 'Cho thuê  cửa hàng mặt phố  tại Phố Huế,  Hoàn Kiếm, Hà Nội.
@@ -2550,7 +2550,7 @@
 - id: 97
   address: 252, Đường Đại Mỗ, Phường Đại Mỗ, Nam Từ Liêm, Hà Nội
   ward_id: 111
-  price: 5,5 triệu/tháng
+  price: 5.5
   area: 40.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng vừa ở vừa kinh doanh lô góc chỉ 5.5 triệu.
@@ -2571,7 +2571,7 @@
 - id: 98
   address: Đường Phan Đình Giót, Phường Phương Liệt, Thanh Xuân, Hà Nội
   ward_id: 164
-  price: 22 triệu/tháng
+  price: 22.0
   area: 100.0
   frontage: 6.8
   description: 'Cho thuê cửa hàng nhà mặt phố Phan Đình Giót diện tích 100m² mặt tiền
@@ -2581,7 +2581,7 @@
 - id: 99
   address: Đường Nguyễn Xiển, Phường Hạ Đình, Thanh Xuân, Hà Nội
   ward_id: 156
-  price: 16 triệu/tháng
+  price: 16.0
   area: 60.0
   frontage: 0.0
   description: 'Cửa hàng, ki ốt cho thuê tại Nguyễn Xiển, Hạ Đình, Thanh Xuân, Hà
@@ -2613,7 +2613,7 @@
   address: Diamond Park Plaza , Số 16, Phố Láng Hạ, Phường Thành Công, Ba Đình, Hà
     Nội
   ward_id: 13
-  price: 750 nghìn/m²
+  price: 1125.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư cho thuê mặt bằng thương mại, dịch vụ dự án BRG Diamond
@@ -2647,7 +2647,7 @@
 - id: 101
   address: Đường Cao Thắng, Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: 'Em đang trống mặt bằng tầng 2 ở phố Cao Thắng, Đồng Xuân, Hoàn Kiếm
@@ -2670,7 +2670,7 @@
 - id: 102
   address: Đường Nguyễn Hy Quang, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 46 triệu/tháng
+  price: 46.0
   area: 98.0
   frontage: 6.3
   description: 'Cửa hàng mặt phố Nguyễn Hy Quang.
@@ -2691,7 +2691,7 @@
 - id: 103
   address: Phố Pháo Đài Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 12 triệu/tháng
+  price: 12.0
   area: 45.0
   frontage: 0.0
   description: 'Cho thuê MB kinh doanh khu Pháo Đài Láng (khu vực đông sinh viên sầm
@@ -2704,7 +2704,7 @@
 - id: 104
   address: Đường Nguyễn Trãi, Phường Hạ Đình, Thanh Xuân, Hà Nội
   ward_id: 156
-  price: 220 nghìn/m²
+  price: 418.0
   area: 1900.0
   frontage: 0.0
   description: 'Nằm ở tầng 2 khu nhà Thương mại Dịch vụ mặt phố chính Nguyễn Trãi,
@@ -2728,7 +2728,7 @@
 - id: 105
   address: Phố Hoàng Đạo Thúy, Phường Nhân Chính, Thanh Xuân, Hà Nội
   ward_id: 161
-  price: Thỏa thuận
+  price: 0.0
   area: 1000.0
   frontage: 0.0
   description: 'Hiện nay chúng tôi đang có cho thuê lâu dài các diện tích F&B cao
@@ -2759,7 +2759,7 @@
 - id: 106
   address: Đường Dương Quảng Hàm, Phường Dịch Vọng, Cầu Giấy, Hà Nội
   ward_id: 81
-  price: 40 triệu/tháng
+  price: 40.0
   area: 200.0
   frontage: 0.0
   description: 'Giá cho thuê chỉ từ 40 triệu/tháng.
@@ -2784,7 +2784,7 @@
 - id: 107
   address: Phố Phan Văn Trường, Phường Dịch Vọng, Cầu Giấy, Hà Nội
   ward_id: 81
-  price: 40 triệu/tháng
+  price: 40.0
   area: 200.0
   frontage: 0.0
   description: 'Chính chủ cần cho thuê MBKD lô góc 3 mặt tiền tòa building mặt phố
@@ -2806,7 +2806,7 @@
 - id: 108
   address: Đường Ngọc Hồi, Phường Hoàng Liệt, Hoàng Mai, Hà Nội
   ward_id: 70
-  price: 20 triệu/tháng
+  price: 20.0
   area: 99.5
   frontage: 3.5
   description: 'Cho thuê mặt bằng kinh doanh Ngọc Hồi, Hoàng Mai.
@@ -2828,7 +2828,7 @@
 - id: 109
   address: Đường Dương Quảng Hàm, Phường Dịch Vọng, Cầu Giấy, Hà Nội
   ward_id: 81
-  price: 40 triệu/tháng
+  price: 40.0
   area: 200.0
   frontage: 0.0
   description: '- Trống MBKD tầng 1
@@ -2847,7 +2847,7 @@
 - id: 110
   address: Đường Cốm Vòng, Phường Dịch Vọng, Cầu Giấy, Hà Nội
   ward_id: 81
-  price: 85 triệu/tháng
+  price: 85.0
   area: 400.0
   frontage: 0.0
   description: 'Giá cho thuê chỉ từ 85 triệu/tháng.
@@ -2872,7 +2872,7 @@
 - id: 111
   address: 150 Đường Nguyễn Văn Lộc, Phường Mỗ Lao, Hà Đông, Hà Nội
   ward_id: 93
-  price: 30 triệu/tháng
+  price: 30.0
   area: 42.0
   frontage: 0.0
   description: 'Địa chỉ: 150 Nguyễn Văn Lộc, phường Hà Đông
@@ -2905,7 +2905,7 @@
 - id: 112
   address: Đường Trần Thủ Độ, Phường Hoàng Liệt, Hoàng Mai, Hà Nội
   ward_id: 70
-  price: Thỏa thuận
+  price: 0.0
   area: 350.0
   frontage: 0.0
   description: 'Tổng hợp mặt bằng kinh doanh đẹp tại mặt đường Trần Thủ Độ.
@@ -2956,7 +2956,7 @@
 - id: 113
   address: Đường Dịch Vọng, Phường Dịch Vọng, Cầu Giấy, Hà Nội
   ward_id: 81
-  price: 90 triệu/tháng
+  price: 90.0
   area: 400.0
   frontage: 0.0
   description: 'Diện tích: 400m² - Tầng 1 + 2.
@@ -2975,7 +2975,7 @@
 - id: 114
   address: Đường Thọ Tháp, Phường Dịch Vọng, Cầu Giấy, Hà Nội
   ward_id: 81
-  price: 85 triệu/tháng
+  price: 85.0
   area: 400.0
   frontage: 0.0
   description: 'Vị trí vàng ngay mặt phố Thọ Tháp tuyến phố trung tâm sầm uất, giao
@@ -3002,7 +3002,7 @@
 - id: 115
   address: HH4 Linh Đàm, Linh Đường, Hoàng Liệt, Hoàng Mai, Hà Nội
   ward_id: 70
-  price: 51 triệu/tháng
+  price: 51.0
   area: 12.0
   frontage: 0.0
   description: 'Cho Thuê Kiot TTTM HH4 Linh Đàm  Giá Hạt Dẻ Bất Ngờ!
@@ -3022,7 +3022,7 @@
 - id: 116
   address: Phố Lê Văn Thiêm, Phường Thanh Xuân Trung, Thanh Xuân, Hà Nội
   ward_id: 165
-  price: 65 triệu/tháng
+  price: 65.0
   area: 170.0
   frontage: 10.0
   description: 'Cửa hàng, ki ốt này tọa lạc tại phố Lê Văn Thiêm, p Thanh Xuân Trung,
@@ -3046,7 +3046,7 @@
 - id: 117
   address: Phố Vạn Phúc, Phường Liễu Giai, Ba Đình, Hà Nội
   ward_id: 6
-  price: 8,5 triệu/tháng
+  price: 8.5
   area: 40.0
   frontage: 0.0
   description: '8tr5 MBKD tại Vạn Phúc - Liễu Giai.
@@ -3063,7 +3063,7 @@
 - id: 118
   address: Đường Hoàng Văn Thái, Phường Phương Liệt, Thanh Xuân, Hà Nội
   ward_id: 164
-  price: 15 triệu/tháng
+  price: 15.0
   area: 45.0
   frontage: 5.0
   description: 'Cho thuê mặt bằng kinh doanh mới đẹp, vừa hoàn thiện tại mặt đường
@@ -3090,7 +3090,7 @@
 - id: 119
   address: Phố Liên Trì, Phường Cửa Nam, Hoàn Kiếm, Hà Nội
   ward_id: 53
-  price: 15 triệu/tháng
+  price: 15.0
   area: 30.0
   frontage: 0.0
   description: 'Mình cần cho thuê mặt sàn Tầng 1 của Service Apartment tại phố Liên
@@ -3110,7 +3110,7 @@
 - id: 120
   address: Đường Tô Hiệu, Phường Nghĩa Tân, Cầu Giấy, Hà Nội
   ward_id: 83
-  price: 30 triệu/tháng
+  price: 30.0
   area: 80.0
   frontage: 5.0
   description: 'Cửa hàng ki ốt cho thuê tại Đường Tô Hiệu, Phường Nghĩa Tân, Cầu Giấy,
@@ -3151,7 +3151,7 @@
 - id: 121
   address: Số 12 ngõ 7, Đường Ao Sen, Phường Mỗ Lao, Hà Đông, Hà Nội
   ward_id: 93
-  price: 7 triệu/tháng
+  price: 7.0
   area: 36.0
   frontage: 4.0
   description: 'Với vị trí tuyệt vời cho loại hình kinh doanh. Khu vực Ao Sen là một
@@ -3178,7 +3178,7 @@
 - id: 122
   address: Phố Tôn Đức Thắng, Phường Hàng Bột, Đống Đa, Hà Nội
   ward_id: 16
-  price: 32 triệu/tháng
+  price: 32.0
   area: 100.0
   frontage: 10.0
   description: 'CHO THUÊ MẶT BẰNG KINH DOANH  VỊ TRÍ ĐẮC ĐỊA ĐỐNG ĐA.
@@ -3215,7 +3215,7 @@
 - id: 123
   address: Đường Vệ Hồ, Phường Xuân La, Tây Hồ, Hà Nội
   ward_id: 138
-  price: 50 triệu/tháng
+  price: 50.0
   area: 200.0
   frontage: 0.0
   description: 'MBKD tầng 4,5 Cafe/ nhà hàng phố Vệ Hồ, mặt hồ tây.
@@ -3227,7 +3227,7 @@
   address: Diamond Park Plaza , Số 16, Phố Láng Hạ, Phường Thành Công, Ba Đình, Hà
     Nội
   ward_id: 13
-  price: 750 nghìn/m²
+  price: 1125.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư cho thuê mặt bằng thương mại, dịch vụ dự án BRG Diamond
@@ -3261,7 +3261,7 @@
 - id: 125
   address: Đường Cao Thắng, Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: 'Em đang trống mặt bằng tầng 2 ở phố Cao Thắng, Đồng Xuân, Hoàn Kiếm
@@ -3284,7 +3284,7 @@
 - id: 126
   address: Đường Nguyễn Hy Quang, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 46 triệu/tháng
+  price: 46.0
   area: 98.0
   frontage: 6.3
   description: 'Cửa hàng mặt phố Nguyễn Hy Quang.
@@ -3305,7 +3305,7 @@
 - id: 127
   address: Phố Pháo Đài Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 12 triệu/tháng
+  price: 12.0
   area: 45.0
   frontage: 0.0
   description: 'Cho thuê MB kinh doanh khu Pháo Đài Láng (khu vực đông sinh viên sầm
@@ -3318,7 +3318,7 @@
 - id: 128
   address: Phố Nguyễn Ngọc Doãn, Phường Kim Liên, Đống Đa, Hà Nội
   ward_id: 17
-  price: 30 triệu/tháng
+  price: 30.0
   area: 70.0
   frontage: 7.0
   description: 'Chính chủ cho thuê tầng 1 nhà mặt phố Nguyễn Ngọc Doãn, Đống Đa làm
@@ -3329,7 +3329,7 @@
 - id: 129
   address: Phường Thổ Quan, Đống Đa, Hà Nội
   ward_id: 28
-  price: 9,3 triệu/tháng
+  price: 9.3
   area: 28.0
   frontage: 4.0
   description: 'Chính chủ Cho thuê cửa hàng mặt phố số 63 Hồ Văn Chương, mặt tiền
@@ -3344,7 +3344,7 @@
 - id: 130
   address: Số 6 ngõ 118 Đường Nguyễn Khánh Toàn, Phường Nghĩa Đô, Cầu Giấy, Hà Nội
   ward_id: 86
-  price: 35 triệu/tháng
+  price: 35.0
   area: 100.0
   frontage: 5.5
   description: 'Hết hợp đồng cho thuê cũ, gia đình cần cho thuê gấp tầng 1,2 ngõ 118
@@ -3369,7 +3369,7 @@
 - id: 131
   address: Số 490, Đường Nguyễn Trãi, Phường Thanh Xuân Trung, Thanh Xuân, Hà Nội
   ward_id: 165
-  price: 12 triệu/tháng
+  price: 12.0
   area: 40.0
   frontage: 4.0
   description: 'Tôi cần cho thuê cửa hàng tầng 1, số 490 Nguyễn Trãi, Thanh Xuân,
@@ -3393,7 +3393,7 @@
 - id: 132
   address: Phố Lò Đúc, Phường Đồng Nhân, Hai Bà Trưng, Hà Nội
   ward_id: 119
-  price: 110 triệu/tháng
+  price: 110.0
   area: 250.0
   frontage: 10.0
   description: 'Cửa hàng cho thuê cực chất ở Phố Lò Đúc, Đồng Nhân, Hai Bà Trưng,
@@ -3413,7 +3413,7 @@
 - id: 133
   address: Dự án Việt Hưng, Phường Việt Hưng, Long Biên, Hà Nội
   ward_id: 145
-  price: Thỏa thuận
+  price: 0.0
   area: 300.0
   frontage: 0.0
   description: 'Vị trí: Trung tâm KĐT Việt Hưng, khu dân cư đông đúc phù hợp mọi mô
@@ -3438,7 +3438,7 @@
 - id: 134
   address: Đường Đội Cấn, Phường Đội Cấn, Ba Đình, Hà Nội
   ward_id: 7
-  price: 50 triệu/tháng
+  price: 50.0
   area: 86.0
   frontage: 0.0
   description: 'Diện tích sàn: 86M2, mặt tiền 7,5m
@@ -3460,7 +3460,7 @@
 - id: 135
   address: Phố Vũ Tông Phan, Phường Khương Đình, Thanh Xuân, Hà Nội
   ward_id: 157
-  price: 37 triệu/tháng
+  price: 37.0
   area: 130.0
   frontage: 0.0
   description: 'Diện tích: 130m, mặt tiền 12m
@@ -3481,7 +3481,7 @@
 - id: 136
   address: Đường Nông Quốc Chấn, Phường Vạn Phúc, Hà Đông, Hà Nội
   ward_id: 103
-  price: 5,5 triệu/tháng
+  price: 5.5
   area: 50.0
   frontage: 0.0
   description: 'Chính chủ cần cho cửa hàng tầng 1.
@@ -3503,7 +3503,7 @@
 - id: 137
   address: Mon City, Hàm Nghi, Mỹ Đình 2, Nam Từ Liêm, Hà Nội
   ward_id: 110
-  price: 25 triệu/tháng
+  price: 25.0
   area: 120.0
   frontage: 6.0
   description: 'cho thuê tầng 1 hd mon có thể kinh doanh làm spa hoặc làm siêu thị
@@ -3525,7 +3525,7 @@
 - id: 138
   address: Đường Cầu Giấy, Phường Dịch Vọng, Cầu Giấy, Hà Nội
   ward_id: 81
-  price: Thỏa thuận
+  price: 0.0
   area: 800.0
   frontage: 0.0
   description: "Cho thuê mặt bằng tầng 1 tại Cầu Giấy\n-\tDiện tích: 800m2\n-\tMặt\
@@ -3534,7 +3534,7 @@
 - id: 139
   address: Đường Võ Chí Công, Phường Phú Thượng, Tây Hồ, Hà Nội
   ward_id: 136
-  price: Thỏa thuận
+  price: 0.0
   area: 850.0
   frontage: 0.0
   description: 'Cho thuê Mặt Bằng
@@ -3555,7 +3555,7 @@
 - id: 140
   address: 67, Đường Lê Văn Lương, Phường Trung Hòa, Cầu Giấy, Hà Nội
   ward_id: 87
-  price: 24 triệu/tháng
+  price: 24.0
   area: 50.0
   frontage: 4.5
   description: 'Cho thuê cửa hàng tại 67 Lê Văn Lương ngay chân cầu vượt Láng Hạ,
@@ -3568,7 +3568,7 @@
 - id: 141
   address: Phường Hoàng Văn Thụ, Hoàng Mai, Hà Nội
   ward_id: 71
-  price: 68 nghìn/m²
+  price: 56.44
   area: 830.0
   frontage: 21.0
   description: 'Nhanh tay sở hữu quán cà phê sân vườn đối diện Louis City Hoàng Mai
@@ -3595,7 +3595,7 @@
   address: The Diamond Residence, 25, Đường Lê Văn Lương, Phường Nhân Chính, Thanh
     Xuân, Hà Nội
   ward_id: 161
-  price: 500 nghìn/m²
+  price: 750.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư dự án Diamond Place kính mới quý khách hàng quan tâm thuê
@@ -3638,7 +3638,7 @@
 - id: 143
   address: Phố Trấn Vũ, Phường Quán Thánh, Ba Đình, Hà Nội
   ward_id: 10
-  price: 30 triệu/tháng
+  price: 30.0
   area: 50.0
   frontage: 5.0
   description: Cho thuê cửa hàng 2 tầng x 50m², dt sử dụng 100m², tại Trấn Vũ, mặt
@@ -3647,7 +3647,7 @@
 - id: 144
   address: Đường Mễ Trì Hạ, Phường Mễ Trì, Nam Từ Liêm, Hà Nội
   ward_id: 108
-  price: 25 triệu/tháng
+  price: 25.0
   area: 120.0
   frontage: 6.0
   description: 'Cho thuê MBKD tại Mễ Trì Hạ. Diện tích 120m². Giá chỉ 25tr/tháng.
@@ -3674,7 +3674,7 @@
 - id: 145
   address: Đường Trâu Quỳ, Thị trấn Trâu Quỳ, Gia Lâm, Hà Nội
   ward_id: 167
-  price: 3,5 triệu/tháng
+  price: 3.5
   area: 18.0
   frontage: 0.0
   description: 'Cần cho thuê nhanh cửa hàng tại đường Trâu Quỳ, vị trí đẹp, dân cư
@@ -3701,7 +3701,7 @@
   address: Dự án Trương Định Plaza, Đường Trương Định, Phường Tân Mai, Hoàng Mai,
     Hà Nội
   ward_id: 74
-  price: 287,51 nghìn/m²
+  price: 66.76
   area: 232.2
   frontage: 5.5
   description: 'Cho thuê mặt bằng tầng 3 Trương Định Plaza - 232.2m², vị trí đẹp,
@@ -3759,7 +3759,7 @@
 - id: 147
   address: Phố Lê Văn Thiêm, Phường Thanh Xuân Trung, Thanh Xuân, Hà Nội
   ward_id: 165
-  price: 39 triệu/tháng
+  price: 39.0
   area: 250.0
   frontage: 0.0
   description: 'Mô tả mặt bằng:
@@ -3794,7 +3794,7 @@
   address: Diamond Park Plaza , Số 16, Phố Láng Hạ, Phường Thành Công, Ba Đình, Hà
     Nội
   ward_id: 13
-  price: 750 nghìn/m²
+  price: 1125.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư cho thuê mặt bằng thương mại, dịch vụ dự án BRG Diamond
@@ -3828,7 +3828,7 @@
 - id: 149
   address: Đường Cao Thắng, Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: 'Em đang trống mặt bằng tầng 2 ở phố Cao Thắng, Đồng Xuân, Hoàn Kiếm
@@ -3851,7 +3851,7 @@
 - id: 150
   address: Đường Nguyễn Hy Quang, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 46 triệu/tháng
+  price: 46.0
   area: 98.0
   frontage: 6.3
   description: 'Cửa hàng mặt phố Nguyễn Hy Quang.
@@ -3872,7 +3872,7 @@
 - id: 151
   address: Phố Pháo Đài Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 12 triệu/tháng
+  price: 12.0
   area: 45.0
   frontage: 0.0
   description: 'Cho thuê MB kinh doanh khu Pháo Đài Láng (khu vực đông sinh viên sầm
@@ -3885,7 +3885,7 @@
 - id: 152
   address: Đường Dương Lâm, Phường Văn Quán, Hà Đông, Hà Nội
   ward_id: 105
-  price: 14 triệu/tháng
+  price: 14.0
   area: 60.0
   frontage: 0.0
   description: 'Cửa hàng này nằm ở vị trí siêu đẹp, rất dễ tìm và thu hút khách hàng.
@@ -3909,7 +3909,7 @@
 - id: 153
   address: Đường Phú Diễn, Phường Phú Diễn, Bắc Từ Liêm, Hà Nội
   ward_id: 46
-  price: 10 triệu/tháng
+  price: 10.0
   area: 32.0
   frontage: 0.0
   description: 'Cho thuê cửa hàng tầng 1 ngay gần trường TNMt và CĐ Y Dược Tuệ Tĩnh
@@ -3925,7 +3925,7 @@
 - id: 154
   address: Số 40 ngõ 26, Đường Nguyên Hồng, Phường Láng Hạ, Đống Đa, Hà Nội
   ward_id: 18
-  price: 12 triệu/tháng
+  price: 12.0
   area: 50.0
   frontage: 5.0
   description: 'Cho thuê tầng 1 tại số 40 ngõ 26, Nguyên Hồng - Đống Đa.
@@ -3950,7 +3950,7 @@
 - id: 155
   address: 25/205, Đường Tây Sơn, Phường Trung Liệt, Đống Đa, Hà Nội
   ward_id: 29
-  price: 6,5 triệu/tháng
+  price: 6.5
   area: 30.0
   frontage: 8.0
   description: 'Mặt bằng mặt tiền 8 mét cho thuê giá mùa dịch, sạch đẹp, là nơi tập
@@ -3973,7 +3973,7 @@
 - id: 156
   address: 11 ngõ 113, Đường Trâu Quỳ, Thị trấn Trâu Quỳ, Gia Lâm, Hà Nội
   ward_id: 167
-  price: 4 triệu/tháng
+  price: 4.0
   area: 40.0
   frontage: 5.0
   description: 'Sang nhượng quán nail mi tại Trâu Quỳ, Gia Lâm.
@@ -4008,7 +4008,7 @@
 - id: 157
   address: Phố Thái Thịnh, Phường Trung Liệt, Đống Đa, Hà Nội
   ward_id: 29
-  price: 40 triệu/tháng
+  price: 40.0
   area: 110.0
   frontage: 6.0
   description: 'MẶT BẰNG ĐẸP  PHỐ THÁI THỊNH
@@ -4030,7 +4030,7 @@
 - id: 158
   address: số 102 Hoàng Văn Thái, Khương Trung, Thanh Xuân, Hà Nội
   ward_id: 158
-  price: 26 triệu/tháng
+  price: 26.0
   area: 80.0
   frontage: 7.0
   description: 'Tòa nhà  có 9 tầng và 0 1 tầng hầm. Theo phân chia chức năng:
@@ -4050,7 +4050,7 @@
 - id: 159
   address: Đường Hoàng Như Tiếp, Phường Bồ Đề, Long Biên, Hà Nội
   ward_id: 145
-  price: 6 triệu/tháng
+  price: 6.0
   area: 76.0
   frontage: 5.2
   description: 'Cho thuê mặt bằng tầng 1, Hoàng Minh Đạo - Hoàng Như Tiếp.
@@ -4069,7 +4069,7 @@
 - id: 160
   address: Đường Khuất Duy Tiến, Phường Thanh Xuân Bắc, Thanh Xuân, Hà Nội
   ward_id: 162
-  price: 11 triệu/tháng
+  price: 11.0
   area: 40.0
   frontage: 6.0
   description: 'Cho thuê căn hộ tầng 1 đường phân lô phố Khuất Duy Tiến, Phường Thanh
@@ -4101,7 +4101,7 @@
 - id: 161
   address: Khai Sơn City, Phường Ngọc Thụy, Long Biên, Hà Nội
   ward_id: 145
-  price: 350 nghìn/m²
+  price: 70.0
   area: 200.0
   frontage: 20.0
   description: 'Cho thuê sàn thương mại vị trí đắc địa, giá cạnh tranh.
@@ -4137,7 +4137,7 @@
 - id: 162
   address: Đường Nguyễn Ngọc Nại, Phường Khương Mai, Thanh Xuân, Hà Nội
   ward_id: 159
-  price: 20 triệu/tháng
+  price: 20.0
   area: 90.0
   frontage: 0.0
   description: 'Cho thuê tầng 1 làm VP đại diện, showroom, spa tại Nguyễn Ngọc Nại,
@@ -4160,7 +4160,7 @@
 - id: 163
   address: 31 ngõ 54, Đường Ngọc Hồi, Phường Hoàng Liệt, Hoàng Mai, Hà Nội
   ward_id: 70
-  price: 4 triệu/tháng
+  price: 4.0
   area: 23.0
   frontage: 4.5
   description: 'Cho thuê mặt bằng đẹp 31 ngõ 54 Ngọc Hồi, Hoàng Mai.
@@ -4196,7 +4196,7 @@
 - id: 164
   address: Phường Yên Nghĩa, Hà Đông, Hà Nội
   ward_id: 94
-  price: 7 triệu/tháng
+  price: 7.0
   area: 45.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng tầng 1,2,3 tại khu B đất dịch vụ Yên Nghĩa, Hà Đông,
@@ -4213,7 +4213,7 @@
 - id: 165
   address: 117, Phố Tôn Đức Thắng, Phường Hàng Bột, Đống Đa, Hà Nội
   ward_id: 16
-  price: 8 triệu/tháng
+  price: 8.0
   area: 18.0
   frontage: 3.0
   description: 'Cho thuê cửa hàng mặt phố phù hợp kinh doanh các mặt hàng như: Thời
@@ -4240,7 +4240,7 @@
 - id: 166
   address: Dự án Mễ Trì Thượng, Phường Mễ Trì, Nam Từ Liêm, Hà Nội
   ward_id: 108
-  price: 8 triệu/tháng
+  price: 8.0
   area: 50.0
   frontage: 5.0
   description: 'Chính chủ cho thuê cửa hàng vừa ở vừa kinh doanh, lối đi riêng biệt.
@@ -4267,7 +4267,7 @@
 - id: 167
   address: Phố Lò Đúc, Phường Phạm Đình Hổ, Hai Bà Trưng, Hà Nội
   ward_id: 127
-  price: 110 triệu/tháng
+  price: 110.0
   area: 200.0
   frontage: 10.0
   description: 'Cửa hàng cho thuê ngay mặt phố Lò Đúc, p Phạm Đình Hổ, Q. Hai Bà
@@ -4289,7 +4289,7 @@
 - id: 168
   address: Phố Kim Mã, Phường Kim Mã, Ba Đình, Hà Nội
   ward_id: 5
-  price: 25 triệu/tháng
+  price: 25.0
   area: 130.0
   frontage: 5.0
   description: 'Chính chủ sang nhượng quán ăn - mặt phố Kim Mã - diện tích 130m².
@@ -4327,7 +4327,7 @@
 - id: 169
   address: Phố Kim Mã, Phường Giảng Võ, Ba Đình, Hà Nội
   ward_id: 11
-  price: 25 triệu/tháng
+  price: 25.0
   area: 130.0
   frontage: 5.0
   description: 'Chính chủ sang nhượng quán ăn - mặt phố Kim Mã - diện tích 130m².
@@ -4365,7 +4365,7 @@
 - id: 170
   address: đường Nguyễn Hoàng Tôn, Phường Xuân Đỉnh, Bắc Từ Liêm, Hà Nội
   ward_id: 47
-  price: 16 triệu/tháng
+  price: 16.0
   area: 90.0
   frontage: 5.0
   description: 'Cho thuê cửa hàng kinh doanh mặt phố Nguyễn Hoàng Tôn,Xuân Đỉnh.DT:90m²(MT
@@ -4390,7 +4390,7 @@
 - id: 171
   address: Đường Hà Cầu, Phường Hà Cầu, Hà Đông, Hà Nội.
   ward_id: 91
-  price: 185 nghìn/m²
+  price: 140.6
   area: 760.0
   frontage: 0.0
   description: 'Được đưa vào hoạt động từ năm 2012, Melinh Plaza Hà Đông là trung
@@ -4416,7 +4416,7 @@
   address: Diamond Park Plaza , Số 16, Phố Láng Hạ, Phường Thành Công, Ba Đình, Hà
     Nội
   ward_id: 13
-  price: 750 nghìn/m²
+  price: 1125.0
   area: 1500.0
   frontage: 0.0
   description: 'Chủ đầu tư cho thuê mặt bằng thương mại, dịch vụ dự án BRG Diamond
@@ -4450,7 +4450,7 @@
 - id: 173
   address: Đường Cao Thắng, Phường Đồng Xuân, Hoàn Kiếm, Hà Nội
   ward_id: 54
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: 'Em đang trống mặt bằng tầng 2 ở phố Cao Thắng, Đồng Xuân, Hoàn Kiếm
@@ -4473,7 +4473,7 @@
 - id: 174
   address: Đường Nguyễn Hy Quang, Phường Ô Chợ Dừa, Đống Đa, Hà Nội
   ward_id: 22
-  price: 46 triệu/tháng
+  price: 46.0
   area: 98.0
   frontage: 6.3
   description: 'Cửa hàng mặt phố Nguyễn Hy Quang.
@@ -4494,7 +4494,7 @@
 - id: 175
   address: Phố Pháo Đài Láng, Phường Láng Thượng, Đống Đa, Hà Nội
   ward_id: 21
-  price: 12 triệu/tháng
+  price: 12.0
   area: 45.0
   frontage: 0.0
   description: 'Cho thuê MB kinh doanh khu Pháo Đài Láng (khu vực đông sinh viên sầm
@@ -4508,7 +4508,7 @@
   address: Eurowindow Multi Complex, 27, Đường Trần Duy Hưng, Phường Trung Hòa, Cầu
     Giấy, Hà Nội.
   ward_id: 87
-  price: 501 nghìn/m²
+  price: 132.77
   area: 265.0
   frontage: 0.0
   description: 'Tòa Eurowindow có địa chỉ tại 27 Trần Duy Hưng là có vị trí thuận
@@ -4535,7 +4535,7 @@
 - id: 177
   address: Phố Hàng Đào, Phường Hàng Đào, Hoàn Kiếm, Hà Nội
   ward_id: 60
-  price: 60 triệu/tháng
+  price: 60.0
   area: 20.0
   frontage: 3.0
   description: 'Cần cho thuê cửa hàng phố Hàng Đào, quận Hoàn Kiếm, Hà Nội, vị trí
@@ -4552,7 +4552,7 @@
 - id: 178
   address: Đường Trịnh Công Sơn, Phường Nhật Tân, Tây Hồ, Hà Nội
   ward_id: 135
-  price: 6,5 triệu/tháng
+  price: 6.5
   area: 55.0
   frontage: 0.0
   description: 'Cho thuê mặt bằng, văn phòng ngõ Trịnh Công Sơn 55m².
@@ -4569,7 +4569,7 @@
 - id: 179
   address: 225, Đường Âu Cơ, Phường Quảng An, Tây Hồ, Hà Nội
   ward_id: 139
-  price: 12 triệu/tháng
+  price: 12.0
   area: 120.0
   frontage: 4.0
   description: 'Chính chủ cho thuê mặt bằng 150m².
@@ -4587,7 +4587,7 @@
 - id: 180
   address: Đường Trần Hữu Tước, Phường Nam Đồng, Đống Đa, Hà Nội
   ward_id: 24
-  price: 18 triệu/tháng
+  price: 18.0
   area: 60.0
   frontage: 0.0
   description: 'CHÍNH CHỦ CHO THUÊ TẦNG 1 MẶT PHỐ TRẦN HỮU TƯỚC VỊ TRÍ KINH DOANH
@@ -4624,7 +4624,7 @@
 - id: 181
   address: Số 187, Phố Giảng Võ, Phường Cát Linh, Đống Đa, Hà Nội
   ward_id: 15
-  price: 700 nghìn/m²
+  price: 88.9
   area: 127.0
   frontage: 0.0
   description: 'Vị trí: Số 187 Giảng Võ, phường Cát Linh, quận Đống Đa tuyến phố trung
@@ -4654,7 +4654,7 @@
 - id: 182
   address: Đường Quang Trung, Phường Trần Hưng Đạo, Hoàn Kiếm, Hà Nội
   ward_id: 66
-  price: 22 triệu/tháng
+  price: 22.0
   area: 25.0
   frontage: 3.0
   description: 'Sang nhượng gấp MBKD quán ăn - Quang Trung, Hoàn Kiếm, Hà Nội.
@@ -4679,7 +4679,7 @@
 - id: 183
   address: Phố Trần Đại Nghĩa, Phường Bạch Mai, Hai Bà Trưng, Hà Nội
   ward_id: 120
-  price: Thỏa thuận
+  price: 0.0
   area: 150.0
   frontage: 0.0
   description: 'Cho thuê 150m² MBKD, cửa hàng, siêu thị mặt phố Trần Đại Nghĩa, quận
@@ -4711,7 +4711,7 @@
 - id: 184
   address: Phố Lê Văn Thiêm, Phường Thanh Xuân Trung, Thanh Xuân, Hà Nội
   ward_id: 165
-  price: 39 triệu/tháng
+  price: 39.0
   area: 250.0
   frontage: 0.0
   description: 'Mô tả mặt bằng:
@@ -4745,7 +4745,7 @@
 - id: 185
   address: Đường Lê Đức Thọ, Phường Mỹ Đình 1, Nam Từ Liêm, Hà Nội
   ward_id: 109
-  price: 15 triệu/tháng
+  price: 15.0
   area: 60.0
   frontage: 0.0
   description: '- Diện tích đã chia sẵn thành 3 phòng diện tích 40 - 60 - 70 mét vuông,
@@ -4767,7 +4767,7 @@
 - id: 186
   address: Thị trấn Trạm Trôi, Hoài Đức, Hà Nội
   ward_id: 427
-  price: Thỏa thuận
+  price: 0.0
   area: 3500.0
   frontage: 0.0
   description: 'Vị trí: Nằm trong một khuôn viên rộng gần khu đô thị Kim Chung, Tân
@@ -4795,7 +4795,7 @@
 - id: 187
   address: Phố Phố Huế, Phường Phố Huế, Hai Bà Trưng, Hà Nội
   ward_id: 128
-  price: 140 triệu/tháng
+  price: 140.0
   area: 200.0
   frontage: 15.0
   description: 'Tọa lạc tại Phố Huế, Phường Phố Huế, Hai Bà Trưng, Hà Nội, văn phòng
@@ -4815,7 +4815,7 @@
 - id: 188
   address: Đường Huỳnh Thúc Kháng, Phường Láng Hạ, Đống Đa, Hà Nội
   ward_id: 18
-  price: 4,5 triệu/tháng
+  price: 4.5
   area: 18.0
   frontage: 0.0
   description: 'Cửa hàng tầng 1 trong nhà cho thuê tại Đường Huỳnh Thúc Kháng, Đống
@@ -4841,7 +4841,7 @@
 - id: 189
   address: Phố Hàng Bài, Phường Hàng Bài, Hoàn Kiếm, Hà Nội
   ward_id: 52
-  price: 10 triệu/tháng
+  price: 10.0
   area: 20.0
   frontage: 0.0
   description: 'Binhbds cho thuê cửa hàng mặt phố Hàng Bài Hoàn Kiếm.
@@ -4862,7 +4862,7 @@
 - id: 190
   address: Đường Ngô Thì Nhậm, Phường Phạm Đình Hổ, Hai Bà Trưng, Hà Nội
   ward_id: 127
-  price: 195 triệu/tháng
+  price: 195.0
   area: 540.0
   frontage: 13.0
   description: 'Mặt bằng kinh doanh đẹp hiếm có trên phố Ngô Thì Nhậm cơ hội chỉ dành
@@ -4889,7 +4889,7 @@
 - id: 191
   address: Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Cầu Giấy, Hà Nội
   ward_id: 86
-  price: 14 triệu/tháng
+  price: 14.0
   area: 60.0
   frontage: 5.0
   description: 'Hiện tại mình có cửa hàng mặt ngõ Hoàng quốc việt gần nhiều trường
@@ -4911,7 +4911,7 @@
 - id: 192
   address: Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Cầu Giấy, Hà Nội
   ward_id: 86
-  price: 21 triệu/tháng
+  price: 21.0
   area: 110.0
   frontage: 0.0
   description: 'Cửa hàng siêu đẹp cho thuê ở Hoàng Quốc Việt, Cầu Giấy, HN.

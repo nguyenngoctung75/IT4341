@@ -36,6 +36,62 @@ def clean_area(area_str):
     except:
         return 0.0
 
+def clean_price(price_str, area_m2):
+    """
+    Parses price to Million VND/month.
+    """
+    if not isinstance(price_str, str):
+        return 0.0
+
+    s = price_str.lower().strip()
+
+    if 'thỏa thuận' in s or not s:
+        return 0.0
+
+    import re
+    # Extract number (using similar logic to clean_area but more robust for prices)
+    # Match number at start
+    match = re.search(r'([\d\.,]+)', s)
+    if not match:
+        return 0.0
+
+    num_str = match.group(1)
+
+    # VN format assumption: dot=thousand, comma=decimal (opposite of EN).
+    # But clean_area uses: s.replace('.', '').replace(',', '.') which implies EN style or simple cleanup?
+    # Actually clean_area implementation: s = s.replace('.', '').replace(',', '.')
+    # If input is "1.500", result "1500". (Dot removed).
+    # If input is "4,5", result "4.5". (Comma to dot).
+    # This works for "1.500 m2" (thousand separator dot) and "4,5 m" (decimal comma).
+    # Let's apply SAME logic for price.
+
+    val_s = num_str.replace('.', '').replace(',', '.')
+
+    try:
+        val = float(val_s)
+    except:
+        return 0.0
+
+    multiplier = 1.0
+
+    # Unit checks
+    if 'tỷ' in s:
+        multiplier *= 1000.0
+    elif 'nghìn' in s or 'ngàn' in s:
+        multiplier /= 1000.0
+    elif 'usd' in s:
+        multiplier *= 0.025 # approx 25k VND = 0.025 Million
+    elif 'triệu' not in s and val > 10000:
+        # heuristic: if huge number and no unit, probably raw VND
+        multiplier /= 1000000.0
+
+    # Per area check
+    if '/m' in s or 'trên m' in s:
+        if area_m2 > 0:
+            val *= area_m2
+
+    return round(val * multiplier, 2)
+
 def clean_frontage(frontage_str):
     """
     "Mặt tiền 4 m" -> 4.0
@@ -125,12 +181,16 @@ def main():
                     break
 
         # Prepare Data
+        # Prepare Data
+        area_val = clean_area(row['area']) # clean to number
+        price_val = clean_price(str(row['price']), area_val) if pd.notna(row['price']) else 0.0
+
         shop_data = {
             'id': idx + 1, # specific requirement: id
             'address': address,
             'ward_id': found_w_id, # id_phường
-            'price': str(row['price']) if pd.notna(row['price']) else "",
-            'area': clean_area(row['area']), # clean to number
+            'price': price_val,
+            'area': area_val,
             'frontage': clean_frontage(row['frontage']) if 'frontage' in row and pd.notna(row['frontage']) else 0.0,
             'description': str(row['description']) if pd.notna(row['description']) else ""
         }

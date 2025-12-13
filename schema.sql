@@ -1,67 +1,64 @@
--- MySQL Schema for Convenience Store Location Optimization
+DROP DATABASE IF EXISTS convenience_store_db;
+CREATE DATABASE convenience_store_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE convenience_store_db;
 
--- Table: wards (formerly phuong)
+CREATE TABLE districts (
+    id INT PRIMARY KEY,
+    name VARCHAR(255) NOT NULL
+);
+
 CREATE TABLE wards (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL
+    id INT PRIMARY KEY,
+    district_id INT,
+    name VARCHAR(255) NOT NULL,
+    FOREIGN KEY (district_id) REFERENCES districts(id) ON DELETE CASCADE
 );
 
--- Table: premises (formerly mat_bang)
-CREATE TABLE premises (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    ward_id INT NOT NULL,
-    latitude DOUBLE NOT NULL,
-    longitude DOUBLE NOT NULL,
-    is_rented BOOLEAN DEFAULT FALSE,
-    frontage_width FLOAT COMMENT 'Width of frontage in meters',
-    area_sqm FLOAT COMMENT 'Total area in square meters', -- Added based on original requirements
-    has_parking BOOLEAN,
-    annual_rent FLOAT COMMENT 'Annual rent cost (Million VND)',
-    monthly_transport_cost FLOAT COMMENT 'Monthly transport cost (Million VND)',
-    daily_traffic INT COMMENT 'Daily traffic volume',
+CREATE TABLE ward_demographics (
+    id INT PRIMARY KEY,
+    ward_id INT,
+    population INT,
+    density FLOAT,
     FOREIGN KEY (ward_id) REFERENCES wards(id) ON DELETE CASCADE
 );
 
--- Table: location_factors (formerly yeu_to_khac)
-CREATE TABLE location_factors (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    premise_id INT UNIQUE,
-    monthly_staff_cost FLOAT COMMENT 'Monthly staff cost (Million VND)',
-    monthly_manager_cost FLOAT COMMENT 'Monthly manager cost (Million VND)',
-    monthly_utility_cost FLOAT COMMENT 'Monthly utilities cost (Million VND)',
-    legal_risk_score FLOAT COMMENT 'Legal risk score (0.0 - 1.0)',
-    environment_desc VARCHAR(255) COMMENT 'Environment description',
-    FOREIGN KEY (premise_id) REFERENCES premises(id) ON DELETE CASCADE
+CREATE TABLE opponent_stores (
+    id INT PRIMARY KEY,
+    district_id INT,
+    ward_id INT,
+    name VARCHAR(255),
+    address TEXT,
+    latitude DOUBLE,
+    longitude DOUBLE,
+    FOREIGN KEY (district_id) REFERENCES districts(id),
+    FOREIGN KEY (ward_id) REFERENCES wards(id)
 );
 
--- Table: demographics (formerly dan_cu)
-CREATE TABLE demographics (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    premise_id INT UNIQUE,
-    population_density FLOAT COMMENT 'People per km2',
-    avg_income FLOAT COMMENT 'Average income (Million VND/month)',
-    avg_age INT COMMENT 'Average age',
-    FOREIGN KEY (premise_id) REFERENCES premises(id) ON DELETE CASCADE
+CREATE TABLE rental_shops (
+    id INT PRIMARY KEY,
+    ward_id INT,
+    address TEXT,
+    price FLOAT, -- Million VND/month
+    area FLOAT, -- m2
+    frontage FLOAT, -- m
+    description TEXT,
+    FOREIGN KEY (ward_id) REFERENCES wards(id) ON DELETE SET NULL
 );
 
--- Table: existing_stores (formerly cua_hang)
-CREATE TABLE existing_stores (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    ward_id INT NOT NULL,
-    latitude DOUBLE NOT NULL,
-    longitude DOUBLE NOT NULL,
-    name VARCHAR(200),
-    store_type ENUM('COMPETITOR', 'OWN_STORE') DEFAULT 'COMPETITOR',
-    FOREIGN KEY (ward_id) REFERENCES wards(id) ON DELETE CASCADE
+CREATE TABLE shop_opponent_distances (
+    id INT PRIMARY KEY,
+    shop_id INT,
+    opponent_id INT,
+    distance_km FLOAT,
+    FOREIGN KEY (shop_id) REFERENCES rental_shops(id) ON DELETE CASCADE,
+    FOREIGN KEY (opponent_id) REFERENCES opponent_stores(id) ON DELETE CASCADE
 );
 
--- Table: distances (formerly khoang_cach_cua_hang)
-CREATE TABLE distances (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    premise_id INT,
-    store_id INT,
-    distance_meters FLOAT COMMENT 'Distance in meters',
-    UNIQUE (premise_id, store_id),
-    FOREIGN KEY (premise_id) REFERENCES premises(id) ON DELETE CASCADE,
-    FOREIGN KEY (store_id) REFERENCES existing_stores(id) ON DELETE CASCADE
+CREATE TABLE other_factors (
+    id INT PRIMARY KEY,
+    rental_shop_id INT,
+    foot_traffic INT,
+    employee_cost FLOAT,
+    utilities_cost FLOAT,
+    FOREIGN KEY (rental_shop_id) REFERENCES rental_shops(id) ON DELETE CASCADE
 );

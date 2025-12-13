@@ -1,960 +1,960 @@
 - id: 1
   rental_shop_id: 1
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 10500.0
 - id: 2
   rental_shop_id: 2
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 4360.0
 - id: 3
   rental_shop_id: 3
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10682.0
 - id: 4
   rental_shop_id: 4
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 5
   rental_shop_id: 5
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 6
   rental_shop_id: 6
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10682.0
 - id: 7
   rental_shop_id: 7
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 8
   rental_shop_id: 8
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 1000.0
 - id: 9
   rental_shop_id: 9
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 1635.0
 - id: 10
   rental_shop_id: 10
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 220
   utilities_cost: 57400.0
 - id: 11
   rental_shop_id: 11
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 200
   utilities_cost: 50000.0
 - id: 12
   rental_shop_id: 12
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 140
   utilities_cost: 26705.0
 - id: 13
   rental_shop_id: 13
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 80
   utilities_cost: 13625.0
 - id: 14
   rental_shop_id: 14
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 5000.0
 - id: 15
   rental_shop_id: 15
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 7500.0
 - id: 16
   rental_shop_id: 16
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 600
   utilities_cost: 109000.0
 - id: 17
   rental_shop_id: 17
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 260
   utilities_cost: 46325.0
 - id: 18
   rental_shop_id: 18
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 7700.0
 - id: 19
   rental_shop_id: 19
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 9400.0
 - id: 20
   rental_shop_id: 20
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 5000.0
 - id: 21
   rental_shop_id: 21
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 280
   utilities_cost: 94000.0
 - id: 22
   rental_shop_id: 22
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 5000.0
 - id: 23
   rental_shop_id: 23
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 24
   rental_shop_id: 24
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 25
   rental_shop_id: 25
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 60
   utilities_cost: 13000.0
 - id: 26
   rental_shop_id: 26
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 1635.0
 - id: 27
   rental_shop_id: 27
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 100
   utilities_cost: 17440.0
 - id: 28
   rental_shop_id: 28
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 29
   rental_shop_id: 29
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 30
   rental_shop_id: 30
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10682.0
 - id: 31
   rental_shop_id: 31
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 32
   rental_shop_id: 32
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 180
   utilities_cost: 45000.0
 - id: 33
   rental_shop_id: 33
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 160
   utilities_cost: 40000.0
 - id: 34
   rental_shop_id: 34
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 120
   utilities_cost: 30000.0
 - id: 35
   rental_shop_id: 35
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 120
   utilities_cost: 37600.0
 - id: 36
   rental_shop_id: 36
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 80
   utilities_cost: 20000.0
 - id: 37
   rental_shop_id: 37
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 800
   utilities_cost: 200000.0
 - id: 38
   rental_shop_id: 38
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 80
   utilities_cost: 20000.0
 - id: 39
   rental_shop_id: 39
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 40
   utilities_cost: 11750.0
 - id: 40
   rental_shop_id: 40
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 40
   utilities_cost: 14100.0
 - id: 41
   rental_shop_id: 41
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 5000.0
 - id: 42
   rental_shop_id: 42
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 40
   utilities_cost: 12220.0
 - id: 43
   rental_shop_id: 43
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 140
   utilities_cost: 36000.0
 - id: 44
   rental_shop_id: 44
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 100
   utilities_cost: 26000.0
 - id: 45
   rental_shop_id: 45
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10900.0
 - id: 46
   rental_shop_id: 46
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 47
   rental_shop_id: 47
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 48
   rental_shop_id: 48
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 60
   utilities_cost: 13000.0
 - id: 49
   rental_shop_id: 49
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 280
   utilities_cost: 70000.0
 - id: 50
   rental_shop_id: 50
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 5640.0
 - id: 51
   rental_shop_id: 51
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 5640.0
 - id: 52
   rental_shop_id: 52
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 53
   rental_shop_id: 53
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 54
   rental_shop_id: 54
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10682.0
 - id: 55
   rental_shop_id: 55
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 56
   rental_shop_id: 56
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 10000.0
 - id: 57
   rental_shop_id: 57
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 6500.0
 - id: 58
   rental_shop_id: 58
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 3008.0
 - id: 59
   rental_shop_id: 59
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 220
   utilities_cost: 56000.0
 - id: 60
   rental_shop_id: 60
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 120
   utilities_cost: 30000.0
 - id: 61
   rental_shop_id: 61
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 10000.0
 - id: 62
   rental_shop_id: 62
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 560
   utilities_cost: 188000.0
 - id: 63
   rental_shop_id: 63
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 500
   utilities_cost: 90470.0
 - id: 64
   rental_shop_id: 64
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 7050.0
 - id: 65
   rental_shop_id: 65
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 40
   utilities_cost: 11280.0
 - id: 66
   rental_shop_id: 66
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 200
   utilities_cost: 50000.0
 - id: 67
   rental_shop_id: 67
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 5000.0
 - id: 68
   rental_shop_id: 68
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 490.5
 - id: 69
   rental_shop_id: 69
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 80
   utilities_cost: 26320.0
 - id: 70
   rental_shop_id: 70
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 140
   utilities_cost: 47000.0
 - id: 71
   rental_shop_id: 71
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 7000.0
 - id: 72
   rental_shop_id: 72
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 4000.0
 - id: 73
   rental_shop_id: 73
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 140
   utilities_cost: 47000.0
 - id: 74
   rental_shop_id: 74
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 300
   utilities_cost: 54500.0
 - id: 75
   rental_shop_id: 75
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 160
   utilities_cost: 28340.0
 - id: 76
   rental_shop_id: 76
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 77
   rental_shop_id: 77
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 78
   rental_shop_id: 78
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10682.0
 - id: 79
   rental_shop_id: 79
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 80
   rental_shop_id: 80
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4700.0
 - id: 81
   rental_shop_id: 81
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 3760.0
 - id: 82
   rental_shop_id: 82
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 3815.0
 - id: 83
   rental_shop_id: 83
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 60
   utilities_cost: 14000.0
 - id: 84
   rental_shop_id: 84
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 240
   utilities_cost: 60000.0
 - id: 85
   rental_shop_id: 85
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 4905.0
 - id: 86
   rental_shop_id: 86
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 3500.0
 - id: 87
   rental_shop_id: 87
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 40
   utilities_cost: 11280.0
 - id: 88
   rental_shop_id: 88
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 160
   utilities_cost: 29430.0
 - id: 89
   rental_shop_id: 89
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 140
   utilities_cost: 26705.0
 - id: 90
   rental_shop_id: 90
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 10000.0
 - id: 91
   rental_shop_id: 91
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 10000.0
 - id: 92
   rental_shop_id: 92
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 200
   utilities_cost: 50000.0
 - id: 93
   rental_shop_id: 93
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 200
   utilities_cost: 50000.0
 - id: 94
   rental_shop_id: 94
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 60
   utilities_cost: 15000.0
 - id: 95
   rental_shop_id: 95
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 4000.0
 - id: 96
   rental_shop_id: 96
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 3500.0
 - id: 97
   rental_shop_id: 97
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 3760.0
 - id: 98
   rental_shop_id: 98
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 10000.0
 - id: 99
   rental_shop_id: 99
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 6000.0
 - id: 100
   rental_shop_id: 100
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 101
   rental_shop_id: 101
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 102
   rental_shop_id: 102
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10682.0
 - id: 103
   rental_shop_id: 103
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 104
   rental_shop_id: 104
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 760
   utilities_cost: 190000.0
 - id: 105
   rental_shop_id: 105
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 600
   utilities_cost: 109000.0
 - id: 106
   rental_shop_id: 106
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 80
   utilities_cost: 20000.0
 - id: 107
   rental_shop_id: 107
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 80
   utilities_cost: 20000.0
 - id: 108
   rental_shop_id: 108
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 9950.0
 - id: 109
   rental_shop_id: 109
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 80
   utilities_cost: 20000.0
 - id: 110
   rental_shop_id: 110
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 160
   utilities_cost: 40000.0
 - id: 111
   rental_shop_id: 111
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 4200.0
 - id: 112
   rental_shop_id: 112
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 140
   utilities_cost: 35000.0
 - id: 113
   rental_shop_id: 113
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 160
   utilities_cost: 40000.0
 - id: 114
   rental_shop_id: 114
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 160
   utilities_cost: 40000.0
 - id: 115
   rental_shop_id: 115
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 1200.0
 - id: 116
   rental_shop_id: 116
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 100
   utilities_cost: 18530.0
 - id: 117
   rental_shop_id: 117
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 4360.0
 - id: 118
   rental_shop_id: 118
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 4500.0
 - id: 119
   rental_shop_id: 119
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 3000.0
 - id: 120
   rental_shop_id: 120
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 8720.0
 - id: 121
   rental_shop_id: 121
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 3600.0
 - id: 122
   rental_shop_id: 122
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10900.0
 - id: 123
   rental_shop_id: 123
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 60
   utilities_cost: 18800.0
 - id: 124
   rental_shop_id: 124
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 125
   rental_shop_id: 125
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 126
   rental_shop_id: 126
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10682.0
 - id: 127
   rental_shop_id: 127
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 128
   rental_shop_id: 128
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 7630.0
 - id: 129
   rental_shop_id: 129
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 3052.0
 - id: 130
   rental_shop_id: 130
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 10000.0
 - id: 131
   rental_shop_id: 131
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 4360.0
 - id: 132
   rental_shop_id: 132
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 160
   utilities_cost: 27250.0
 - id: 133
   rental_shop_id: 133
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 80
   utilities_cost: 28200.0
 - id: 134
   rental_shop_id: 134
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 8600.0
 - id: 135
   rental_shop_id: 135
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 60
   utilities_cost: 13000.0
 - id: 136
   rental_shop_id: 136
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4700.0
 - id: 137
   rental_shop_id: 137
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 12000.0
 - id: 138
   rental_shop_id: 138
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 320
   utilities_cost: 80000.0
 - id: 139
   rental_shop_id: 139
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 240
   utilities_cost: 79900.0
 - id: 140
   rental_shop_id: 140
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 5000.0
 - id: 141
   rental_shop_id: 141
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 340
   utilities_cost: 83000.0
 - id: 142
   rental_shop_id: 142
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 143
   rental_shop_id: 143
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4700.0
 - id: 144
   rental_shop_id: 144
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 40
   utilities_cost: 11280.0
 - id: 145
   rental_shop_id: 145
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 1692.0
 - id: 146
   rental_shop_id: 146
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 140
   utilities_cost: 25309.8
 - id: 147
   rental_shop_id: 147
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 160
   utilities_cost: 27250.0
 - id: 148
   rental_shop_id: 148
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 149
   rental_shop_id: 149
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 150
   rental_shop_id: 150
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10682.0
 - id: 151
   rental_shop_id: 151
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 152
   rental_shop_id: 152
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 5640.0
 - id: 153
   rental_shop_id: 153
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 3008.0
 - id: 154
   rental_shop_id: 154
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 5000.0
 - id: 155
   rental_shop_id: 155
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 3270.0
 - id: 156
   rental_shop_id: 156
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 3760.0
 - id: 157
   rental_shop_id: 157
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 11990.0
 - id: 158
   rental_shop_id: 158
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 8720.0
 - id: 159
   rental_shop_id: 159
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 7144.0
 - id: 160
   rental_shop_id: 160
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 4360.0
 - id: 161
   rental_shop_id: 161
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 60
   utilities_cost: 18800.0
 - id: 162
   rental_shop_id: 162
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 9000.0
 - id: 163
   rental_shop_id: 163
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 2300.0
 - id: 164
   rental_shop_id: 164
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 165
   rental_shop_id: 165
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 1962.0
 - id: 166
   rental_shop_id: 166
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4700.0
 - id: 167
   rental_shop_id: 167
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 80
   utilities_cost: 20000.0
 - id: 168
   rental_shop_id: 168
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 80
   utilities_cost: 14170.0
 - id: 169
   rental_shop_id: 169
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 80
   utilities_cost: 14170.0
 - id: 170
   rental_shop_id: 170
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 8460.0
 - id: 171
   rental_shop_id: 171
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 220
   utilities_cost: 71440.0
 - id: 172
   rental_shop_id: 172
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 900
   utilities_cost: 163500.0
 - id: 173
   rental_shop_id: 173
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 174
   rental_shop_id: 174
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 60
   utilities_cost: 10682.0
 - id: 175
   rental_shop_id: 175
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 4230.0
 - id: 176
   rental_shop_id: 176
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 100
   utilities_cost: 26500.0
 - id: 177
   rental_shop_id: 177
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 20
   utilities_cost: 2180.0
 - id: 178
   rental_shop_id: 178
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 5170.0
 - id: 179
   rental_shop_id: 179
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 40
   utilities_cost: 11280.0
 - id: 180
   rental_shop_id: 180
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 40
   utilities_cost: 6540.0
 - id: 181
   rental_shop_id: 181
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 80
   utilities_cost: 13843.0
 - id: 182
   rental_shop_id: 182
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 2500.0
 - id: 183
   rental_shop_id: 183
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 80
   utilities_cost: 16350.0
 - id: 184
   rental_shop_id: 184
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 160
   utilities_cost: 27250.0
 - id: 185
   rental_shop_id: 185
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 20
   utilities_cost: 5640.0
 - id: 186
   rental_shop_id: 186
-  foot_traffic: thấp
+  foot_traffic: 1
   employee_cost: 980
   utilities_cost: 329000.0
 - id: 187
   rental_shop_id: 187
-  foot_traffic: cao
+  foot_traffic: 3
   employee_cost: 120
   utilities_cost: 21800.0
 - id: 188
   rental_shop_id: 188
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 1800.0
 - id: 189
   rental_shop_id: 189
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 2000.0
 - id: 190
   rental_shop_id: 190
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 220
   utilities_cost: 54000.0
 - id: 191
   rental_shop_id: 191
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 20
   utilities_cost: 6000.0
 - id: 192
   rental_shop_id: 192
-  foot_traffic: trung bình
+  foot_traffic: 2
   employee_cost: 40
   utilities_cost: 11000.0
