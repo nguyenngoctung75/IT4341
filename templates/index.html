@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hệ Trợ Giúp Quyết Định (DSS) - Chọn Cửa Hàng</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center mb-4">Hệ Thống Hỗ Trợ Tìm Địa Điểm Mở Cửa Hàng</h1>
+
+        {% if error %}
+        <div class="alert alert-danger" role="alert">
+            {{ error }}
+        </div>
+        {% endif %}
+
+        <div class="row">
+            <!-- Sidebar -->
+            <div class="col-md-4">
+                <form method="POST" action="/">
+
+                    <!-- 1. Filters Section -->
+                    <div class="card shadow-sm mb-3">
+                        <div class="card-header bg-info text-white">
+                            <h5 class="mb-0">Bộ lọc</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="mb-3">
+                                <label class="form-label">Ngân sách (Triệu VND/tháng)</label>
+                                <input type="number" class="form-control" name="investment_amount"
+                                    placeholder="Nhập giá tối đa..." value="{{ investment_amount }}">
+                                <small class="text-muted">Để trống nếu không giới hạn</small>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Quận/Huyện</label>
+                                <select class="form-select" id="district-select" name="district">
+                                    <option value="">-- Chọn Quận/Huyện --</option>
+                                    {% for d in districts %}
+                                    <option value="{{ d.id }}" {% if selected_district==d.id %}selected{% endif %}>{{
+                                        d.name }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Phường/Xã</label>
+                                <select class="form-select" id="ward-select" name="ward" {% if not wards %}disabled{%
+                                    endif %}>
+                                    <option value="">-- Chọn Phường/Xã --</option>
+                                    {% for w in wards %}
+                                    <option value="{{ w.id }}" {% if selected_ward==w.id %}selected{% endif %}>{{ w.name
+                                        }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- 2. Weights Section -->
+                    <div class="card shadow-sm">
+                        <div class="card-header bg-primary text-white">
+                            <h5 class="mb-0">Điều chỉnh Trọng số</h5>
+                        </div>
+                        <div class="card-body">
+                            {% for key, val in weights.items() %}
+                            <div class="mb-3">
+                                <label class="form-label d-flex justify-content-between">
+                                    <span>
+                                        {% if key == 'price' %}Giá thuê (Cost)
+                                        {% elif key == 'area' %}Diện tích (Benefit)
+                                        {% elif key == 'frontage' %}Mặt tiền (Benefit)
+                                        {% elif key == 'foot_traffic' %}Lưu lượng khách (Benefit)
+                                        {% elif key == 'employee_cost' %}Chi phí nhân viên (Cost)
+                                        {% elif key == 'utilities_cost' %}Chi phí điện nước (Cost)
+                                        {% elif key == 'min_opponent_dist' %}Cách xa đối thủ (Benefit)
+                                        {% else %}{{ key }}
+                                        {% endif %}
+                                    </span>
+                                    <span class="badge bg-secondary weight-val" id="val-{{ key }}">{{ val }}</span>
+                                </label>
+                                <input type="range" class="form-range weight-slider" id="slider-{{ key }}"
+                                    name="{{ key }}" min="0" max="1" step="0.1" value="{{ val }}">
+                            </div>
+                            {% endfor %}
+
+                            <div class="d-grid mt-4">
+                                <button type="submit" class="btn btn-success">Tính toán & Xếp hạng</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Main Content: Results -->
+            <div class="col-md-8">
+                {% if ranking %}
+                <div class="card shadow-sm">
+                    <div class="card-header bg-success text-white">
+                        <h5 class="mb-0">Kết quả Xếp hạng (TOPSIS)</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover table-bordered">
+                                <thead class="table-light">
+                                    <tr>
+                                        <th>Hạng</th>
+                                        <th>Shop ID</th>
+                                        <th>Địa chỉ</th>
+                                        <th>Điểm TOPSIS</th>
+                                        <th>Giá (Tr.đ)</th>
+                                        <th>Diện tích (m2)</th>
+                                        <th>K/c Đối thủ (km)</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for row in ranking %}
+                                    <tr class="{% if loop.index <= 3 %}table-success fw-bold{% endif %}">
+                                        <td>{{ loop.index }}</td>
+                                        <td>{{ row.shop_id }}</td>
+                                        <td>{{ row.address }}</td>
+                                        <td>{{ row.topsis_score }}</td>
+                                        <td>{{ row.price }}</td>
+                                        <td>{{ row.area }}</td>
+                                        <td>{{ row.min_opponent_dist }}</td>
+                                    </tr>
+                                    {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript for Dynamic UI -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // 1. Slider Value Update
+            const sliders = document.querySelectorAll('.weight-slider');
+            sliders.forEach(slider => {
+                slider.addEventListener('input', function () {
+                    const valId = 'val-' + this.name;
+                    document.getElementById(valId).textContent = this.value;
+                });
+            });
+
+            // 2. Dynamic Wards Dropdown
+            const districtSelect = document.getElementById('district-select');
+            const wardSelect = document.getElementById('ward-select');
+
+            districtSelect.addEventListener('change', function () {
+                const districtId = this.value;
+                wardSelect.innerHTML = '<option value="">-- Chọn Phường/Xã --</option>';
+                wardSelect.disabled = true;
+
+                if (districtId) {
+                    fetch(`/api/wards/${districtId}`)
+                        .then(response => response.json())
+                        .then(data => {
+                            data.forEach(ward => {
+                                const option = document.createElement('option');
+                                option.value = ward.id;
+                                option.textContent = ward.name;
+                                wardSelect.appendChild(option);
+                            });
+                            wardSelect.disabled = false;
+                        })
+                        .catch(err => console.error('Error fetching wards:', err));
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
